@@ -3,11 +3,11 @@
 ## Wo kann man Deutsch sprechen?
 
 1. Deutschland 🇩🇪
-2. Ôsterreich 🇦🇹
+2. Österreich 🇦🇹
 3. Schweiz 🇨🇭
 4. Belgien 🇧🇪
 
-Ûbrigens kannst du auch lesen Niederladisch
+Übrigens kannst du auch lesen Niederladisch
 
 ## Warrum lerne ich noch?
 
