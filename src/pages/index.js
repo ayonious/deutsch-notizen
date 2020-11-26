@@ -34,7 +34,7 @@ function PageHeadLine() {
           src={useBaseUrl("img/logo.png")}
         />
       </div>
-      <Link className={styles.getStartButton} to={useBaseUrl("docs/Konjunktiv12")}>
+      <Link className={styles.getStartButton} to={useBaseUrl("docs/")}>
         Los Geht's
       </Link>
     </div>

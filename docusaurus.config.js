@@ -36,7 +36,7 @@ module.exports = {
           items: [
             {
               label: "JenigeJener",
-              to: "docs/JenigeJener",
+              to: "docs/",
             },
             {
               label: "Konjunktiv12",
