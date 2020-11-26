@@ -1,11 +1,11 @@
 module.exports = {
-  title: "Aprender espanōl", // Title for your website.
+  title: "Detusch Notizen", // Title for your website.
   tagline: "Collection of my interview questions for interview",
   url: "https://deutsch-notizen.netlify.app", // Your website URL
   baseUrl: "/", // Base URL for your project */
 
   favicon: "img/favicon.ico",
-  organizationName: "facebook", // Usually your GitHub org/user name.
+  organizationName: "ayonious", // Usually your GitHub org/user name.
   projectName: "docusaurus", // Usually your repo name.
   themeConfig: {
     sidebarCollapsible: false,
