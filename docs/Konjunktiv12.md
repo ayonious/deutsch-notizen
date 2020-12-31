@@ -17,7 +17,7 @@ sidebar_label: Konjunktiv I und II
 | ihr     | habet  | seiet | lernet (-et)   |
 | sie/Sie | haben  | seien | lernen (-en)   |
 
-## Beispeile
+## Beispiele
 
 - Er sagte, "ich habe nie ein Gewehr gesehen oder in meinen Händen gehalten."
   => Er sagte, er habe nie ein Gewehr gesehen oder in seinen Händen gehalten.
@@ -30,7 +30,7 @@ sidebar_label: Konjunktiv I und II
 - Wünsche
 - Irreale Situation
 
-## Beispeile
+## Beispiele
 
 - Hätten wir mir karte bezahlen können?
 - Hätte ich doch Geld
