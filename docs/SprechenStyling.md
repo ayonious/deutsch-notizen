@@ -15,3 +15,4 @@ Mann soll benutzen diese Wörter und Style, damit seine Deutsch besser klingt.
 - Wir haben viel getanzt. Wir werden besser! (we are getting better)
 - Wenn ich jetzt trinke, kann ich später nicht schlafen. - aber es ist doch erst Morgen. (but its just morning)
 - Du verwirrst mich (You confuse me)
+- Bitte halten Sie ihn vom Leid und Tragodie ab, die ihn erwartet.
