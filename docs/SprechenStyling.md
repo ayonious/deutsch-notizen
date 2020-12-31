@@ -6,7 +6,7 @@ sidebar_label: SprechenStyling
 
 # Style
 
-Mann soll benutzen diese Wörter und Style damit seine Deutsch klingt besser.
+Mann soll benutzen diese Wörter und Style, damit seine Deutsch besser klingt.
 
 # Beispiel
 
