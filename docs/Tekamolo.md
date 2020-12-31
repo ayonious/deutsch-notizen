@@ -10,4 +10,4 @@ sidebar_label: Tekamolo
 | --------------- | ------- | ------------------ | --------------------- | ---------------- | -------------- |
 |                 | Wann?   | Warrum?            | Wie?                  | Wo?              |                |
 |                 | Heute   | wegen unser Urlaub | gehen wir mit dem Bus | nach Deutschland |                |
-| Das Auto musste | gestern |                    | mit viel Geld         | von Frankreich   | gekauft werden |
+| Das Auto müsste | gestern |                    | mit viel Geld         | von Frankreich   | gekauft werden |
