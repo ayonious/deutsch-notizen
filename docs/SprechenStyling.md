@@ -19,3 +19,4 @@ Mann soll diese Wörter und Style benutzen, damit seine Deutsch besser klingt.
 - Ich werde durch die Welt ziehen (go through the world)
 - warum ausgerechnet jetzt? (why now of all times?)
 - Ich will kindern im Glauben meiner Eltern erziehen
+- Diesen Film muss man einfach gesehen haben. (The film is a must see)
