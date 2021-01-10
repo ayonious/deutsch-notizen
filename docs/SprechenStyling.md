@@ -20,3 +20,4 @@ Mann soll diese Wörter und Style benutzen, damit seine Deutsch besser klingt.
 - warum ausgerechnet jetzt? (why now of all times?)
 - Ich will kindern im Glauben meiner Eltern erziehen
 - Diesen Film muss man einfach gesehen haben. (The film is a must see)
+- Alte Menschen leiden an Krankheiten.

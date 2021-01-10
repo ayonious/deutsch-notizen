@@ -1,7 +1,7 @@
 ---
-id: Tekamolo
-title: Tekamolo
-sidebar_label: Tekamolo
+id: B2Wortschatz
+title: B2Wortschatz
+sidebar_label: Wortschatz
 ---
 
 # A
