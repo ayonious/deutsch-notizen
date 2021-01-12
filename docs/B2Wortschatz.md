@@ -17,6 +17,10 @@ Qüalerei => leid tun. Punish
 
 Mahlen => Grind. Getreide(grain) Mahlen
 
+# U
+
+Übrigens: (Besides) Übrigens kannst du auch Niederlandisch Sprechen
+
 # V
 
 Verdauen => to get rotten. Im Magen und Darm wird das Essen verdaut
