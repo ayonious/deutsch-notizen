@@ -27,6 +27,9 @@ als auch mit der Service unzufrieden.
 In Ihrer Anzeige wurde versprochen, dass Der zimmer hat mindestens eigene Toilette.
 Aber leider musste ich die Toilette mit andere Leute in Hotel teilen.
 
+Mit freundlichen Grüßen,
+Nahiyan
+
 ```
 
 # Bewerbungsbrief um eine Praktikantstelle
