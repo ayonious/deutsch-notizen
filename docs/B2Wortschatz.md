@@ -6,8 +6,13 @@ sidebar_label: Wortschatz
 
 # A
 
-Ausrotten => eine art von tiene Komplett vernichten
 Angelegenheit => (en: Matter) Das ist ein Familienangelegenheit. [This is a family Matter]
+Anständig:(decent) anständig essen
+Ausrotten(extinct) => eine art von Tiere komplett vernichten
+
+# B
+
+Bedauern(regret): Zu ihrem großen Bedauern arbeitet sie auch als Prostituierte
 
 # Q
 
