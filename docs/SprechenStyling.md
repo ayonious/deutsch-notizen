@@ -22,3 +22,4 @@ Mann soll diese Wörter und Style benutzen, damit seine Deutsch besser klingt.
 - Diesen Film muss man einfach gesehen haben. (The film is a must see)
 - Alte Menschen leiden an Krankheiten.
 - Zu ihrem großen Bedauern arbeitet sie auch als Prostituierte
+- Wir rechnen damit, dass unsere Museum jedes tag von etwas 100 Menschen besucht werden wird.
