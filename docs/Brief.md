@@ -43,13 +43,13 @@ mich als Praktikant bei Ihnen bewerben.
 
 Die Projecte die Sie gerade machen finde ich sehr interessant. Ich bin schon ein
 Kunde von die Reise24 Website. Ich habe die ganze Website durch gesucht und über
-die Technische instructionen gelesen. Ich habe ein Paar Methode gefunden mit dem
+die Technische instruktionen gelesen. Ich habe ein Paar Methode gefunden mit dem
 Sie verschiedene bereich verbssern können. Aber erst kann ich er weiter entwickeln
 wenn ich Erfahrung in Praxis habe.
 
 In meine 6. Semester habe ich schon meine Eigene Profil mit Frontend Entwicklung
 gemacht und wollte das mit diese Brief mitteilen. Meine Website können Sie besuhen
-in https://www.example.com. Ich habe die gleiche Technologie benutzt wie Ihre
+auf https://www.example.com. Ich habe die gleiche Technologie benutzt wie Ihre
 Website. Aber ich will weiter daruber arbeiten und dafur will ich hier arbeiten.
 
 Bitte schreiben Sie mir zurück, wenn es Ihnen gefallen hat. Über eine Positiv
