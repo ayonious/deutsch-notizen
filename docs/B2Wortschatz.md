@@ -21,6 +21,11 @@ Qüalerei => leid tun. Punish
 # M
 
 Mahlen => Grind. Getreide(grain) Mahlen
+Meinst du => Denkst du? Es kann auch bedeuten (what do you think?) und auch (what do you mean?)
+
+# N
+
+Nachmachen: (Kopieren) Gegenteil von Vormachen => jemand zeigen wie etwas gemacht wird
 
 # U
 
