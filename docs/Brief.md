@@ -60,4 +60,17 @@ Nahiyan
 
 ```
 
+# BeschwerdeBrief Urlaub (andere Version)
+
+```text
+Betreff: Ruckforderung meine Zahlung von 300 Euro.
+
+Sdehr geehrte damen und Herren,
+Ich habe vom 1.1.2019 bis an Ihrem Trainingcamp teilgenommen
+
+
+```
+
 # BeschwerdeBrief für etwas auf online einkaufen
+
+# Bitte um mehr informationen (Email)

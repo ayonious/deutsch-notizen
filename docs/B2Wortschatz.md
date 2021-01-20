@@ -14,6 +14,18 @@ Ausrotten(extinct) => eine art von Tiere komplett vernichten
 
 Bedauern(regret): Zu ihrem großen Bedauern arbeitet sie auch als Prostituierte
 
+# D
+
+Düster: (dark): Die Welt sieht düsterer aus
+
+# E
+
+Etliche (quite a few) ich habe etliche hundert mal das erlernt
+
+# J
+
+jedenfalls: (at least), jedenfalls kommt es mir so vor (at least thats how I felt)
+
 # Q
 
 Qüalerei => leid tun. Punish
@@ -36,3 +48,5 @@ Nachmachen: (Kopieren) Gegenteil von Vormachen => jemand zeigen wie etwas gemach
 Verdauen => to get rotten. Im Magen und Darm wird das Essen verdaut
 Verzehen => essen
 vernichten => destroy / eradicate
+Vor haben => (wollen) ich hätte das immer vor Berlin zu kommen
+es kommt mir vor => (I felt like) jedenfalls kommt es mir so vor.
