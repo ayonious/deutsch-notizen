@@ -1,7 +1,7 @@
 ---
 id: B2MundlichPrufung
-title: B2MundlichPrufung
-sidebar_label: B2MundlichPrufung
+title: MundlichPrufung
+sidebar_label: MundlichPrufung
 ---
 
 # Teil1: (Über Erfahrung Sprechen): (2-3 minuten prasenttion + 20 minuten vorbereiten)
