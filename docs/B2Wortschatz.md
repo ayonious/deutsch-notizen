@@ -34,6 +34,7 @@ Qüalerei => leid tun. Punish
 # M
 
 Mahlen => Grind. Getreide(grain) Mahlen
+Mangel: Scarcity. Viele menschen leiden heutezutage unter bewegungsmangel
 Meinst du => Denkst du? Es kann auch bedeuten (what do you think?) und auch (what do you mean?)
 
 # N
@@ -43,6 +44,7 @@ Nachmachen: (Kopieren) Gegenteil von Vormachen => jemand zeigen wie etwas gemach
 # U
 
 Übrigens: (Besides) Übrigens kannst du auch Niederlandisch Sprechen
+Unter leiden: Suffer from. Viele menschen leiden heutezutage unter bewegungsmangel
 
 # V
 
