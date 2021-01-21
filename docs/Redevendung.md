@@ -4,7 +4,7 @@ title: Redevendung
 sidebar_label: Redevendungen
 ---
 
-# Redevendungen
+## Redevendungen
 
 Ich sammle hier die am häufigsten verwendeten Redewendungen, die ich je gehört habe
 
@@ -20,3 +20,7 @@ Ich Wünsche dir ganz viel Glück und drücke dir die beide Daumen fùr deine Pr
 ### Na? => Wie geht es dir? => What's up?
 
 Na? Alles in ordnung?
+
+### Etwas vor haben => Plan haben
+
+Ich wollte das immer vor.

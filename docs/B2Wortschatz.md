@@ -9,6 +9,7 @@ sidebar_label: Wortschatz
 Angelegenheit => (en: Matter) Das ist ein Familienangelegenheit. [This is a family Matter]
 Anständig:(decent) anständig essen
 Ausrotten(extinct) => eine art von Tiere komplett vernichten
+Aufgefallen(bemerken) => es hat mir aufgefallen, dass du immer spät kommst. Sie ist mir aufgefallen. Unauffallig => schwer zu sehen.
 
 # B
 
