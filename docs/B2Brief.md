@@ -32,6 +32,20 @@ Nahiyan
 
 ```
 
+# Beschwerde Email um eine Coding Training Camp
+
+```text
+Betreff: Beschwerde über meine Urlaub
+
+sehr geehrte Damen und Herren,
+aufgrund Ihrer Anzeige in der Zeitung "HellBrot" habe ich vom 02. - 09.01.2019 an Ihre "Coding Camping" am Munchen Teilgenommen.
+
+Die Anzeigen war wirklich gut. Es hat versprochen viel übungungen mit Personlich Lehrer. Ich habe sofort angemeldet.
+
+Leider bin ich sehr unzufrieden.
+
+```
+
 # Bewerbungsbrief um eine Praktikantstelle
 
 ```text
