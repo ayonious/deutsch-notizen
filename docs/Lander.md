@@ -22,6 +22,7 @@ sidebar_label: Lander
 | die USA (pl)         | der Amerikaner   | die Amerikanerin   | amerikanisch   | aus den USA          |
 | Mexiko               | der Mexikaner    | die Mexikanerin    | mexikanisch    | aus Mexiko           |
 | die Niederlande (pl) | der Niederländer | die Niederländerin | niederländisch | aus den Niederlanden |
+| Griechenland         | der Grieche      | die Griechin       | griechisch     |
 
 ## Findest du mehr hier
 
