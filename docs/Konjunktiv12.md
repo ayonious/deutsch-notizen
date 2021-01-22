@@ -43,7 +43,7 @@ sidebar_label: Konjunktiv I und II
 
 ### Konjunktiv II(irreale mit Würde)
 
-English: I would never do that if I were you.
+Englisch: I would never do that if I were you.
 Deutsch: Wenn ich du wäre, würde ich es nie tun.
 
 |        | Würde (would)                  |
