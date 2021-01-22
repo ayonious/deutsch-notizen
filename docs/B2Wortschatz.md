@@ -34,7 +34,8 @@ Qüalerei => leid tun. Punish
 
 # S
 
-Stets => stets. Kaum Sonne, stets regnen
+Stets => (immer) Kaum Sonne, stets regnen
+schulden => (owe) Sie schulden mir Geld. Du schuldest mir geld (ich kriege Geld von dir)
 
 # M
 
