@@ -7,9 +7,10 @@ sidebar_label: Wortschatz
 # A
 
 Angelegenheit => (en: Matter) Das ist ein Familienangelegenheit. [This is a family Matter]
+Aufgefallen(bemerken) => es hat mir aufgefallen, dass du immer spät kommst. Sie ist mir aufgefallen. Unauffallig => schwer zu sehen.
 Anständig:(decent) anständig essen
 Ausrotten(extinct) => eine art von Tiere komplett vernichten
-Aufgefallen(bemerken) => es hat mir aufgefallen, dass du immer spät kommst. Sie ist mir aufgefallen. Unauffallig => schwer zu sehen.
+Auswendig => (by heart) er konnte das Periodensystem auswendig
 
 # B
 
