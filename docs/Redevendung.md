@@ -24,3 +24,7 @@ Na? Alles in ordnung?
 ### Etwas vor haben => Plan haben
 
 Ich wollte das immer vor.
+
+### Sich nicht trauen => kein mut haben
+
+Ich traue mich nicht aus den Haus zu gehen. (wegen CORONA?)

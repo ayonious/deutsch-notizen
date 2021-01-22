@@ -32,6 +32,10 @@ jedenfalls: (at least), jedenfalls kommt es mir so vor (at least thats how I fel
 
 Qüalerei => leid tun. Punish
 
+# S
+
+Stets => stets. Kaum Sonne, stets regnen
+
 # M
 
 Mahlen => Grind. Getreide(grain) Mahlen
