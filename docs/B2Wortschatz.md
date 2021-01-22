@@ -58,4 +58,7 @@ Verdauen => to get rotten. Im Magen und Darm wird das Essen verdaut
 Verzehen => essen
 vernichten => destroy / eradicate
 Vor haben => (wollen) ich hätte das immer vor Berlin zu kommen
+Verwählt => (dial wrong) Verziehung, ich habe mich verwählt.
+Verrät => (erklaren)
+Verlernen => (vergessen) Kochen verlernt man nicht.
 es kommt mir vor => (I felt like) jedenfalls kommt es mir so vor.

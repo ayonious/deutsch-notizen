@@ -15,6 +15,7 @@ Nebensatz, Hauptsatz machen den Unterschied zwischen Muttersprachlern und Lernen
 3. Ich freue mich, weil ich ein Fahrrad bekommen habe.
 4. gehe ich nach Hause, damit ich meine Hausaufgabe machen kann.
 5. Ich fahre jedentag mit dem Fahrrad, obwohl ich ein Ticket für Strassenbahn habe.
+6. Weil ich kein Geld habe, muss ich sparen
 
 ## Wenn
 
@@ -25,3 +26,7 @@ Nebensatz, Hauptsatz machen den Unterschied zwischen Muttersprachlern und Lernen
 
 1. Jedentag gehe ich ins Kino, trotzdem kaufe ich den Filme
 2. Jedentag gehe ich ins Kino, deshalb weiss ich so viel über Schauspielern.
+
+## Denn
+
+1. Ich studiere, denn ich will gute Noten bekommen.
