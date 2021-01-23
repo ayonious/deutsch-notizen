@@ -26,6 +26,7 @@ Würde man diesem Fisch so etwas zutrauen?
 
 Viele Menschen werden gefragt.
 Wir werden besser.
+Gastronomie Betriebe werden geschlossen.
 
 ## Wird
 
