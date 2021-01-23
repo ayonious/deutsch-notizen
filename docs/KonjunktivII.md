@@ -1,37 +1,16 @@
 ---
-id: Konjunktiv12
-title: Konjunktiv I und II
-sidebar_label: Konjunktiv I und II
+id: KonjunktivII
+title: KonjunktivII
+sidebar_label: KonjunktivII
 ---
 
-## Konjunktiv I
-
-- Indirect rede
-
-| persone | habe   | bin   | lern           |
-| ------- | ------ | ----- | -------------- |
-| ich     | habe   | sei   | lerne (-e)     |
-| du      | habest | seist | lernest (-est) |
-| er/sie  | habe   | sei   | lerne (-e)     |
-| wir     | haben  | seien | lernen (-en)   |
-| ihr     | habet  | seiet | lernet (-et)   |
-| sie/Sie | haben  | seien | lernen (-en)   |
-
-### Beispiele
-
-- Er sagte, "ich habe nie ein Gewehr gesehen oder in meinen Händen gehalten."
-  => Er sagte, er habe nie ein Gewehr gesehen oder in seinen Händen gehalten.
-
-- Er sagte, "ich bin immer gut"
-  => Er sagte, er sei immer gut.
-
-## Konjunktiv II
+## Wann?
 
 - Wünsche
 - Irreale Situation
 - Höflichkeit
 
-### Konjunktiv II(Wünsche)
+### Wünsche
 
 | Verb   | habe                               |
 | ------ | ---------------------------------- |
@@ -41,7 +20,7 @@ sidebar_label: Konjunktiv I und II
 | Könnte | ich doch nur lesen                 |
 | Müsste |                                    |
 
-### Konjunktiv II(irreale mit Würde)
+### irreale mit Würde
 
 Englisch: I would never do that if I were you.
 Deutsch: Wenn ich du wäre, würde ich es nie tun.
@@ -55,11 +34,11 @@ Deutsch: Wenn ich du wäre, würde ich es nie tun.
 | ihr    | würdet                         |
 | Sie    | würden nie solche dinge kaufen |
 
-### Konjunktiv II(bitte)
+### Bitte (mit höflichkeit)
 
 - Wärst du so freundlich an die Tafel zu schreiben? (gegenwart + hoflichkeit) - (Would you be so kind..)
 
-### Konjunktiv II(mit nebensatz)
+### mit nebensatz (irrealer Wünsch)
 
 - Wenn es so einfach wäre, hätte es jeder getan
 - Wenn ich gewusst hätte, dass er in Gefahr ist, hätte ich den Arzt angerufen
