@@ -42,5 +42,15 @@ sidebar_label: Konjunktiv I
 | ihr     | könnet  | müsset  | sollet (-et)   | (-et)  |
 | sie/Sie | können  | müssen  | sollen (-en)   | (-en)  |
 
-Er sagt, "Ich muss arbeiten",
+Er sagt, "Ich muss arbeiten"
 Er sagte, er müsse arbeiten
+
+Mein chef hat gesagt, man müsse dagegen immer alcohol Trinken
+
+### Zeit
+
+|     | Zeit    | müssen  | sollen         | wollen |
+| --- | ------- | ------- | -------------- | ------ |
+| er  | könne   | müsse   | solle (-e)     | (-e)   |
+| er  | könnest | müssest | sollest (-est) | (-est) |
+| er  | könne   | müsse   | solle (-e)     | (-e)   |

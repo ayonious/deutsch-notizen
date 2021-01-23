@@ -10,12 +10,15 @@ Nebensatz, Hauptsatz machen den Unterschied zwischen Muttersprachlern und Lernen
 
 ## Weil/Damit//Obwohl
 
-1. Ich gehe jedentag Joggen, weil es spaß macht.
-2. Ich habe ihn gesagt, dass er warten soll.
-3. Ich freue mich, weil ich ein Fahrrad bekommen habe.
-4. gehe ich nach Hause, damit ich meine Hausaufgabe machen kann.
-5. Ich fahre jedentag mit dem Fahrrad, obwohl ich ein Ticket für Strassenbahn habe.
-6. Weil ich kein Geld habe, muss ich sparen
+| Haupt                               | konnectur | neben                                 |
+| ----------------------------------- | --------- | ------------------------------------- |
+| Ich gehe jedentag Joggen,           | weil      | es spaß macht.                        |
+| Ich habe ihn gesagt,                | dass      | er warten soll.                       |
+| Ich freue mich,                     | weil      | ein Fahrrad bekommen habe.            |
+| Ich fahre jedentag mit dem Fahrrad, | obwohl    | ich ein Ticket für Strassenbahn habe. |
+| gehe ich nach Hause,                | damit     | ich meine Hausaufgabe machen kann.    |
+
+6.  Weil ich kein Geld habe, muss ich sparen
 
 ## Wenn
 

@@ -35,12 +35,42 @@ module.exports = {
           title: "Basics",
           items: [
             {
-              label: "JenigeJener",
-              to: "docs/",
+              label: "Tekamolo",
+              to: "docs/Tekamolo",
             },
             {
-              label: "Konjunktiv12",
-              to: "docs/Konjunktiv12",
+              label: "PlusquimPerfekt",
+              to: "docs/PlusquimPerfekt",
+            },
+          ],
+        },
+        {
+          title: "MittelStufe",
+          items: [
+            {
+              label: "KonjunktivI",
+              to: "docs/KonjunktivI",
+            },
+            {
+              label: "KonjunktivII",
+              to: "docs/KonjunktivII",
+            },
+            {
+              label: "Haupt&Nebensatz",
+              to: "docs/Nebensatz",
+            },
+          ],
+        },
+        {
+          title: "FortGeschrittene",
+          items: [
+            {
+              label: "Passiv",
+              to: "docs/Passiv",
+            },
+            {
+              label: "DerenDessen",
+              to: "docs/DerenDessen",
             },
           ],
         },
