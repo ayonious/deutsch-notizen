@@ -17,6 +17,9 @@ Nebensatz, Hauptsatz machen den Unterschied zwischen Muttersprachlern und Lernen
 | Ich freue mich,                     | weil      | ein Fahrrad bekommen habe.            |
 | Ich fahre jedentag mit dem Fahrrad, | obwohl    | ich ein Ticket für Strassenbahn habe. |
 | gehe ich nach Hause,                | damit     | ich meine Hausaufgabe machen kann.    |
+| Er hat schon gestorben,             | als       | der Artz kam.                         |
+| Du warst sehr klein,                | als       | dein Vater starb.                     |
+| Sag mir bescheid,                   | wann      | du Geld brauchst.                     |
 
 6.  Weil ich kein Geld habe, muss ich sparen
 
