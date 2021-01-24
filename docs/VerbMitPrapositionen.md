@@ -16,3 +16,7 @@ Denk an
 ## E
 
 Einfluss auf
+
+## W
+
+Warten auf

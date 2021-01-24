@@ -4,7 +4,36 @@ title: Brief
 sidebar_label: Brief
 ---
 
-# Beschwerdebrief um eine Urlaub
+## Fertig
+
+# Bewerbungsbrief um eine Praktikantstelle
+
+```text
+Sehr geehrte Damen und Herren,
+
+ich studiere im 8.Semester Informatic Wissenschaft an der Universitat Rom. Um mein
+Studium abzuschliessen, muss ich ein Praktikum im Ausland machen, daher möchte ich
+mich als Praktikant bei Ihnen bewerben.
+
+Die Projecte die Sie gerade machen finde ich sehr interessant. Ich bin schon ein
+Kunde von die Reise24 Website. Ich habe die Website viel benutzt und über
+die Technische instruktionen gelesen.
+
+In meine 6. Semester habe ich schon meine Eigene Profil mit Frontend Entwicklung
+gemacht und wollte das mit diese Brief mitteilen. Meine Profil können Sie besuhen
+auf https://www.example.com. Ich habe die gleiche Technologie benutzt wie Ihre
+Website. Aber ich will weiter darüber arbeiten und dafür will ich hier arbeiten.
+
+Bitte schreiben Sie mir zurück, wenn mein Profil Ihnen gefallen hat. Über eine Positiv
+Antwort würde ich mich sehr freuen.
+
+Mit freundlichen Grüßen,
+Nahiyan
+```
+
+# Noch nitch fertig
+
+### Beschwerdebrief über eine Urlaub
 
 ```text
 Nayan Jamaka(Absender)
@@ -32,7 +61,7 @@ Nahiyan
 
 ```
 
-# Beschwerde Email um eine Coding Training Camp
+### Beschwerde Email um eine Coding Training Camp
 
 ```text
 Betreff: Beschwerde über meine Urlaub
@@ -46,35 +75,7 @@ Leider bin ich sehr unzufrieden.
 
 ```
 
-# Bewerbungsbrief um eine Praktikantstelle
-
-```text
-Sehr geehrte Damen und Herren,
-
-ich studiere im 8.Semester Informatic Wissenschaft an der Universitat Rom. Um mein
-Studium abzuschliessen, muss ich ein Praktikum im Ausland machen, daher möchte ich
-mich als Praktikant bei Ihnen bewerben.
-
-Die Projecte die Sie gerade machen finde ich sehr interessant. Ich bin schon ein
-Kunde von die Reise24 Website. Ich habe die ganze Website durch gesucht und über
-die Technische instruktionen gelesen. Ich habe ein Paar Methode gefunden mit dem
-Sie verschiedene bereich verbssern können. Aber erst kann ich er weiter entwickeln
-wenn ich Erfahrung in Praxis habe.
-
-In meine 6. Semester habe ich schon meine Eigene Profil mit Frontend Entwicklung
-gemacht und wollte das mit diese Brief mitteilen. Meine Website können Sie besuhen
-auf https://www.example.com. Ich habe die gleiche Technologie benutzt wie Ihre
-Website. Aber ich will weiter daruber arbeiten und dafur will ich hier arbeiten.
-
-Bitte schreiben Sie mir zurück, wenn es Ihnen gefallen hat. Über eine Positiv
-Antwort würde ich mich sehr freuen.
-
-Mit freundlichen Grüßen,
-Nahiyan
-
-```
-
-# BeschwerdeBrief Urlaub (andere Version)
+### BeschwerdeBrief Urlaub (andere Version)
 
 ```text
 Betreff: Ruckforderung meine Zahlung von 300 Euro.
@@ -85,6 +86,6 @@ Ich habe vom 1.1.2019 bis an Ihrem Trainingcamp teilgenommen
 
 ```
 
-# BeschwerdeBrief für etwas auf online einkaufen
+### BeschwerdeBrief für etwas auf online einkaufen
 
-# Bitte um mehr informationen (Email)
+### Bitte um mehr informationen (Email)
