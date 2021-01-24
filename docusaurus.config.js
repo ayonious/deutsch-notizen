@@ -39,37 +39,37 @@ module.exports = {
               to: "docs/Tekamolo",
             },
             {
-              label: "PlusquimPerfekt",
+              label: "Plusquim Perfekt",
               to: "docs/PlusquimPerfekt",
             },
           ],
         },
         {
-          title: "MittelStufe",
+          title: "Mittelstufe",
           items: [
             {
-              label: "KonjunktivI",
+              label: "Konjunktiv I",
               to: "docs/KonjunktivI",
             },
             {
-              label: "KonjunktivII",
+              label: "Konjunktiv II",
               to: "docs/KonjunktivII",
             },
             {
-              label: "Haupt&Nebensatz",
+              label: "Haupt & Nebensatz",
               to: "docs/Nebensatz",
             },
           ],
         },
         {
-          title: "FortGeschrittene",
+          title: "Für Profis",
           items: [
             {
               label: "Passiv",
               to: "docs/Passiv",
             },
             {
-              label: "DerenDessen",
+              label: "Deren & Dessen",
               to: "docs/DerenDessen",
             },
           ],

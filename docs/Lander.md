@@ -15,6 +15,7 @@ sidebar_label: Lander
 | England              | der Engländer    | die Engländerin    |
 | Finnland             | der Finne        | die Finnin         |
 | der Irak (M)         | der Iraker       | die Irakerin       |                | aus dem Irak         |
+| der Iran (M)         | der Iraken       | die Iranerin       |                | aus dem Iran         |
 | die Schweiz (F)      | der Schweizer    | die Schweizerin    |                | aus der Schweiz      |
 | Slowenien            | der Slowene      | die Slowenin       | slowenisch     | aus Slowenien        |
 | Spanien              | der Spanier      | die Spanierin      | spanisch       | aus Spanien          |
