@@ -6,7 +6,7 @@ sidebar_label: Brief
 
 ## Fertig
 
-# Bewerbungsbrief um eine Praktikantstelle
+### Bewerbungsbrief um eine Praktikantstelle
 
 ```text
 Sehr geehrte Damen und Herren,
@@ -53,8 +53,8 @@ aufgrund Ihrer Anzeige in der Zeitung "HellBrot" habe ich vom 02. - 09.01.2019
 eine Woche ein Hotelzimmer gebucht. Leider war ich sowohl mit dem Zimmer,
 als auch mit der Service unzufrieden.
 
-In Ihrer Anzeige wurde versprochen, dass Der zimmer hat mindestens eigene Toilette.
-Aber leider musste ich die Toilette mit andere Leute in Hotel teilen.
+In Ihrer Anzeige wurde versprochen, dass Der zimmer hat eigene Toilette.
+Aber leider musste ich die Toilette mit andere Leute in Hotel mitteilen.
 
 Mit freundlichen Grüßen,
 Nahiyan
