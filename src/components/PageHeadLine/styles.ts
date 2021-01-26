@@ -1,17 +1,5 @@
 import styled from "styled-components";
-import { ColorPrimary } from "../css/variables";
-
-export const Features = styled.section`
-  display: flex;
-  align-items: center;
-  padding: 2rem 0;
-  width: 100%;
-`;
-
-export const FeatureImage = styled.img`
-  height: 200px;
-  width: 200px;
-`;
+import { ColorPrimary } from "../../css/variables";
 
 export const Headline = styled.div`
   background-color: #2b3137;
