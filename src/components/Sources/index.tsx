@@ -1,5 +1,4 @@
 import useBaseUrl from "@docusaurus/useBaseUrl";
-import classnames from "classnames";
 import React from "react";
 
 import sources from "../../utils/sources";
@@ -8,7 +7,7 @@ import { FeatureImage, Features } from "./styles";
 const Feature = ({ imageUrl, title, description }) => {
   const imgUrl = useBaseUrl(imageUrl);
   return (
-    <div className={classnames("col col--4")}>
+    <div className={"col col--4"}>
       {imgUrl && (
         <div className="text--center">
           <FeatureImage src={imgUrl} alt={title} />
