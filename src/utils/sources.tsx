@@ -5,7 +5,7 @@ const sources = [
     title: <>Aus Fernseher</>,
     imageUrl: "img/undraw_movie_night_fldd.svg",
     description: (
-      <>Aus Tolle Filme und Sendungen das ich gesehen und gehört habe.</>
+      <>Aus Tolle Filme und Sendungen die ich gesehen und gehört habe.</>
     ),
   },
   {

@@ -1,22 +1,22 @@
-import React from "react";
-import classnames from "classnames";
-import Layout from "@theme/Layout";
 import Link from "@docusaurus/Link";
-import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import useBaseUrl from "@docusaurus/useBaseUrl";
-import styles from "./styles.module.css";
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+import Layout from "@theme/Layout";
+import classnames from "classnames";
+import React from "react";
+
+import sources from "../utils/sources";
 import {
+  ColoredWords,
   FeatureImage,
   Features,
+  GetStartButton,
   Headline,
   HeadlineSub,
   HeadlineText,
-  ColoredWords,
-  GetStartButton,
   ProductLogoHomePage,
 } from "./styles";
-
-import sources from "../utils/sources";
+import styles from "./styles.module.css";
 
 const Feature = ({ imageUrl, title, description }) => {
   const imgUrl = useBaseUrl(imageUrl);
