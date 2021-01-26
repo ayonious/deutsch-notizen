@@ -5,22 +5,6 @@
  * and scoped locally.
  */
 
-.headline {
-  background-color: #2b3137;
-  padding: 50px;
-  text-align: center;
-}
-
-.headlineSub {
-  margin: 0 auto;
-  max-width: 1100px;
-}
-
-.headlineText {
-  font-size: 60px;
-  color: white;
-}
-
 .getStartButton {
   padding: 20px 40px;
   border: 2px solid var(--ifm-color-primary);
@@ -34,10 +18,6 @@
 .productLogoHomePage {
   float: right;
   width: 200px;
-}
-
-.coloredWords {
-  color: var(--ifm-color-primary);
 }
 
 /* defaults */
@@ -59,16 +39,4 @@
   display: flex;
   align-items: center;
   justify-content: center;
-}
-
-.features {
-  display: flex;
-  align-items: center;
-  padding: 2rem 0;
-  width: 100%;
-}
-
-.featureImage {
-  height: 200px;
-  width: 200px;
 }
