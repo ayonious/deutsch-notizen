@@ -17,7 +17,7 @@ module.exports = {
     navbar: {
       title: "Deutsch Notizen",
       logo: {
-        alt: "CTP",
+        alt: "Deutsch Notizen",
         src: "img/favicon.ico",
       },
       items: [
