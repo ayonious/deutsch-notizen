@@ -38,6 +38,10 @@ Qüalerei => leid tun. Punish
 Stets => (immer) Kaum Sonne, stets regnen
 schulden => (owe) Sie schulden mir Geld. Du schuldest mir geld (ich kriege Geld von dir)
 
+# L
+
+Lob => Praise (gegenteil von Kritik)
+
 # M
 
 Mahlen => Grind. Getreide(grain) Mahlen

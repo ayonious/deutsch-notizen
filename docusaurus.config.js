@@ -24,14 +24,20 @@ module.exports = {
         {
           type: 'doc',
           position: 'left',
-          docId: 'grammatik/Lander',
-          label: 'Grammatik',
+          docId: 'grammatik/Tekamolo',
+          label: '⚙️ Grammatik',
         },
         {
           type: 'doc',
           position: 'left',
           docId: 'prufung/B2/Brief',
-          label: 'Prüfung',
+          label: '🤓 Prüfung',
+        },
+        {
+          type: 'doc',
+          position: 'left',
+          docId: 'prufung/Medien/Youtube',
+          label: '🎬 Medien',
         },
         {
           href: "https://github.com/ayonious/deutsch-notizen",

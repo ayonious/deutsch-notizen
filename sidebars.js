@@ -25,5 +25,12 @@ module.exports = {
       label: 'B2',
       items: [ "prufung/B2/MundlichPrufung", "prufung/B2/Brief", "prufung/B2/Wortschatz" ]
     }
+  ],
+  medien: [
+    {
+      type: 'category',
+      label: 'Medien',
+      items: [ "medien/Youtube", "medien/Spotify" ]
+    }
   ]
 }
