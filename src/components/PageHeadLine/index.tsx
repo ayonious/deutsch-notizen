@@ -32,7 +32,7 @@ const PageHeadLine = () => {
           <ProductLogo />
           <UnColoredText text="Amateur" />
           <ColoredText text=" Sammlung von" />
-          <UnColoredText text=" schwirige" />
+          <UnColoredText text=" schwierige" />
           <ColoredText text=" Deutsche Regeln" />
         </HeadlineText>
         <GetStartedButton />
