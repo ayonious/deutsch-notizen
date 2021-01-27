@@ -30,7 +30,7 @@ module.exports = {
         {
           type: 'doc',
           position: 'left',
-          docId: 'prufung/B2Brief',
+          docId: 'prufung/B2/Brief',
           label: 'Prüfung',
         },
         {

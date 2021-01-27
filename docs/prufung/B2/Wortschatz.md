@@ -1,6 +1,6 @@
 ---
-id: B2Wortschatz
-title: B2Wortschatz
+id: Wortschatz
+title: Wortschatz
 sidebar_label: Wortschatz
 ---
 

@@ -1,5 +1,5 @@
 ---
-id: B2MundlichPrufung
+id: MundlichPrufung
 title: MundlichPrufung
 sidebar_label: MundlichPrufung
 ---

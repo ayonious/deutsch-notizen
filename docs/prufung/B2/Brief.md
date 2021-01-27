@@ -1,5 +1,5 @@
 ---
-id: B2Brief
+id: Brief
 title: Brief
 sidebar_label: Brief
 ---
