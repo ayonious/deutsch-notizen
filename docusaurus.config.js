@@ -32,7 +32,7 @@ module.exports = {
       style: "dark",
       links: [
         {
-          title: "Basics",
+          title: "🧒 Basics",
           items: [
             {
               label: "Tekamolo",
@@ -45,7 +45,7 @@ module.exports = {
           ],
         },
         {
-          title: "Mittelstufe",
+          title: "👦 Mittelstufe",
           items: [
             {
               label: "Konjunktiv I",
@@ -62,7 +62,7 @@ module.exports = {
           ],
         },
         {
-          title: "Für Profis",
+          title: "👸 Profis",
           items: [
             {
               label: "Passiv",
@@ -71,6 +71,15 @@ module.exports = {
             {
               label: "Deren & Dessen",
               to: "docs/DerenDessen",
+            },
+          ],
+        },
+        {
+          title: "🦄 Spaß",
+          items: [
+            {
+              label: "Sprechen Styling",
+              to: "docs/SprechenStyling",
             },
           ],
         },
