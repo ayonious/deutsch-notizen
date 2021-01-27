@@ -36,7 +36,7 @@ module.exports = {
         {
           type: 'doc',
           position: 'left',
-          docId: 'prufung/Medien/Youtube',
+          docId: 'medien/Youtube',
           label: '🎬 Medien',
         },
         {

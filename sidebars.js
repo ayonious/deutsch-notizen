@@ -4,7 +4,7 @@ module.exports = {
       type: 'category',
       label: 'Basics',
       collapsed: false,
-      items: ["grammatik/JenigeJener", "grammatik/KonjunktivI", "grammatik/KonjunktivII"],
+      items: ["grammatik/Tekamolo", "grammatik/JenigeJener", "grammatik/KonjunktivI", "grammatik/KonjunktivII"],
     },
     {
       type: 'category',
