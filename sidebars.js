@@ -4,26 +4,26 @@ module.exports = {
       type: 'category',
       label: 'Basics',
       collapsed: false,
-      items: ["JenigeJener", "KonjunktivI", "KonjunktivII"],
+      items: ["grammatik/JenigeJener", "grammatik/KonjunktivI", "grammatik/KonjunktivII"],
     },
     {
       type: 'category',
       label: 'MittelSchritte',
       collapsed: false,
-      items: ["PlusquimPerfekt", "Machen", "Lander", "Nebensatz", "VerbMitPrapositionen"],
+      items: ["grammatik/PlusquimPerfekt", "grammatik/Machen", "grammatik/Lander", "grammatik/Nebensatz", "grammatik/VerbMitPrapositionen"],
     },
     {
       type: 'category',
       label: 'Fortgeschrittene',
       collapsed: false,
-      items: ["Redevendung", "SprechenStyling", "Abkürzungen", "DerenDessen", "Passiv"],
+      items: ["grammatik/Redevendung", "grammatik/SprechenStyling", "grammatik/Abkürzungen", "grammatik/DerenDessen", "grammatik/Passiv"],
     },
   ],
   Prüfung: [
     {
       type: 'category',
       label: 'B2',
-      items: [ "B2MundlichPrufung", "B2Brief", "B2Wortschatz" ]
+      items: [ "prufung/B2MundlichPrufung", "prufung/B2Brief", "prufung/B2Wortschatz" ]
     }
   ]
 }

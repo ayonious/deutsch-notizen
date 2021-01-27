@@ -24,13 +24,13 @@ module.exports = {
         {
           type: 'doc',
           position: 'left',
-          docId: 'Lander',
+          docId: 'grammatik/Lander',
           label: 'Grammatik',
         },
         {
           type: 'doc',
           position: 'left',
-          docId: 'B2Brief',
+          docId: 'prufung/B2Brief',
           label: 'Prüfung',
         },
         {
@@ -48,11 +48,11 @@ module.exports = {
           items: [
             {
               label: "Tekamolo",
-              to: "docs/Tekamolo",
+              to: "docs/grammatik/Tekamolo",
             },
             {
               label: "Plusquim Perfekt",
-              to: "docs/PlusquimPerfekt",
+              to: "docs/grammatik/PlusquimPerfekt",
             },
           ],
         },
@@ -61,15 +61,15 @@ module.exports = {
           items: [
             {
               label: "Konjunktiv I",
-              to: "docs/KonjunktivI",
+              to: "docs/grammatik/KonjunktivI",
             },
             {
               label: "Konjunktiv II",
-              to: "docs/KonjunktivII",
+              to: "docs/grammatik/KonjunktivII",
             },
             {
               label: "Haupt & Nebensatz",
-              to: "docs/Nebensatz",
+              to: "docs/grammatik/Nebensatz",
             },
           ],
         },
@@ -78,11 +78,11 @@ module.exports = {
           items: [
             {
               label: "Passiv",
-              to: "docs/Passiv",
+              to: "docs/grammatik/Passiv",
             },
             {
               label: "Deren & Dessen",
-              to: "docs/DerenDessen",
+              to: "docs/grammatik/DerenDessen",
             },
           ],
         },
@@ -91,7 +91,7 @@ module.exports = {
           items: [
             {
               label: "Sprechen Styling",
-              to: "docs/SprechenStyling",
+              to: "docs/grammatik/SprechenStyling",
             },
           ],
         },
