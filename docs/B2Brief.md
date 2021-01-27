@@ -37,27 +37,30 @@ Nahiyan
 Betreff: Beschwerde über meine Bildungsurlaub
 
 sehr geehrte Damen und Herren,
-aufgrund Ihrer Anzeige in der Zeitung "HellBrot" habe ich vom 02. - 09.01.2019 an Ihre "Deutsch Camping" am Munchen Teilgenommen.
+aufgrund Ihrer Anzeige in der Zeitung "HellBrot" habe ich vom 02. - 09.01.2019 an Ihre "Deutsch Camping" am
+Munchen Teilgenommen.
 
-Die Anzeigen war wirklich gut. Es hat versprochen viel übungungen mit Personlich Lehrer. Ich hatte sofort angemeldet.
+Die Anzeigen war wirklich gut. Es hat versprochen viel übungungen mit Personlich Lehrer. Ich hatte
+sofort angemeldet.
 
 Leider bin ich sehr unzufrieden. In Ihre anzeige haben Sie versprochen, dass das Hotel 4-sterne-Hotel war,
-aber es war ein 2-sterne-Hotel. Ich musste meine Zimmer mit jemand andere teilen. Wir mussten immer gemeinsame Toilette benutzen.
-Die Duschen und Toilette waren sehr dreckig und kaum hat jemand das geputzt.
+aber es war ein 2-sterne-Hotel. Ich musste meine Zimmer mit jemand andere teilen. Wir mussten immer gemeinsame
+Toilette benutzen. Die Duschen und Toilette waren sehr dreckig und kaum hat jemand das geputzt.
 
-Leider mit Unterricht war ich auch unzufrieden. Es war nur 2 Lehrer war wir waren 30 schuler in eine Klasse. Die
-Anzeige hat versprochen personlich lehrer, aber ich hatte das nie bekommen. Ich habe angemeldet für Level B2 aber wir mussten
-alle in eine gemeinsame B1 Kurs teilnehmen. Am Ende habe ich erwartet auf eine Prüfung wie es steht in die Anzeige aber
-leider die Prüfung war auch B1. Da ich keine B1 Zertifikat brauche, habe ich einfach die Pruufstelle verlassen.
+Leider mit Unterricht war ich auch unzufrieden. Es war nur 2 Lehrer war wir waren 30 schuler in eine Klasse.
+Die Anzeige hat versprochen personlich lehrer, aber ich hatte das nie bekommen. Ich habe angemeldet für
+Level B2 aber wir mussten alle in eine gemeinsame B1 Kurs teilnehmen. Am Ende habe ich erwartet auf
+eine Prüfung wie es steht in die Anzeige aber leider die Prüfung war auch B1. Da ich keine B1
+Zertifikat brauche, habe ich einfach die Pruufstelle verlassen.
 
-Bis Stuttgart zu fahren habe ich meine Flug bezhalt und auch 2 Woche Urlaub von meine Arbeit bekommen. Alles im allem war diese Camp ein Katastrophe. AUs diesem Grund möchte ich Sie bitten, meine Zahlung von 700 Euro zurückzuerstatten.
+Bis Stuttgart zu fahren habe ich meine Flug bezhalt und auch 2 Woche Urlaub von meine Arbeit bekommen.
+Alles im allem war diese Camp ein Katastrophe. AUs diesem Grund möchte ich Sie bitten, meine Zahlung von
+700 Euro zurückzuerstatten.
 
 Mit freundlichen Grüßen
 NK
 
 ```
-
-# Noch nitch fertig
 
 ### Beschwerdebrief über eine Urlaub
 
@@ -77,28 +80,29 @@ Betreff: Beschwerde über meine Urlaub
 sehr geehrte Damen und Herren,
 aufgrund Ihrer Anzeige in der Zeitung "HellBrot" habe ich vom 02. - 09.01.2019
 eine Woche ein Hotelzimmer gebucht. Leider war ich sowohl mit dem Zimmer,
-als auch mit der Service unzufrieden.
+als auch mit der Service unzufrieden und möchte mich hiermit über diesen beschwerden.
 
-In Ihrer Anzeige wurde versprochen, dass Der zimmer hat eigene Toilette.
-Aber leider musste ich die Toilette mit andere Leute in Hotel mitteilen.
+Sowohl ich als auch meine Frau hatten eine anstrengende Jahr hinter uns, und
+wir haben uns sehr auf eine schöne Woche mit interessanten Programmen gefreut.
+
+Leider waren wir gleich zu Beginn sehr enttäuscht. Unsere Zimmer war sehr klein. Das
+ist nicht 20 qm wie in den Anzeige gesaagt wurde. Die Küche war auch klein und nicht
+eingerichtet für kochen. Wir hatten keine Offen oder Wasser heuzung. Die Zimmer service hat
+nie angekommen obwohl wir das bei Rezeption gefragt hatten.
+
+Wir hatten bezhalt für premium Früstück aber leider das war nür ein Bröt mit Marmelade
+und Kaffee. Wir konnten auch unsere Kleidung nicht waschen da die Waschmachine in Hotel
+Kapütt war. Obwohl die Hotel war eine 4-sternige Hotel, im Internet steht, dass es
+ein 2-sternige Hotel ist.
+
+Aus den angegebenen Gründen möchte ich Sie um Erstattung von 80% der eingezahlten
+Gebühr bitten. Ich erwarte Ihre Antwort bis spätestens zum 30.06.21.
 
 Mit freundlichen Grüßen,
 Nahiyan
-
 ```
 
-### BeschwerdeBrief Urlaub (andere Version)
-
-```text
-Betreff: Ruckforderung meine Zahlung von 300 Euro.
-
-Sdehr geehrte damen und Herren,
-Ich habe vom 1.1.2019 bis an Ihrem Trainingcamp teilgenommen
-
-
-```
-
-### BeschwerdeBrief für etwas auf online einkaufen
+# Noch nitch fertig
 
 ### Bitte um mehr informationen (Email)
 
@@ -111,3 +115,5 @@ mit größem Interesse habe ich Ihre Anzeige gelesen. Etwas wie "Online Bücher 
 
 Zurzeit wohne ich in Pforzheim und bin schon ein mitglied von Bibliothek
 ```
+
+### BeschwerdeBrief für etwas auf online einkaufen
