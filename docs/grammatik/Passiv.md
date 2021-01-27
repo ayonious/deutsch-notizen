@@ -4,6 +4,15 @@ title: Passiv
 sidebar_label: Passiv
 ---
 
+| person  | gegenwart | vergangenheit |
+| ------- | --------- | ------------- |
+| ich     | Wurde     |               |
+| du      | Wirst     | Wurdest       |
+| er/sie  | Wird      |               |
+| wir     | werden    |               |
+| ihr     |           |               |
+| sie/Sie | werden    |               |
+
 ## Wurde(ich,er,sie)
 
 Ein Hund wurde abgefahren
@@ -17,6 +26,10 @@ Er wurde schnell ins Krankenhaus gebracht
 ## Wirst(du)
 
 Für wie alt wirst du eingeschätz?
+
+## Wurdest(du)
+
+Wurdest du wieder auf Facebook gesperrt?
 
 ## Würde (ist nicht passiv zwar Konj2)
 
