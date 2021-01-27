@@ -22,6 +22,18 @@ module.exports = {
       },
       items: [
         {
+          type: 'doc',
+          position: 'left',
+          docId: 'Lander',
+          label: 'Grammatik',
+        },
+        {
+          type: 'doc',
+          position: 'left',
+          docId: 'B2Brief',
+          label: 'Prüfung',
+        },
+        {
           href: "https://github.com/ayonious/deutsch-notizen",
           label: "GitHub",
           position: "right",

@@ -11,6 +11,7 @@ Aufgefallen(bemerken) => es hat mir aufgefallen, dass du immer spät kommst. Sie
 Anständig:(decent) anständig essen
 Ausrotten(extinct) => eine art von Tiere komplett vernichten
 Auswendig => (by heart) er konnte das Periodensystem auswendig
+Aüsdrucken => express. Ich kann es nur so ausdrucken: "Holle"
 
 # B
 
