@@ -62,3 +62,4 @@ Verwählt => (dial wrong) Verziehung, ich habe mich verwählt.
 Verrät => (erklaren)
 Verlernen => (vergessen) Kochen verlernt man nicht.
 es kommt mir vor => (I felt like) jedenfalls kommt es mir so vor.
+Vorübergehend => temporarily. Vorübergehend geschlossen.
