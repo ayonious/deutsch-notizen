@@ -17,6 +17,10 @@ Denk an
 
 Einfluss auf
 
+## L
+
+Leihen aus: Ausleihen => kann ich ein Buch von dir ausleihen? Kannst du mir eun Buch leihen?
+
 ## W
 
 Warten auf

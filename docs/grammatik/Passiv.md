@@ -4,14 +4,27 @@ title: Passiv
 sidebar_label: Passiv
 ---
 
-| person  | gegenwart | vergangenheit |
-| ------- | --------- | ------------- |
-| ich     | Wurde     |               |
-| du      | Wirst     | Wurdest       |
-| er/sie  | Wird      |               |
-| wir     | werden    |               |
-| ihr     |           |               |
-| sie/Sie | werden    |               |
+worden
+
+| person  | gegenwart | vergangenheit | futur 1        |
+| ------- | --------- | ------------- | -------------- |
+| ich     | Wurde     |               |                |
+| du      | Wirst     | Wurdest       |                |
+| er/sie  | Wird      | wurde         | wird .. werden |
+| wir     | werden    |               |                |
+| ihr     |           |               |                |
+| sie/Sie | werden    |               |                |
+
+Ist
+
+| person  | gegenwart | vergangenheit | futur 1      |
+| ------- | --------- | ------------- | ------------ |
+| ich     | bin       | war           | werde ..     |
+| du      | bist      | warst         | wirst ..     |
+| er/sie  | ist       | war           | wird .. sein |
+| wir     | sind      | waren         | werden ..    |
+| ihr     | seid      | wart          | werdet ..    |
+| sie/Sie | sind      | waren         | werden ..    |
 
 ## Wurde(ich,er,sie)
 
