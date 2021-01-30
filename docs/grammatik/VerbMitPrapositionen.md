@@ -21,6 +21,10 @@ Einfluss auf
 
 Leihen aus: Ausleihen => kann ich ein Buch von dir ausleihen? Kannst du mir eun Buch leihen?
 
+## V
+
+Verkauf aus => alles ausverkauft
+
 ## W
 
 Warten auf
