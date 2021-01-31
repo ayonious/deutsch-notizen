@@ -31,13 +31,13 @@ module.exports = {
           type: 'doc',
           position: 'left',
           docId: 'prufung/B2/Brief',
-          label: '🤓  Prüfung',
+          label: '🤓 Prüfung',
         },
         {
           type: 'doc',
           position: 'left',
           docId: 'medien/Youtube',
-          label: '🎬  Medien',
+          label: '🎬 Medien',
         },
         {
           href: "https://github.com/ayonious/deutsch-notizen",
