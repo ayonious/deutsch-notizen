@@ -7,16 +7,18 @@ sidebar_label: Wortschatz
 # A
 
 - Angelegenheit => (en: Matter) Das ist ein Familienangelegenheit. [This is a family Matter]
-- Aufgefallen(bemerken) => es hat mir aufgefallen, dass du immer spät kommst. Sie ist mir - - Aufgefallen. Unauffallig => schwer zu sehen.
+- Aufgefallen(bemerken) => es hat mir aufgefallen, dass du immer spät kommst. Sie ist mir - - Aufgefallen. geenteil Unauffällig => schwer zu sehen.
 - Anständig:(decent) anständig essen
 - Ausrotten(extinct) => eine art von Tiere komplett vernichten
 - Auswendig => (by heart) er konnte das Periodensystem auswendig
 - Aüsdrucken => express. Ich kann es nur so ausdrucken: "Holle"
+- Ärmeln(sleeves) Viele menschen wurden mit Hochgekrempelte Ärmeln gesichtet
 
 # B
 
 - Bedauern(regret): Zu ihrem großen Bedauern arbeitet sie auch als Prostituierte
 - Besen (Broom): viele haben mit grossem interesse zu Besen und schaufeln gegriffen
+- Beteiligt: (involved) Viele vereine beteiligten sich
 
 # D
 
@@ -26,10 +28,15 @@ sidebar_label: Wortschatz
 
 - Etliche (quite a few) ich habe etliche hundert mal das erlernt
 
+# G
+
+- Gesichtet(Seen): Viele menschen wurden mit Hochgekrempelte Ärmeln gesichtet
+
 # H
 
 - Hamster => kleine Tiere
 - Hamstern => alles fertig machen (durch essen/kaufen). Als die Waren knapp wurden, haben alle angefangen zu hamstern.
+- Hochgekrempelte(rolled up): Viele menschen wurden mit Hochgekrempelte Ärmeln gesichtet
 
 # J
 
@@ -57,7 +64,6 @@ sidebar_label: Wortschatz
 
 - Mahlen => Grind. Getreide(grain) Mahlen
 - Mangel: Scarcity. Viele menschen leiden heutezutage unter bewegungsmangel
-- Meinst du => Denkst du? Es kann auch bedeuten (what do you think?) und auch (what do you mean?)
 
 # N
 
@@ -67,10 +73,11 @@ sidebar_label: Wortschatz
 
 - Übrigens: (Besides) Übrigens kannst du auch Niederlandisch Sprechen
 - Unter leiden: Suffer from. Viele menschen leiden heutezutage unter bewegungsmangel
+- Unauffällig => schwer zu sehen
 
 # V
 
-- Verdauen => to get rotten. Im Magen und Darm wird das Essen verdaut
+- Verdauen => to get rotten for digestive purpose. Im Magen und Darm wird das Essen verdaut
 - Verzehen => essen
 - vernichten => destroy / eradicate
 - Vor haben => (wollen) ich hätte das immer vor Berlin zu kommen
