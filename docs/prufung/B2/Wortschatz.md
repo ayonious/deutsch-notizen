@@ -80,7 +80,7 @@ sidebar_label: Wortschatz
 - Verdauen => to get rotten for digestive purpose. Im Magen und Darm wird das Essen verdaut
 - Verzehen => essen
 - vernichten => destroy / eradicate
-- Vor haben => (wollen) ich hätte das immer vor Berlin zu kommen
+- Vor haben => (wollen) ich hätte es immer vor, Berlin zu kommen
 - Verwählt => (dial wrong) Verziehung, ich habe mich verwählt.
 - Verrät => (erklaren)
 - Verlernen => (vergessen) Kochen verlernt man nicht.
