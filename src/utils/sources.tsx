@@ -9,7 +9,7 @@ const sources = [
     ),
   },
   {
-    title: <>Podcasts and Funk</>,
+    title: <>Podcasts und Funk</>,
     imageUrl: "img/undraw_podcast_q6p7.svg",
     description: <>Aus Spotify und Youtube</>,
   },
@@ -17,7 +17,7 @@ const sources = [
     title: <>Romane und Sachbücher</>,
     imageUrl: "img/undraw_reading_time_gvg0.svg",
     description: (
-      <>Viele Bücher aus andere Sprache die in Deutsch übersetz worden sind</>
+      <>Viele Bücher aus andere Sprache die in Deutsch übersetzt worden sind</>
     ),
   },
 ];
