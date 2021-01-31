@@ -22,6 +22,8 @@ sidebar_label: Wortschatz
 
 # D
 
+- Dazu: (for that/in addition) => Sie haben dazu 30 sekunden zeit. (to do this you have 30s time)
+- Dazu: (for that/in addition) => wollen Sie etwas noch dazu? (do you want something more?)
 - Düster: (dark): Die Welt sieht düsterer aus
 
 # E
@@ -46,6 +48,10 @@ sidebar_label: Wortschatz
 
 - Knapp => (EN: close): Als die Waren knapp wurden, haben alle angefangen zu hamstern.
 
+# M
+
+- Münster: Cathedral
+
 # Q
 
 - Qüalerei => leid tun. Punish
@@ -55,6 +61,8 @@ sidebar_label: Wortschatz
 - Schaufe (Broom): viele haben mit grossem interesse zu Besen und schaufeln gegriffen
 - Schulden => (owe) Sie schulden mir Geld. Du schuldest mir geld (ich kriege Geld von dir)
 - Stets => (immer) Kaum Sonne, stets regnen
+- Steuer: (tax/measurement) die region hat eine Steuer eingeführt
+- Steuer: (tax/measurement) die region will nun offenbar gegensteurn.
 
 # L
 
@@ -85,4 +93,5 @@ sidebar_label: Wortschatz
 - Verrät => (erklaren)
 - Verlernen => (vergessen) Kochen verlernt man nicht.
 - es kommt mir vor => (I felt like) jedenfalls kommt es mir so vor.
+- Vorträge => lecture. Da findett andere Vorträge statt.
 - Vorübergehend => temporarily. Vorübergehend geschlossen.
