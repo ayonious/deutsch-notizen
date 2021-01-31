@@ -10,7 +10,7 @@ module.exports = {
       type: 'category',
       label: 'MittelSchritte',
       collapsed: false,
-      items: ["grammatik/PlusquimPerfekt", "grammatik/Machen", "grammatik/Lander", "grammatik/Nebensatz", "grammatik/VerbMitPrapositionen"],
+      items: ["grammatik/PlusquimPerfekt", "grammatik/Machen", "grammatik/Lander", "grammatik/Nebensatz", "grammatik/VerbMitPrapositionen", "grammatik/PrapositionenAkkDativ"],
     },
     {
       type: 'category',
