@@ -16,6 +16,7 @@ sidebar_label: Wortschatz
 # B
 
 - Bedauern(regret): Zu ihrem großen Bedauern arbeitet sie auch als Prostituierte
+- Besen (Broom): viele haben mit grossem interesse zu Besen und schaufeln gegriffen
 
 # D
 
@@ -44,8 +45,9 @@ sidebar_label: Wortschatz
 
 # S
 
+- Schaufe (Broom): viele haben mit grossem interesse zu Besen und schaufeln gegriffen
+- Schulden => (owe) Sie schulden mir Geld. Du schuldest mir geld (ich kriege Geld von dir)
 - Stets => (immer) Kaum Sonne, stets regnen
-- schulden => (owe) Sie schulden mir Geld. Du schuldest mir geld (ich kriege Geld von dir)
 
 # L
 
