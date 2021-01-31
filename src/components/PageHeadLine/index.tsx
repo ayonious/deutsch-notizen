@@ -21,7 +21,10 @@ const GetStartedButton = () => (
 );
 
 const ProductLogo = () => (
-  <ProductLogoHomePage alt="CheatSheet logo" src={useBaseUrl("img/logo.png")} />
+  <ProductLogoHomePage
+    alt="Deutsch Logo"
+    src={useBaseUrl("img/undraw_Beer_celebration_cefj.svg")}
+  />
 );
 
 const PageHeadLine = () => {

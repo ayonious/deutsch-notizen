@@ -18,7 +18,7 @@ module.exports = {
       title: "Deutsch Notizen",
       logo: {
         alt: "Deutsch Notizen",
-        src: "img/favicon.ico",
+        src: "img/undraw_Beer_celebration_cefj.svg",
       },
       items: [
         {
@@ -31,13 +31,13 @@ module.exports = {
           type: 'doc',
           position: 'left',
           docId: 'prufung/B2/Brief',
-          label: '🤓 Prüfung',
+          label: '🤓  Prüfung',
         },
         {
           type: 'doc',
           position: 'left',
           docId: 'medien/Youtube',
-          label: '🎬 Medien',
+          label: '🎬  Medien',
         },
         {
           href: "https://github.com/ayonious/deutsch-notizen",
