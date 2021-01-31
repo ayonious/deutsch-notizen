@@ -16,7 +16,7 @@ const UnColoredText = ({ text }) => <span>{text}</span>;
 
 const GetStartedButton = () => (
   <GetStartButton>
-    <Link to={useBaseUrl("docs/")}>Los Geht's </Link>
+    <Link to={useBaseUrl("docs/")}>Auf Geht's </Link>
   </GetStartButton>
 );
 
