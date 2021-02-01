@@ -75,6 +75,7 @@ sidebar_label: Wortschatz
 
 # N
 
+- Nämlich: (which is) es gibt eine Irrglaube im bezug auf Sprachlernen, nämlich dass man es schnell lernen kann.
 - Nachmachen: (Kopieren) Gegenteil von Vormachen => jemand zeigen wie etwas gemacht wird
 
 # U
@@ -95,3 +96,7 @@ sidebar_label: Wortschatz
 - es kommt mir vor => (I felt like) jedenfalls kommt es mir so vor.
 - Vorträge => lecture. Da findett andere Vorträge statt.
 - Vorübergehend => temporarily. Vorübergehend geschlossen.
+
+# W
+
+- Wirken(seem like) => du wirkst mir jemand der kein Geld hat(you seem like someone who has no money)
