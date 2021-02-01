@@ -11,21 +11,20 @@ sidebar_label: Brief
 ```text
 Sehr geehrte Damen und Herren,
 
-ich studiere im 8.Semester Informatic Wissenschaft an der Universitat Rom. Um mein
-Studium abzuschliessen, muss ich ein Praktikum im Ausland machen, daher möchte ich
+ich studiere im 8.Semester Informatik an der Universität Rom. Um mein
+Studium abzuschliessen, muss ich ein Praktikum im Ausland machen. Daher möchte ich
 mich als Praktikant bei Ihnen bewerben.
 
-Die Projecte die Sie gerade machen finde ich sehr interessant. Ich bin schon ein
-Kunde von die Reise24 Website. Ich habe die Website viel benutzt und über
-die Technische instruktionen gelesen.
+Die Projekte, die Sie gerade machen, finde ich sehr interessant. Ich bin schon ein
+Kunde Ihrer Reise24 Website. Ich habe die Website viel benutzt und auch die Anleitungen
+gelesen.
 
-In meine 6. Semester habe ich schon meine Eigene Profil mit Frontend Entwicklung
-gemacht und wollte das mit diese Brief mitteilen. Meine Profil können Sie besuhen
-auf https://www.example.com. Ich habe die gleiche Technologie benutzt wie Ihre
-Website. Aber ich will weiter darüber arbeiten und dafür will ich hier arbeiten.
+In meinem 6. Semester habe ich schon mein eigenes Profil mit meinen Frontend-Kenntnissen
+entwickelt und wollte das Ihnen hier gerne mitteilen. Mein Profil können Sie auf https://www.example.com besuchen.
+Ich habe die gleiche Technologie benutzt wie Ihre
+Website. Ich würde gerne weiter daran arbeiten und möchte gerne bei Ihnen mehr bei darüber lernen.
 
-Bitte schreiben Sie mir zurück, wenn mein Profil Ihnen gefallen hat. Über eine Positiv
-Antwort würde ich mich sehr freuen.
+Sollte Ihnen mein Profil gefallen haben, freue ich mich sehr über eine Antwort.
 
 Mit freundlichen Grüßen,
 Nahiyan
@@ -34,32 +33,32 @@ Nahiyan
 ### Beschwerde Email um eine Deutsch Bildungsurlaub
 
 ```text
-Betreff: Beschwerde über meine Bildungsurlaub
+Betreff: Beschwerde über meinen Bildungsurlaub
 
-sehr geehrte Damen und Herren,
-aufgrund Ihrer Anzeige in der Zeitung "HellBrot" habe ich vom 02. - 09.01.2019 an Ihre "Deutsch Camping" am
-Munchen Teilgenommen.
+Sehr geehrte Damen und Herren,
 
-Die Anzeigen war wirklich gut. Es hat versprochen viel übungungen mit Personlich Lehrer. Ich hatte
-sofort angemeldet.
+aufgrund Ihrer Anzeige in der Zeitung "HellBrot" habe ich vom 02. - 09.01.2019 an Ihrem "Deutsch Camping" in
+München teilgenommen.
 
-Leider bin ich sehr unzufrieden. In Ihre anzeige haben Sie versprochen, dass das Hotel 4-sterne-Hotel war,
-aber es war ein 2-sterne-Hotel. Ich musste meine Zimmer mit jemand andere teilen. Wir mussten immer gemeinsame
-Toilette benutzen. Die Duschen und Toilette waren sehr dreckig und kaum hat jemand das geputzt.
+Die Anzeige war wirklich gut. Sie zeigte, dass es viele Übungen mit persönlichen Lehrer gibt. Ich hatte
+mich sofort angemeldet.
 
-Leider mit Unterricht war ich auch unzufrieden. Es war nur 2 Lehrer war wir waren 30 schuler in eine Klasse.
-Die Anzeige hat versprochen personlich lehrer, aber ich hatte das nie bekommen. Ich habe angemeldet für
-Level B2 aber wir mussten alle in eine gemeinsame B1 Kurs teilnehmen. Am Ende habe ich erwartet auf
-eine Prüfung wie es steht in die Anzeige aber leider die Prüfung war auch B1. Da ich keine B1
-Zertifikat brauche, habe ich einfach die Pruufstelle verlassen.
+Leider bin ich sehr unzufrieden. In Ihre Anzeige haben Sie versprochen, dass es sich um ein 4-Sterne-Hotel handelt,
+aber es war leider nur ein 2-Sterne-Hotel. Ich musste meine Zimmer mit jemand anderem teilen. Wir mussten uns die
+Toilette teilen. Die Duschen und Toiletten waren sehr dreckig und es wurde kaum geputzt.
 
-Bis Stuttgart zu fahren habe ich meine Flug bezhalt und auch 2 Woche Urlaub von meine Arbeit bekommen.
-Alles im allem war diese Camp ein Katastrophe. AUs diesem Grund möchte ich Sie bitten, meine Zahlung von
+Leider war ich mit dem Unterricht auch unzufrieden. Es waren nur 2 Lehrer und wir waren 30 Schüler in eine Klasse.
+Die Anzeige hat persönliche Lehrer versprochen, aber das hatte ich nie bekommen. Ich habe mich für
+Level B2  angemeldet aber wir mussten gemeinsame an einem B1 Kurs teilnehmen. Am Ende habe ich eine
+Prüfung erwartet, wie sie in der Anzeige steht. Leider war die Prüfung auch B1. Da ich kein B1
+Zertifikat brauche, habe ich einfach die Prüfungsstelle verlassen.
+
+Um nach Stuttgart zu fahren, habe ich meine Flug bezahlt und auch 2 Woche Urlaub von meine Arbeit genommen.
+Alles im allem war dieses Camp ein Katastrophe. Aus diesem Grund möchte ich Sie bitten, meine Zahlung von
 700 Euro zurückzuerstatten.
 
 Mit freundlichen Grüßen
 NK
-
 ```
 
 ### Beschwerdebrief über eine Urlaub

@@ -19,6 +19,8 @@ sidebar_label: Wortschatz
 - Bedauern(regret): Zu ihrem großen Bedauern arbeitet sie auch als Prostituierte
 - Besen (Broom): viele haben mit grossem interesse zu Besen und schaufeln gegriffen
 - Beteiligt: (involved) Viele vereine beteiligten sich
+- Betriebsanleitung: (instructions manual)
+- Beschleunigen: (speed up)
 
 # D
 
