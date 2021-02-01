@@ -4,8 +4,6 @@ title: Brief
 sidebar_label: Brief
 ---
 
-## Fertig
-
 ### Bewerbungsbrief um eine Praktikantstelle
 
 ```text
