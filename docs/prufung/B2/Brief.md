@@ -18,9 +18,10 @@ Kunde Ihrer Reise24 Website. Ich habe die Website viel benutzt und auch die Anle
 gelesen.
 
 In meinem 6. Semester habe ich schon mein eigenes Profil mit meinen Frontend-Kenntnissen
-entwickelt und wollte das Ihnen hier gerne mitteilen. Mein Profil können Sie auf https://www.example.com besuchen.
-Ich habe die gleiche Technologie benutzt wie Ihre
-Website. Ich würde gerne weiter daran arbeiten und möchte gerne bei Ihnen mehr bei darüber lernen.
+entwickelt und wollte das Ihnen hier gerne mitteilen. Mein Profil können Sie auf
+https://www.example.com besuchen. Ich habe die gleiche Technologie benutzt wie Ihre
+Website. Ich würde gerne weiter daran arbeiten und möchte gerne bei Ihnen mehr bei
+darüber lernen.
 
 Sollte Ihnen mein Profil gefallen haben, freue ich mich sehr über eine Antwort.
 
@@ -35,25 +36,27 @@ Betreff: Beschwerde über meinen Bildungsurlaub
 
 Sehr geehrte Damen und Herren,
 
-aufgrund Ihrer Anzeige in der Zeitung "HellBrot" habe ich vom 02. - 09.01.2019 an Ihrem "Deutsch Camping" in
-München teilgenommen.
+aufgrund Ihrer Anzeige in der Zeitung "HellBrot" habe ich vom 02. - 09.01.2019 an Ihrem
+"Deutsch Camping" in München teilgenommen.
 
-Die Anzeige war wirklich gut. Sie zeigte, dass es viele Übungen mit persönlichen Lehrer gibt. Ich hatte
-mich sofort angemeldet.
+Die Anzeige war wirklich gut. Sie zeigte, dass es viele Übungen mit persönlichen Lehrer
+gibt. Ich hatte mich sofort angemeldet.
 
-Leider bin ich sehr unzufrieden. In Ihre Anzeige haben Sie versprochen, dass es sich um ein 4-Sterne-Hotel handelt,
-aber es war leider nur ein 2-Sterne-Hotel. Ich musste meine Zimmer mit jemand anderem teilen. Wir mussten uns die
-Toilette teilen. Die Duschen und Toiletten waren sehr dreckig und es wurde kaum geputzt.
+Leider bin ich sehr unzufrieden. In Ihre Anzeige haben Sie versprochen, dass es sich um
+ein 4-Sterne-Hotel handelt, aber es war leider nur ein 2-Sterne-Hotel. Ich musste meine
+Zimmer mit jemand anderem teilen. Wir mussten uns die Toilette teilen. Die Duschen und
+Toiletten waren sehr dreckig und es wurde kaum geputzt.
 
-Leider war ich mit dem Unterricht auch unzufrieden. Es waren nur 2 Lehrer und wir waren 30 Schüler in eine Klasse.
-Die Anzeige hat persönliche Lehrer versprochen, aber das hatte ich nie bekommen. Ich habe mich für
-Level B2  angemeldet aber wir mussten gemeinsame an einem B1 Kurs teilnehmen. Am Ende habe ich eine
-Prüfung erwartet, wie sie in der Anzeige steht. Leider war die Prüfung auch B1. Da ich kein B1
-Zertifikat brauche, habe ich einfach die Prüfungsstelle verlassen.
+Leider war ich mit dem Unterricht auch unzufrieden. Es waren nur 2 Lehrer und wir waren
+30 Schüler in eine Klasse. Die Anzeige hat persönliche Lehrer versprochen, aber das hatte
+ich nie bekommen. Ich habe mich für Level B2  angemeldet aber wir mussten gemeinsame
+an einem B1 Kurs teilnehmen. Am Ende habe ich eine Prüfung erwartet, wie sie in der
+Anzeige steht. Leider war die Prüfung auch B1. Da ich kein B1 Zertifikat brauche, habe
+ich einfach die Prüfungsstelle verlassen.
 
-Um nach Stuttgart zu fahren, habe ich meine Flug bezahlt und auch 2 Woche Urlaub von meine Arbeit genommen.
-Alles im allem war dieses Camp ein Katastrophe. Aus diesem Grund möchte ich Sie bitten, meine Zahlung von
-700 Euro zurückzuerstatten.
+Um nach Stuttgart zu fahren, habe ich meine Flug bezahlt und auch 2 Woche Urlaub von
+meine Arbeit genommen. Alles im allem war dieses Camp ein Katastrophe. Aus diesem Grund
+möchte ich Sie bitten, meine Zahlung von 700 Euro zurückzuerstatten.
 
 Mit freundlichen Grüßen
 NK
