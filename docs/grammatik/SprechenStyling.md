@@ -4,11 +4,11 @@ title: SprechenStyling
 sidebar_label: SprechenStyling
 ---
 
-# Style
+### Style
 
-Mann soll diese Wörter und Style benutzen, damit seine Deutsch besser klingt.
+Mann soll dieses Wörter und Style benutzen, damit seine Deutsch besser klingt.
 
-# Beispiel
+### Beispiel
 
 - Ich nahm all meinen Mut zusammen und zog den Schlüssel aus der Tasche
 - Schade, daß der Nebel alles einhüllt
@@ -23,3 +23,5 @@ Mann soll diese Wörter und Style benutzen, damit seine Deutsch besser klingt.
 - Alte Menschen leiden an Krankheiten.
 - Zu ihrem großen Bedauern arbeitet sie auch als Prostituierte
 - Wir rechnen damit, dass unsere Museum jedes tag von etwas 100 Menschen besucht werden wird.
+- Wir denken immer darüber nach, nämlich über unsere Kinder.
+- Wir machen die genau gegenteil, nämlich immer sitzen und sprechen.

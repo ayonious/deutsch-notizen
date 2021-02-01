@@ -33,10 +33,10 @@ const PageHeadLine = () => {
       <HeadlineSub>
         <HeadlineText>
           <ProductLogo />
-          <UnColoredText text="Amateur" />
-          <ColoredText text=" Sammlung von" />
-          <UnColoredText text=" schwierige" />
-          <ColoredText text=" Deutsche Regeln" />
+          <UnColoredText text="Amateur-" />
+          <ColoredText text=" sammlung von" />
+          <UnColoredText text=" schwierigen" />
+          <ColoredText text=" Deutschen Regeln" />
         </HeadlineText>
         <GetStartedButton />
       </HeadlineSub>
