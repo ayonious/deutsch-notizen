@@ -34,7 +34,7 @@ const PageHeadLine = () => {
         <HeadlineText>
           <ProductLogo />
           <UnColoredText text="Amateur-" />
-          <ColoredText text=" sammlung von" />
+          <ColoredText text="sammlung von" />
           <UnColoredText text=" schwierigen" />
           <ColoredText text=" Deutschen Regeln" />
         </HeadlineText>
