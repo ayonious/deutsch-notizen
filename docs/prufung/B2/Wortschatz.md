@@ -33,7 +33,7 @@ sidebar_label: Wortschatz
 
 # E
 
-- Entspannend => relaxing [geneteil exciting]
+- Entspannend => relaxing [geneteil Spanend]
 - Etliche (quite a few) ich habe etliche hundert mal das erlernt
 
 # G
@@ -48,7 +48,7 @@ sidebar_label: Wortschatz
 
 # J
 
-- jedenfalls: (at least), jedenfalls kommt es mir so vor (at least thats how I felt)
+- Jedenfalls: (at least), jedenfalls kommt es mir so vor (at least thats how I felt)
 
 # K
 
@@ -95,12 +95,12 @@ sidebar_label: Wortschatz
 
 - Verdauen => to get rotten for digestive purpose. Im Magen und Darm wird das Essen verdaut
 - Verzehen => essen
-- vernichten => destroy / eradicate
+- Vernichten => destroy / eradicate
 - Vor haben => (wollen) ich hätte es immer vor, Berlin zu kommen
 - Verwählt => (dial wrong) Verziehung, ich habe mich verwählt.
 - Verrät => (erklaren)
 - Verlernen => (vergessen) Kochen verlernt man nicht.
-- es kommt mir vor => (I felt like) jedenfalls kommt es mir so vor.
+- Es kommt mir vor => (I felt like) jedenfalls kommt es mir so vor.
 - Vorträge => lecture. Da findett andere Vorträge statt.
 - Vorübergehend => (temporarily) Vorübergehend geschlossen.
 - Voraussichtlich => (expected) Wir fahren voraussichtlich am 20. Mai
