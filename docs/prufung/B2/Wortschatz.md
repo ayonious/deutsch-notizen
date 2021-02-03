@@ -30,6 +30,7 @@ sidebar_label: Wortschatz
 
 # E
 
+- Entspannend => relaxing [geneteil exciting]
 - Etliche (quite a few) ich habe etliche hundert mal das erlernt
 
 # G
@@ -62,6 +63,7 @@ sidebar_label: Wortschatz
 
 - Schaufe (Broom): viele haben mit grossem interesse zu Besen und schaufeln gegriffen
 - Schulden => (owe) Sie schulden mir Geld. Du schuldest mir geld (ich kriege Geld von dir)
+- Spannend => exciting [geneteil entspannend]
 - Stets => (immer) Kaum Sonne, stets regnen
 - Steuer: (tax/measurement) die region hat eine Steuer eingeführt
 - Steuer: (tax/measurement) die region will nun offenbar gegensteurn.
