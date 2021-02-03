@@ -11,6 +11,7 @@ sidebar_label: Wortschatz
   schwer zu sehen.
 - Anschließend => (finally) Sie kam spät, aber anschliesend ging sofort nach Hause.
 - Anständig(decent) anständig essen
+- Ärger(Trouble): Du hast viele Ärger gekriegt
 - Ärmeln(sleeves) Viele menschen wurden mit Hochgekrempelte Ärmeln gesichtet
 - Aufgefallen(bemerken) => es hat mir aufgefallen, dass du immer spät kommst. Sie ist mir - - Aufgefallen. geenteil Unauffällig =>
 - Ausrotten(extinct) => eine art von Tiere komplett vernichten
@@ -45,6 +46,7 @@ sidebar_label: Wortschatz
 - Hamster => kleine Tiere
 - Hamstern => alles fertig machen (durch essen/kaufen). Als die Waren knapp wurden, haben alle angefangen zu hamstern.
 - Hochgekrempelte(rolled up): Viele menschen wurden mit Hochgekrempelte Ärmeln gesichtet
+- Höhlen => (Cave) Unsere Vorfahren haben das auch bemerkt als sie in Höhlen lebten
 
 # J
 
@@ -61,6 +63,7 @@ sidebar_label: Wortschatz
 # Q
 
 - Qüalerei => leid tun. Punish
+- Quitt => Du schuldest mir Geld. Jetzt sind wir quitt.
 
 # S
 
@@ -85,6 +88,10 @@ sidebar_label: Wortschatz
 - Nämlich: (which is) es gibt eine Irrglaube im bezug auf Sprachlernen, nämlich dass man es schnell lernen kann.
 - Nachmachen: (Kopieren) Gegenteil von Vormachen => jemand zeigen wie etwas gemacht wird
 
+# S
+
+- Sonst (otherwise/otherwhere) => Das passiert hier und überall auf Der ganzen Welt.
+
 # U
 
 - Übrigens: (Besides) Übrigens kannst du auch Niederlandisch Sprechen
@@ -101,6 +108,7 @@ sidebar_label: Wortschatz
 - Verrät => (erklaren)
 - Verlernen => (vergessen) Kochen verlernt man nicht.
 - Es kommt mir vor => (I felt like) jedenfalls kommt es mir so vor.
+- Vorfahren => (ancestors) Unsere Vorfahren haben das auch bemerkt als sie in Höhlen lebten
 - Vorträge => lecture. Da findett andere Vorträge statt.
 - Vorübergehend => (temporarily) Vorübergehend geschlossen.
 - Voraussichtlich => (expected) Wir fahren voraussichtlich am 20. Mai
@@ -110,6 +118,7 @@ sidebar_label: Wortschatz
 - Widmen(dedicate): sie sich etwas widmet, das keinen imotionalem Kontakt min Menschen verlangt. [she dedicated herself to something that does not require emotional contact with people]
 - Wirken(seem like) => du wirkst mir jemand der kein Geld hat(you seem like someone who has no money)
 - Winken(Wave) => ich winkte ihr einzutreten.
+- Würdig(worthy) => ein Heiliger ist drejenige, der sein leben würdig lebt.
 
 # Z
 
