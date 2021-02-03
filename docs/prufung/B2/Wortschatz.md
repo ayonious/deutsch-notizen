@@ -7,12 +7,14 @@ sidebar_label: Wortschatz
 # A
 
 - Angelegenheit => (en: Matter) Das ist ein Familienangelegenheit. [This is a family Matter]
-- Aufgefallen(bemerken) => es hat mir aufgefallen, dass du immer spät kommst. Sie ist mir - - Aufgefallen. geenteil Unauffällig => schwer zu sehen.
-- Anständig:(decent) anständig essen
+  schwer zu sehen.
+- Anschließend => (finally) Sie kam spät, aber anschliesend ging sofort nach Hause.
+- Anständig(decent) anständig essen
+- Ärmeln(sleeves) Viele menschen wurden mit Hochgekrempelte Ärmeln gesichtet
+- Aufgefallen(bemerken) => es hat mir aufgefallen, dass du immer spät kommst. Sie ist mir - - Aufgefallen. geenteil Unauffällig =>
 - Ausrotten(extinct) => eine art von Tiere komplett vernichten
 - Auswendig => (by heart) er konnte das Periodensystem auswendig
 - Aüsdrucken => express. Ich kann es nur so ausdrucken: "Holle"
-- Ärmeln(sleeves) Viele menschen wurden mit Hochgekrempelte Ärmeln gesichtet
 
 # B
 
@@ -70,7 +72,7 @@ sidebar_label: Wortschatz
 
 # L
 
-- Lob => Praise (gegenteil von Kritik)
+- Lob => Praise (gegenteil von Kritik). Aber sie besuchte jeen Sonntag die Messe, um auf ihrere Gitarre zu speilen und die heilige Jungfrau zu loben.
 
 # M
 
