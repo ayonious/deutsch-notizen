@@ -6,6 +6,7 @@ sidebar_label: Wortschatz
 
 # A
 
+- Allmählich => wenn auch die traditionen weiterleben, so verschwendet doch allmählich der wunsch wieder zurückzukehren. even if the traditions live on, the desire to return is gradually wasted
 - Angelegenheit => (en: Matter) Das ist ein Familienangelegenheit. [This is a family Matter]
   schwer zu sehen.
 - Anschließend => (finally) Sie kam spät, aber anschliesend ging sofort nach Hause.
@@ -101,7 +102,8 @@ sidebar_label: Wortschatz
 - Verlernen => (vergessen) Kochen verlernt man nicht.
 - es kommt mir vor => (I felt like) jedenfalls kommt es mir so vor.
 - Vorträge => lecture. Da findett andere Vorträge statt.
-- Vorübergehend => temporarily. Vorübergehend geschlossen.
+- Vorübergehend => (temporarily) Vorübergehend geschlossen.
+- Voraussichtlich => (expected) Wir fahren voraussichtlich am 20. Mai
 
 # W
 
