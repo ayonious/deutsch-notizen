@@ -109,6 +109,7 @@ sidebar_label: Wortschatz
 
 - Widmen(dedicate): sie sich etwas widmet, das keinen imotionalem Kontakt min Menschen verlangt. [she dedicated herself to something that does not require emotional contact with people]
 - Wirken(seem like) => du wirkst mir jemand der kein Geld hat(you seem like someone who has no money)
+- Winken(Wave) => ich winkte ihr einzutreten.
 
 # Z
 
