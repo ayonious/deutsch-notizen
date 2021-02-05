@@ -119,7 +119,7 @@ sidebar_label: Wortschatz
 - Vorfahren => (ancestors) Unsere Vorfahren haben das auch bemerkt als sie in Höhlen lebten
 - Vorträge => lecture. Da findett andere Vorträge statt.
 - Vorübergehend => (temporarily) Vorübergehend geschlossen.
-- Voraussichtlich => (expected) Wir fahren voraussichtlich am 20. Mai
+- Voraussichtlich => (expected) Wir fahren voraussichtlich am 20. Mai. Achtung: Wegen der aktuellen Pandemiesituation bleibt die ZLB bis voraussichtlich 14.02. geschlossen.
 
 # W
 
