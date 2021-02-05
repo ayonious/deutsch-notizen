@@ -3,20 +3,18 @@ jobs:
   build:
     docker:
       - image: circleci/node:12
-
-    working_directory: ~/repo
-
     steps:
       - checkout
       - restore_cache:
           keys:
-            - deps-hash-{{ checksum "package.json" }}
+            - deps-hash-{{ checksum "yarn.lock" }}
+            - deps-hash- # used if checksum fails
 
       - run: yarn install
 
       - save_cache:
           paths:
             - node_modules
-          key: deps-hash-{{ checksum "package.json" }}
+          key: deps-hash-{{ checksum "yarn.lock" }}
 
       - run: yarn build
