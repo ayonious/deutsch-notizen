@@ -115,6 +115,7 @@ sidebar_label: Wortschatz
 - Verrät => (erklaren)
 - Verlernen => (vergessen) Kochen verlernt man nicht.
 - Es kommt mir vor => (I felt like) jedenfalls kommt es mir so vor.
+- Vertragen(sich) => to get along. Sie vertragen sich nicht.
 - Vorfahren => (ancestors) Unsere Vorfahren haben das auch bemerkt als sie in Höhlen lebten
 - Vorträge => lecture. Da findett andere Vorträge statt.
 - Vorübergehend => (temporarily) Vorübergehend geschlossen.
