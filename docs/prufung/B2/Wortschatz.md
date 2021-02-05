@@ -38,6 +38,10 @@ sidebar_label: Wortschatz
 - Entspannend => relaxing [geneteil Spanend]
 - Etliche (quite a few) ich habe etliche hundert mal das erlernt
 
+# F
+
+- Fluch => (Curse) mein Talent war immer ein Fluch.
+
 # G
 
 - Gesichtet(Seen): Viele menschen wurden mit Hochgekrempelte Ärmeln gesichtet
@@ -70,6 +74,7 @@ sidebar_label: Wortschatz
 
 - Schaufe (Broom): viele haben mit grossem interesse zu Besen und schaufeln gegriffen
 - Schulden => (owe) Sie schulden mir Geld. Du schuldest mir geld (ich kriege Geld von dir)
+- Segen => (blessing) gegentail von Fluch. Möge Gottes Segen mit dir sein [May Gods blessings be with you]
 - Spannend => exciting [geneteil entspannend]
 - Stets => (immer) Kaum Sonne, stets regnen
 - Steuer: (tax/measurement) die region hat eine Steuer eingeführt
