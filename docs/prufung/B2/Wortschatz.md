@@ -25,6 +25,7 @@ sidebar_label: Wortschatz
 - Beteiligt: (involved) Viele vereine beteiligten sich
 - Betriebsanleitung: (instructions manual)
 - Beschleunigen: (speed up)
+- Bummeln(spaziergang) => ich bummle durch die Stadt.
 
 # D
 
@@ -88,6 +89,11 @@ sidebar_label: Wortschatz
 - Nämlich: (which is) es gibt eine Irrglaube im bezug auf Sprachlernen, nämlich dass man es schnell lernen kann.
 - Nachmachen: (Kopieren) Gegenteil von Vormachen => jemand zeigen wie etwas gemacht wird
 
+# P
+
+- Paläste => Palaces
+- Pfad => path/trail. (schmaler Weg) (narrow path)
+
 # S
 
 - Sonst (otherwise/otherwhere) => Das passiert hier und überall auf Der ganzen Welt.
@@ -95,6 +101,7 @@ sidebar_label: Wortschatz
 # U
 
 - Übrigens: (Besides) Übrigens kannst du auch Niederlandisch Sprechen
+- Umsatz => (sales) Umsatz der Abteilung steig merklich an.
 - Unter leiden: Suffer from. Viele menschen leiden heutezutage unter bewegungsmangel
 - Unauffällig => schwer zu sehen
 
@@ -116,7 +123,8 @@ sidebar_label: Wortschatz
 # W
 
 - Widmen(dedicate): sie sich etwas widmet, das keinen imotionalem Kontakt min Menschen verlangt. [she dedicated herself to something that does not require emotional contact with people]
-- Wirken(seem like) => du wirkst mir jemand der kein Geld hat(you seem like someone who has no money)
+- Wiesen => grasslands (grüne Wiesen)
+- Wirken(seem like) => du wirkst mir jemand der kein Geld hat(you seem like someone who has no money). Wenn sie zurückamen wirkten sie zufrieden.
 - Winken(Wave) => ich winkte ihr einzutreten.
 - Würdig(worthy) => ein Heiliger ist drejenige, der sein leben würdig lebt.
 
