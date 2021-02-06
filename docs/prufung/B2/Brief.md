@@ -102,18 +102,46 @@ Mit freundlichen Grüßen,
 Nahiyan
 ```
 
-# Noch nitch fertig
-
-### Bitte um mehr informationen (Email)
+### Beschwerde Email um Ein Camera das du online gekauft hast
 
 ```text
-Betreff: Bitte um mehr informationen
+Betreff: Beschwerde über meine Kamera
+
+Sehr geehrte Damen und Herren,
+
+aufgrund Ihrer Anzeige in der Social Media "Facebuch" habe ich Vor 2 Wochen ein Kamera XX-12 von Ihre Digital online Shop gekauft.
+
+
+Leider bin ich sehr unzufrieden und möchte mit diesem
+Brief beschwerden.
+
+Als ich erst die Packung eröffnete, bemerkte ich, dass es kein ladegerate hat. Ich habe
+sofort zu Kundenservice angerufen und herausgefunden, dass ich das separat extra für 50
+Euro dazukaufen müsste. Darauf hätten Sie vor dem kauf hinweisen müssen!
+
+In der ersten Woche hat alles gut funktioniert. Aber jetzt die Objectiv sieht sehr dunkel aus.
+Alle Photos sieht auch sehr dunkel aus. Ich konnte nie die Nacht modus benutzen. Die akku sieht
+weniger Stark als früher.
+
+Auf Ihre Website steht, dass die Warranty lauft bis 2 Jahre. Ich bitte Sie
+daher dieses Kamera umzutauschen. Mit diesem Brief fuge ich die Rechnung und auch ein copy
+von die Werbung auf Ihre Website. Ich warte auf Ihre Antwort spätestens bis 25. Sept.
+Ansonsten werde ich die Angelegenheit meinem Anwält ubergeben
+
+Mit freundlichen Grüßen
+NK
+```
+
+# Noch nitch fertig
+
+### Bitte um Informationen (Email)
+
+```text
+Betreff: Bitte um Informationen
 
 Sehr geehrte damen und Herren,
 
-mit größem Interesse habe ich Ihre Anzeige gelesen. Etwas wie "Online Bücher Umtausch" habe ich schon seit langen gesucht.
+mit größem Interesse habe ich Ihre Anzeige gelesen. Etwas wie "Online Bücher Umtausch" habe ich schon seit langen gesucht, deshalb interesse ich mich für Ihre Angebot.
 
 Zurzeit wohne ich in Pforzheim und bin schon ein mitglied von Bibliothek
 ```
-
-### BeschwerdeBrief für etwas auf online einkaufen
