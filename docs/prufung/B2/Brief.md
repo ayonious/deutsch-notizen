@@ -132,8 +132,6 @@ Mit freundlichen Grüßen
 NK
 ```
 
-# Noch nitch fertig
-
 ### Bitte um Informationen (Email)
 
 ```text
@@ -143,5 +141,7 @@ Sehr geehrte damen und Herren,
 
 mit größem Interesse habe ich Ihre Anzeige gelesen. Etwas wie "Online Bücher Umtausch" habe ich schon seit langen gesucht, deshalb interesse ich mich für Ihre Angebot.
 
-Zurzeit wohne ich in Pforzheim und bin schon ein mitglied von Bibliothek in Pforzheim.
+Zurzeit wohne ich in Pforzheim und bin schon ein mitglied von Bibliothek in Pforzheim. Leider diese
+Bibliothek hat nicht eine große Sammlung. Ich finde nicht alle Bücher hier. Ich muss haufig viel
+Bücher Online kaufen und deshalb jetzt habe ich ein kleine Privat Bibliothek in mein Zuhause.
 ```
