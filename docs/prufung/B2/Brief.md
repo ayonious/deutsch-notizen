@@ -48,7 +48,7 @@ Zimmer mit jemand anderem teilen. Wir mussten uns die Toilette teilen. Die Dusch
 Toiletten waren sehr dreckig und es wurde kaum geputzt.
 
 Leider war ich mit dem Unterricht auch unzufrieden. Es waren nur 2 Lehrer und wir waren
-30 Schüler in eine Klasse. Die Anzeige hat persönliche Lehrer versprochen, aber das hatte
+30 Schüler in eine Klasse. Die Anzeige hat Privatunterricht versprochen, aber das hatte
 ich nie bekommen. Ich habe mich für Level B2  angemeldet aber wir mussten gemeinsame
 an einem B1 Kurs teilnehmen. Am Ende habe ich eine Prüfung erwartet, wie sie in der
 Anzeige steht. Leider war die Prüfung auch B1. Da ich kein B1 Zertifikat brauche, habe
@@ -109,7 +109,8 @@ Betreff: Beschwerde über meine Kamera
 
 Sehr geehrte Damen und Herren,
 
-aufgrund Ihrer Anzeige in der Social Media "Facebuch" habe ich Vor 2 Wochen ein Kamera XX-12 von Ihre Digital online Shop gekauft.
+aufgrund Ihrer Anzeige in der Social Media "Facebuch" habe ich Vor 2 Wochen ein Kamera XX-12
+von Ihre Digital online Shop gekauft.
 
 
 Leider bin ich sehr unzufrieden und möchte mit diesem
@@ -132,16 +133,16 @@ Mit freundlichen Grüßen
 NK
 ```
 
-### Bitte um Informationen (Email)
+### Bitte um Informationen (Email) [noch nicht fertig]
 
 ```text
 Betreff: Bitte um Informationen
 
 Sehr geehrte damen und Herren,
 
-mit größem Interesse habe ich Ihre Anzeige gelesen. Etwas wie "Online Bücher Umtausch" habe ich schon seit langen gesucht, deshalb interesse ich mich für Ihre Angebot.
+mit größem Interesse habe ich Ihre Anzeige gelesen. Etwas wie "Online Bücher Umtausch"
+habe ich schon seit langen gesucht, deshalb interesse ich mich für Ihre Angebot.
 
-Zurzeit wohne ich in Pforzheim und bin schon ein mitglied von Bibliothek in Pforzheim. Leider diese
-Bibliothek hat nicht eine große Sammlung. Ich finde nicht alle Bücher hier. Ich muss haufig viel
-Bücher Online kaufen und deshalb jetzt habe ich ein kleine Privat Bibliothek in mein Zuhause.
+Zurzeit wohne ich in Pforzheim und bin schon ein mitglied von Bibliothek in Pforzheim. Leider diese Bibliothek hat nicht eine große Sammlung. Ich finde nicht alle Bücher hier.
+Ich muss haufig viel Bücher Online kaufen und deshalb jetzt habe ich ein kleine Privat Bibliothek in mein Zuhause.
 ```
