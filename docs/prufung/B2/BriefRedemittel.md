@@ -11,6 +11,7 @@ sidebar_label: BriefRedemittel
 ### Bewerbungsbrief
 
 - Aus diesem(singular) Grund würde ich mich freuen wenn..
+- Daher möchte ich mich als Praktikant bei Ihnen bewerben.
 
 ### Beschwerdebrief
 
