@@ -17,7 +17,22 @@ Tips:
 ## Ein Film das ich gesehen habe
 
 ```text
+Ich möchte über einen Film berichten, der mir sehr gefallen hat. Der Film heißt "The Beach". Es ist
+aus dem jahr 2000 und eine Drama/Abenteurliche Film.  Die Hauptschauspieler ist Leonardo De
+Caprio der auch meine Liebligsschauspeiler ist. In dem Film heißt er Richard.
 
+Der amerikanische Student Richard macht ein Urlaub in Thailand. Dort findet er eine Geheim Insel.
+Diese Insel war getrennnt von haupt Land und hatte keine verbindung mit Boot. Richard und zusammemn
+ mit seinen Freunden hatten gefunden ein versteckte Insel gefunden.
+
+Sie sind am endte dort erreicht. Aber in diese Insel lebten schon andere menschen die von rest der
+ Welt getrennt sind. Diese menschen haben entschiedet weg von rest der Welt zu sein und einfach in
+ Natur zu leben. Richard wollte auch mitmachen und mit diesen leute auf dieser Insel leben.
+
+Auf dieser Insel hat er fast 2 Monaten gelebt und viel erfahrung gesammelt. Er hat mit seine freunde in dieser Insel ein Foto gemacht. Am end musste sie alle wegen schlechte grunde die Insel verlassen.
+Aber die Foto bleibt. Am ende es kommt zuruck nach USA aber das Foto bleibt immer mit ihm. Wenn es
+diese Foto sieht und alle beschaftigte menschen in USA sieht erinnert er viele gute Erfahrungen die
+er dort gemacht hatte.
 ```
 
 ## Ein Reise das ich gemacht habe
@@ -27,3 +42,5 @@ Ich will über eine Reise berichten. Letze jahr war ich in Sachsony. Die genauer
 ```
 
 # Teil2: Discussion
+
+- Mach notizen darüber und mit dem Partner diskutieren
