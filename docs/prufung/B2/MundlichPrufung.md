@@ -12,8 +12,6 @@ Tips:
 
 - Nicht immer in meine Zettel sehen
 
-## Ein Buch das ich gelesen habe
-
 ## Ein Film das ich gesehen habe
 
 ```text
