@@ -93,6 +93,7 @@ sidebar_label: Wortschatz
 
 - Nämlich: (which is) es gibt eine Irrglaube im bezug auf Sprachlernen, nämlich dass man es schnell lernen kann.
 - Nachmachen: (Kopieren) Gegenteil von Vormachen => jemand zeigen wie etwas gemacht wird
+- Nachvollziehen(understand) Sie müssen nachvollziehen können, was sie tun.
 
 # P
 
