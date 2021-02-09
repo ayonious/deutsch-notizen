@@ -6,7 +6,7 @@ sidebar_label: Wortschatz
 
 # A
 
-- Allmählich => wenn auch die traditionen weiterleben, so verschwendet doch allmählich der wunsch wieder zurückzukehren. even if the traditions live on, the desire to return is gradually wasted
+- Allmählich => wenn auch die traditionen weiterleben, so verschwendet doch allmählich der Wünsch wieder zurückzukehren. even if the traditions live on, the desire to return is gradually wasted
 - Angelegenheit => (en: Matter) Das ist ein Familienangelegenheit. [This is a family Matter]
   schwer zu sehen.
 - Anschließend => (finally) Sie kam spät, aber anschliesend ging sofort nach Hause.
@@ -16,7 +16,7 @@ sidebar_label: Wortschatz
 - Aufgefallen(bemerken) => es hat mir aufgefallen, dass du immer spät kommst. Sie ist mir - - Aufgefallen. geenteil Unauffällig =>
 - Ausrotten(extinct) => eine art von Tiere komplett vernichten
 - Auswendig => (by heart) er konnte das Periodensystem auswendig
-- Aüsdrucken => express. Ich kann es nur so ausdrucken: "Holle"
+- Aüsdrucken => (express). Ich kann es nur so ausdrucken: "Hölle"
 
 # B
 
@@ -45,6 +45,7 @@ sidebar_label: Wortschatz
 # G
 
 - Gesichtet(Seen): Viele menschen wurden mit Hochgekrempelte Ärmeln gesichtet
+- Genehmigen (approve/authorize) => Im Dezember war eine neue Impfstoff genehmigt worden.
 
 # H
 
@@ -103,6 +104,7 @@ sidebar_label: Wortschatz
 # S
 
 - Sonst (otherwise/otherwhere) => Das passiert hier und überall auf Der ganzen Welt.
+- Stöbern (look around/browse) Wir verkaufen Tische. KOMMEN SIE STÖBERN! (come to browse)
 
 # U
 
