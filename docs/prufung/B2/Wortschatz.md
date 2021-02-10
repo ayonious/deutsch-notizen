@@ -135,10 +135,10 @@ sidebar_label: Wortschatz
 - Widerlich (disgusting) => nicht razieren ist widerlich
 - Widmen(dedicate): sie sich etwas widmet, das keinen imotionalem Kontakt min Menschen verlangt. [she dedicated herself to something that does not require emotional contact with people]
 - Wiesen => grasslands (grüne Wiesen)
-  money). Wenn sie zurückamen wirkten sie zufrieden.
 - Winken(Wave) => ich winkte ihr einzutreten.
 - Wirbelsäule => (Spine)
-- Wirken(seem like) => du wirkst mir jemand der kein Geld hat(you seem like someone who has no
+- Wirken(seem like) => du wirkst mir jemand der kein Geld hat(you seem like someone who has no  
+  money). Wenn sie zurückamen wirkten sie zufrieden.
 - Würdig(worthy) => ein Heiliger ist drejenige, der sein leben würdig lebt.
 
 # Z
