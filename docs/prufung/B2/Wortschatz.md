@@ -21,6 +21,7 @@ sidebar_label: Wortschatz
 # B
 
 - Bedauern(regret): Zu ihrem großen Bedauern arbeitet sie auch als Prostituierte
+- Benehmen sich: (behave) Alle Schüler dieser Klasse benehmen sich wie Kinder
 - Besen (Broom): viele haben mit grossem interesse zu Besen und schaufeln gegriffen
 - Beteiligt: (involved) Viele vereine beteiligten sich
 - Betriebsanleitung: (instructions manual)
@@ -134,8 +135,10 @@ sidebar_label: Wortschatz
 - Widerlich (disgusting) => nicht razieren ist widerlich
 - Widmen(dedicate): sie sich etwas widmet, das keinen imotionalem Kontakt min Menschen verlangt. [she dedicated herself to something that does not require emotional contact with people]
 - Wiesen => grasslands (grüne Wiesen)
-- Wirken(seem like) => du wirkst mir jemand der kein Geld hat(you seem like someone who has no money). Wenn sie zurückamen wirkten sie zufrieden.
+  money). Wenn sie zurückamen wirkten sie zufrieden.
 - Winken(Wave) => ich winkte ihr einzutreten.
+- Wirbelsäule => (Spine)
+- Wirken(seem like) => du wirkst mir jemand der kein Geld hat(you seem like someone who has no
 - Würdig(worthy) => ein Heiliger ist drejenige, der sein leben würdig lebt.
 
 # Z

@@ -10,5 +10,5 @@ sidebar_label: Ja-Wohl-Doch
 - Ich bin nicht klug. Doch!
 - eh => Ich werde es eh nicht nehmen
 - Eben => (Ja genau)
-  Cari: er ich nicht da
+  Cari: er ist nicht da
   Felix: Ja eben
