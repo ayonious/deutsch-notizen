@@ -25,7 +25,7 @@ daran arbeiten und möchte gerne bei Ihnen mehr bei darüber lernen.
 
 Sollte Ihnen mein Profil gefallen haben, freue ich mich sehr über eine Antwort.
 
-Mit freundlichen Grüßen,
+mit freundlichen Grüßen,
 Nahiyan
 ```
 
@@ -60,7 +60,7 @@ Urlaub von meine Arbeit genommen. Alles im allem war dieses Camp ein Katastrophe
 Aus diesem Grund möchte ich Sie bitten, meine Zahlung von 700 Euro
 zurückzuerstatten.
 
-Mit freundlichen Grüßen
+mit freundlichen Grüßen
 NK
 ```
 

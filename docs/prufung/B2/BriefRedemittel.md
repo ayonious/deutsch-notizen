@@ -26,7 +26,7 @@ sidebar_label: BriefRedemittel
 - Aus diesem Grund möchte ich Sie bitten, meine Zahlung von 700 Euro zurückzuerstatten.
 - Ich erwarte Ihre Antwort spätestens bis zum 3.10.21
 
-### Bitte um informationen
+### Bitte um Informationen
 
 - Anschließend habe ich noch eine Bitte/Frage
 - Könnten Sie bitte mir folgende informationen

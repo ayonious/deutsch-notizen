@@ -69,6 +69,10 @@ sidebar_label: Wortschatz
 - Mangel => (lack of something)
 - Münster: Cathedral
 
+# N
+
+- Nehmen wir an => (suppose/lets assume) => Nehmen wir an, dass du ein König bist.
+
 # Q
 
 - Qüalerei => leid tun. Punish
@@ -115,7 +119,7 @@ sidebar_label: Wortschatz
 - Umsatz => (sales) Umsatz der Abteilung steig merklich an.
 - Unter leiden: Suffer from. Viele menschen leiden heutezutage unter bewegungsmangel
 - Unauffällig => schwer zu sehen
-- Ums leben kommen (sterben) => Stéphane Wintenberger bei einem tragischen Flugzeugabsturz ums
+- Ums leben kommen (sterben) => Diana ist bei einem tragischen Flugzeugabsturz ums
   Leben gekommen
 
 # V
@@ -148,3 +152,4 @@ sidebar_label: Wortschatz
 # Z
 
 - Zusammenfassen(summmarize): Wenn ich mein Leben zusammenfassen
+- Zugeben(admit) ich muss zugeben, dass ich verliebt bin. Selbstverstandlich hätte ich nie zugegeben dass ich verliebt war.
