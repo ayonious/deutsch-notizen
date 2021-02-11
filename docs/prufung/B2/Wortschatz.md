@@ -9,6 +9,7 @@ sidebar_label: Wortschatz
 - Allmählich => wenn auch die traditionen weiterleben, so verschwendet doch allmählich der Wünsch wieder zurückzukehren. even if the traditions live on, the desire to return is gradually wasted
 - Angelegenheit => (en: Matter) Das ist ein Familienangelegenheit. [This is a family Matter]
   schwer zu sehen.
+- Anpassen: (customize) Pass die daten an (adjust the dates)
 - Anschließend => (finally) Sie kam spät, aber anschliesend ging sofort nach Hause.
 - Anständig(decent) anständig essen
 - Ärger(Trouble): Du hast viele Ärger gekriegt
@@ -65,6 +66,7 @@ sidebar_label: Wortschatz
 
 # M
 
+- Mangel => (lack of something)
 - Münster: Cathedral
 
 # Q
@@ -113,6 +115,8 @@ sidebar_label: Wortschatz
 - Umsatz => (sales) Umsatz der Abteilung steig merklich an.
 - Unter leiden: Suffer from. Viele menschen leiden heutezutage unter bewegungsmangel
 - Unauffällig => schwer zu sehen
+- Ums leben kommen (sterben) => Stéphane Wintenberger bei einem tragischen Flugzeugabsturz ums
+  Leben gekommen
 
 # V
 
@@ -123,7 +127,7 @@ sidebar_label: Wortschatz
 - Verwählt => (dial wrong) Verziehung, ich habe mich verwählt.
 - Verrät => (erklaren)
 - Verlernen => (vergessen) Kochen verlernt man nicht.
-- Es kommt mir vor => (I felt like) jedenfalls kommt es mir so vor.
+- Es kommt mir vor => (it seems to me) jedenfalls kommt es mir so vor.
 - Vertragen(sich) => to get along. Sie vertragen sich nicht.
 - Vorfahren => (ancestors) Unsere Vorfahren haben das auch bemerkt als sie in Höhlen lebten
 - Vorträge => lecture. Da findett andere Vorträge statt.
