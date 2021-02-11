@@ -25,3 +25,5 @@ Mann soll dieses Wörter und Style benutzen, damit seine Deutsch besser klingt.
 - Wir rechnen damit, dass unsere Museum jedes tag von etwas 100 Menschen besucht werden wird.
 - Wir denken immer darüber nach, nämlich über unsere Kinder.
 - Wir machen die genau gegenteil, nämlich immer sitzen und sprechen.
+- Manche menschen traümen davon, reich zu werden oder 100 Jahre alt zu werden
+- Unter den Begriff "Handy" versteht man, ein Modernes Gerät.

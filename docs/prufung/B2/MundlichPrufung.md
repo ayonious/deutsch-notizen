@@ -16,7 +16,7 @@ Tips:
 ### Ein Film das ich gesehen habe
 
 ```text
-Ich möchte über einen Film berichten, der mir sehr gefallen hat. Der Film heißt
+Ich möchte über einen Film sprechen, den mir sehr gefallen hat. Der Film heißt
 "The Beach". Es ist aus dem jahr 2000 und eine Drama/Abenteurliche Film.
 Die Hauptschauspieler ist Leonardo De Caprio der auch meine Liebligsschauspeiler
 ist. In dem Film heißt er Richard.

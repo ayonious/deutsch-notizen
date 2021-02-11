@@ -22,9 +22,12 @@ sidebar_label: Wortschatz
 # B
 
 - Bedauern(regret): Zu ihrem großen Bedauern arbeitet sie auch als Prostituierte
-- Benehmen sich: (behave) Alle Schüler dieser Klasse benehmen sich wie Kinder
+- Benehmen sich: (behave) Alle Schüler dieser Klasse benehmen sich wie Kinder. Du benimmst dich
+  wie diese Person
 - Besen (Broom): viele haben mit grossem interesse zu Besen und schaufeln gegriffen
 - Beteiligt: (involved) Viele vereine beteiligten sich
+- Betrachtet als (considered as): Berlin ist betrachtet als eine der Hauptstadte der Welt mit
+  viele Gesischte.
 - Betriebsanleitung: (instructions manual)
 - Beschleunigen: (speed up)
 - Bummeln(spaziergang) => ich bummle durch die Stadt.
@@ -87,6 +90,10 @@ sidebar_label: Wortschatz
 - Stets => (immer) Kaum Sonne, stets regnen
 - Steuer: (tax/measurement) die region hat eine Steuer eingeführt
 - Steuer: (tax/measurement) die region will nun offenbar gegensteurn.
+
+# I
+
+- Im bezug auf => (on the subject of...) Wir mussen jeden üben.(Im bezug auf Sprache-lernen)
 
 # L
 
