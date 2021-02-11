@@ -4,15 +4,16 @@ title: MundlichPrufung
 sidebar_label: MundlichPrufung
 ---
 
-# Teil1: (Über Erfahrung Sprechen): (2-3 minuten prasenttion + 20 minuten vorbereiten)
+## Teil1: (Über Erfahrung Sprechen)
 
-Ich beschreibe eine Thema. Mein Partner fragt 2 frage über die Thema.
+- 2-3 minuten prasenttion + 20 minuten vorbereiten
+- Ich beschreibe eine Thema. Mein Partner fragt 2 frage über den Thema.
 
 Tips:
 
 - Nicht immer in meine Zettel sehen
 
-## Ein Film das ich gesehen habe
+### Ein Film das ich gesehen habe
 
 ```text
 Ich möchte über einen Film berichten, der mir sehr gefallen hat. Der Film heißt
@@ -38,7 +39,7 @@ beschaftigte menschen in USA sieht erinnert er viele gute Erfahrungen die er dor
 gemacht hatte.
 ```
 
-## Ein Reise das ich gemacht habe
+### Ein Reise das ich gemacht habe
 
 ```text
 Ich will über eine Reise berichten. Letze jahr war ich in Sachsony. Die genauer
@@ -52,6 +53,6 @@ in mein leben ein rote Pilz gesehen. Ich habe das nur in ferhseher oder
 Zeichentrick filmen gesehen.
 ```
 
-# Teil2: Discussion
+## Teil2: Discussion
 
 - Mach notizen darüber und mit dem Partner diskutieren
