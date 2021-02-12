@@ -14,7 +14,8 @@ sidebar_label: Wortschatz
 - Anständig(decent) anständig essen
 - Ärger(Trouble): Du hast viele Ärger gekriegt
 - Ärmeln(sleeves) Viele menschen wurden mit Hochgekrempelte Ärmeln gesichtet
-- Aufgefallen(bemerken) => es hat mir aufgefallen, dass du immer spät kommst. Sie ist mir - - Aufgefallen. geenteil Unauffällig =>
+- Aufgefallen(bemerken/remember) => es hat mir aufgefallen, dass du immer spät kommst. Sie ist mir - da fällt mir gleich ein(It occured to me just now/ I remembered just now) - Aufgefallen. geenteil Unauffällig =>
+
 - Ausrotten(extinct) => eine art von Tiere komplett vernichten
 - Auswendig => (by heart) er konnte das Periodensystem auswendig
 - Aüsdrucken => (express). Ich kann es nur so ausdrucken: "Hölle"
