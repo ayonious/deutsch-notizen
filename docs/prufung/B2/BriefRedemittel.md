@@ -17,15 +17,19 @@ sidebar_label: BriefRedemittel
 
 ### Beschwerdebrief
 
+- Ich möchte mit diesem Brief darüber beschwerden.
 - In Ihre Anzeige haben Sie versprochen, dass es sich um ein "X" handelt, aber es war leider nur ein "Y".
 - aufgrund Ihrer Anzeige in der Zeitung "X" habe ich an Ihrem "Y" teilgenommen.
 - Ein weiteres Problem war das warme Wasser.
 - Ein weiterer Punkt, das mir sehr wichtig ist.
 - Ich warte auf Ihre Antwort spätestens bis 25. Sept.
-  Ansonsten werde ich die Angelegenheit meinem Anwält ubergeben
+  Ansonsten werde ich die Angelegenheit meinen Anwält ubergeben
 - Alles im allem war dieses Camp ein Katastrophe
 - Aus diesem Grund möchte ich Sie bitten, meine Zahlung von 700 Euro zurückzuerstatten.
 - Ich erwarte Ihre Antwort spätestens bis zum 3.10.21
+- Am Ende hat es nicht gut gelaufen.
+- Ich warte spätestens bis zum 20.01.20 auf Ihre Antwort, ansonnst werde ich die angelegenheit an
+  meinen Anwalt ubergeben.
 
 ### Bitte um Informationen
 

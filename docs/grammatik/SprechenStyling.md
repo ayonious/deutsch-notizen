@@ -27,3 +27,4 @@ Mann soll dieses Wörter und Style benutzen, damit seine Deutsch besser klingt.
 - Wir machen die genau gegenteil, nämlich immer sitzen und sprechen.
 - Manche menschen traümen davon, reich zu werden oder 100 Jahre alt zu werden
 - Unter den Begriff "Handy" versteht man, ein Modernes Gerät.
+- geht es mir auch so... [I feel the same way]

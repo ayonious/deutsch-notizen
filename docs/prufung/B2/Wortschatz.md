@@ -128,8 +128,10 @@ sidebar_label: Wortschatz
 
 # U
 
+- Üblich: (usual) Üblichen Fragen. Wir machen das, wie üblich, am Wochenende.
 - Übrigens: (Besides) Übrigens kannst du auch Niederlandisch Sprechen
 - Umsatz => (sales) Umsatz der Abteilung steig merklich an.
+- Untergebracht werden (accommodate) Untergebracht sind Sie im Hotel X.
 - Unter leiden: Suffer from. Viele menschen leiden heutezutage unter bewegungsmangel
 - Unauffällig => schwer zu sehen
 - Ums leben kommen (sterben) => Diana ist bei einem tragischen Flugzeugabsturz ums
