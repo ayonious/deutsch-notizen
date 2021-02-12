@@ -2,10 +2,10 @@ import React from "react";
 
 const sources = [
   {
-    title: <>Aus Fernseher</>,
+    title: <>Aus dem Fernsehen</>,
     imageUrl: "img/undraw_movie_night_fldd.svg",
     description: (
-      <>Aus Tolle Filme und Sendungen die ich gesehen und gehört habe.</>
+      <>Aus großartigen Filmen und Shows, die ich gesehen und gehört habe.</>
     ),
   },
   {
@@ -17,7 +17,9 @@ const sources = [
     title: <>Romane und Sachbücher</>,
     imageUrl: "img/undraw_reading_time_gvg0.svg",
     description: (
-      <>Viele Bücher aus andere Sprache die in Deutsch übersetzt worden sind</>
+      <>
+        Viele Bücher aus anderen Sprachen die ins Deutsch übersetzt worden sind
+      </>
     ),
   },
 ];
