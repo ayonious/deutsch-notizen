@@ -9,7 +9,7 @@
 
 http://deutsch-notizen.netlify.app
 
-## 🌍 Wo kann man Deutsch sprechen?
+## 🗺️ Wo kann man Deutsch sprechen?
 
 1. Deutschland 🇩🇪
 2. Österreich 🇦🇹
