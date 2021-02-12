@@ -79,7 +79,7 @@ sidebar_label: Wortschatz
 
 # P
 
-- Prägen (shape/create): Es wird unsere Zukunft prägen
+- Prägen (shape/create/have an influence): Es wird unsere Zukunft prägen
 
 # Q
 
