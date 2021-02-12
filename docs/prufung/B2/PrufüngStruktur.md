@@ -1,7 +1,7 @@
 ---
-id: Brief
-title: Brief
-sidebar_label: Brief
+id: PrufüngStruktur
+title: PrufüngStruktur
+sidebar_label: PrufüngStruktur
 ---
 
 ### Bewerbungsbrief um eine Praktikantstelle

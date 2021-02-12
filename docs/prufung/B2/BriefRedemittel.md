@@ -11,6 +11,7 @@ sidebar_label: BriefRedemittel
 ### Bewerbungsbrief
 
 - Aus diesem(singular) Grund würde ich mich freuen wenn..
+- Aus diesen Gründen würde ich mich freuen
 - Daher möchte ich mich als Praktikant bei Ihnen bewerben.
 - Ich habe mit diesem Brief meinen Lebenslauf hinzugefügt
 

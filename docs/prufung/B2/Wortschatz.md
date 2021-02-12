@@ -24,6 +24,7 @@ sidebar_label: Wortschatz
 - Bedauern(regret): Zu ihrem großen Bedauern arbeitet sie auch als Prostituierte
 - Benehmen sich: (behave) Alle Schüler dieser Klasse benehmen sich wie Kinder. Du benimmst dich
   wie diese Person
+- Belastet (charged/burdened) Du wirst nicht für die Weihnachtsferien belastet.
 - Besen (Broom): viele haben mit grossem interesse zu Besen und schaufeln gegriffen
 - Beteiligt: (involved) Viele vereine beteiligten sich
 - Betrachtet als (considered as): Berlin ist betrachtet als eine der Hauptstadte der Welt mit
@@ -75,6 +76,10 @@ sidebar_label: Wortschatz
 # N
 
 - Nehmen wir an => (suppose/lets assume) => Nehmen wir an, dass du ein König bist.
+
+# P
+
+- Prägen (shape/create): Es wird unsere Zukunft prägen
 
 # Q
 
