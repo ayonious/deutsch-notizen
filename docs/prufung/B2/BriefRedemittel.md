@@ -32,6 +32,7 @@ sidebar_label: BriefRedemittel
   meinen Anwalt ubergeben.
 - so hatte ich mir das nicht vorgestellt.
 - bei meiner ankunft stellte ich fest, dass es eine 3-Sterne-Hotel war.
+- leider ist das am ende nicht so gut gelaufen.
 
 ### Bitte um Informationen
 
