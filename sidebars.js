@@ -23,7 +23,7 @@ module.exports = {
     {
       type: 'category',
       label: 'B2',
-      items: [ "prufung/B2/MundlichPrufung", "prufung/B2/Brief", "prufung/B2/BriefRedemittel", "prufung/B2/Wortschatz" ]
+      items: [ "prufung/B2/PrufüngStruktur", "prufung/B2/MundlichPrufung", "prufung/B2/Brief", "prufung/B2/BriefRedemittel", "prufung/B2/Wortschatz" ]
     }
   ],
   medien: [
