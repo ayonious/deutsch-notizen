@@ -35,6 +35,7 @@ sidebar_label: BriefRedemittel
 - leider ist das am ende nicht so gut gelaufen.
 - Zu meiner größen enttaüschung musste ich festellen, dass dieser Kauf ein größer Reinfall war.
 - Ich fordere ddeswegen von Ihnen, mir 50% meiner Zahlung zu erstatten.
+- Ich denke Sie können jetzt nachvollziehen wie enttaüscht von Ihre Service bin ich.
 
 ### Bitte um Informationen
 
