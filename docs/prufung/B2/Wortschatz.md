@@ -155,6 +155,7 @@ sidebar_label: Wortschatz
 - Es kommt mir vor => (it seems to me) jedenfalls kommt es mir so vor.
 - Vertragen(sich) => to get along. Sie vertragen sich nicht.
 - Vorfahren => (ancestors) Unsere Vorfahren haben das auch bemerkt als sie in Höhlen lebten
+- Vorkommen => (appear) Ohne meine Bücher würde ich mir nackt vorkommen. - kommt mir vor (seems to me)
 - Vorträge => lecture. Da findett andere Vorträge statt.
 - Vorübergehend => (temporarily) Vorübergehend geschlossen.
 - Voraussichtlich => (expected) Wir fahren voraussichtlich am 20. Mai. Achtung: Wegen der aktuellen Pandemiesituation bleibt die ZLB bis voraussichtlich 14.02. geschlossen.

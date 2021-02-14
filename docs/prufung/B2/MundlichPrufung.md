@@ -6,8 +6,8 @@ sidebar_label: MundlichPrufung
 
 ## Teil1: (Über Erfahrung Sprechen)
 
-- 2-3 minuten prasenttion + 20 minuten vorbereiten
-- Ich beschreibe eine Thema. Mein Partner fragt 2 frage über den Thema.
+- 20 minuten vorbereiten + 2-3 minuten prasenttion
+- Ich beschreibe ein Thema. Mein Partner fragt 2 frage über den Thema.
 
 Tips:
 
@@ -37,7 +37,19 @@ schlechte grunde die Insel verlassen. Aber die Foto bleibt. Am ende es kommt zur
 nach USA aber das Foto bleibt immer mit ihm. Wenn es diese Foto sieht und alle
 beschaftigte menschen in USA sieht erinnert er viele gute Erfahrungen die er dort
 gemacht hatte.
+
 ```
+
+### Fehlern das ich gemacht habe
+
+- Wenn wir dort hingehen. [wenn wir dor gehen]
+- Ein Student, der nach Thailand reist
+- Ein Abenteuer erleben.
+- Eine geheime Insel
+- Vom Rest der Welt.
+- Für ein paar monaten
+- Er hat Spaß gehabt [nich gemacht: gemacht bedeutet über jemand lustig zu machen]
+- Er ist zurück in die USA gegangen. [nicht nach] [in die Schweiz, in den Irak/Iran]
 
 ### Ein Reise das ich gemacht habe
 
@@ -54,5 +66,12 @@ Zeichentrick filmen gesehen.
 ```
 
 ## Teil2: Discussion
+
+Plan etwas zusammen
+
+- Ein Picnic
+- Geburtstag Party
+
+## Teil3: Discussion über ein Text
 
 - Mach notizen darüber und mit dem Partner diskutieren
