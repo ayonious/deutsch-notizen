@@ -9,13 +9,15 @@ sidebar_label: Wortschatz
 - Allmählich => wenn auch die traditionen weiterleben, so verschwendet doch allmählich der Wünsch wieder zurückzukehren. even if the traditions live on, the desire to return is gradually wasted
 - Angelegenheit => (en: Matter) Das ist ein Familienangelegenheit. [This is a family Matter]
   schwer zu sehen.
+- Anlass (occasion) => Anlass für die Gründung von Mobike war die steigende nachfrage für
+  Fahrrad Anfang der 90er Jahre.
 - Anpassen: (customize) Pass die daten an (adjust the dates)
 - Anschließend => (finally) Sie kam spät, aber anschliesend ging sofort nach Hause.
 - Anständig(decent) anständig essen
 - Ärger(Trouble): Du hast viele Ärger gekriegt
 - Ärmeln(sleeves) Viele menschen wurden mit Hochgekrempelte Ärmeln gesichtet
 - Aufgefallen(bemerken/remember) => es hat mir aufgefallen, dass du immer spät kommst. Sie ist mir - da fällt mir gleich ein(It occured to me just now/ I remembered just now) - Aufgefallen. geenteil Unauffällig =>
-
+- Aus machen (definieren) es macht den menschen aus, mit anderen zusammen zu sein. [living with others, defines us]
 - Ausrotten(extinct) => eine art von Tiere komplett vernichten
 - Aufwendig (laborious/expensive): Die sind aufwendig und teuer. Deshalb gibt es
   Wissenschaftlichen Wirksamkeitsnachweisen mangel.

@@ -132,7 +132,7 @@ auch ein copy von die Werbung auf Ihre Website. Ich warte auf Ihre Antwort
 spätestens bis 25. Sept. Ansonsten werde ich die Angelegenheit meinem Anwält
 ubergeben
 
-Mit freundlichen Grüßen
+Mit freundlichen Grüßen,
 NK
 ```
 
