@@ -74,4 +74,19 @@ Plan etwas zusammen
 
 ## Teil3: Discussion über ein Text
 
+- Es sind immer besondere Texte die haben immer nch teile und vorteile
+- Man soll über die beide denken.
 - Mach notizen darüber und mit dem Partner diskutieren
+
+```text
+Thema: Geld straffe für Stadtverschmutzer
+- Argumente dafür:
+1. Stadt bleibt sauber
+2. Stadt spärt Geld
+- Argumente dagegen:
+1. Manchmal keine Mülleimer
+2. Manche
+- Meine Erfahrung:
+1. Viel Hundescheisse auf der Strasse
+- Meine meinung ...
+```
