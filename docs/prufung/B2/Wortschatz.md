@@ -46,7 +46,9 @@ sidebar_label: Wortschatz
 
 # E
 
+- Entziehen = (elude/skip) sie ist eine Frau, die sich keine herausforderung entziehen
 - Entspannend => relaxing [geneteil Spanend]
+- Es sei denn: (unless) Ich werde dort sein, es sei denn, es schneit. und wesentlich passiert nichts.. es sei du fragst noch mal nach
 - Etliche (quite a few) ich habe etliche hundert mal das erlernt
 
 # F
@@ -106,6 +108,8 @@ sidebar_label: Wortschatz
 # I
 
 - Im bezug auf => (on the subject of...) Wir mussen jeden üben.(Im bezug auf Sprache-lernen)
+- Interessieren sich an(dativ) / für (akk)
+- Interessieren sich an(fativ)
 
 # L
 
