@@ -4,7 +4,7 @@ title: Wortschatz
 sidebar_label: Wortschatz
 ---
 
-# A
+## A
 
 - Allmählich => wenn auch die traditionen weiterleben, so verschwendet doch allmählich der Wünsch wieder zurückzukehren. even if the traditions live on, the desire to return is gradually wasted
 - Angelegenheit => (en: Matter) Das ist ein Familienangelegenheit. [This is a family Matter]
@@ -24,7 +24,7 @@ sidebar_label: Wortschatz
 - Auswendig => (by heart) er konnte das Periodensystem auswendig
 - Aüsdrucken => (express). Ich kann es nur so ausdrucken: "Hölle"
 
-# B
+## B
 
 - Bedauern(regret): Zu ihrem großen Bedauern arbeitet sie auch als Prostituierte
 - Benehmen sich: (behave) Alle Schüler dieser Klasse benehmen sich wie Kinder. Du benimmst dich
@@ -38,64 +38,64 @@ sidebar_label: Wortschatz
 - Beschleunigen: (speed up)
 - Bummeln(spaziergang) => ich bummle durch die Stadt.
 
-# D
+## D
 
 - Dazu: (for that/in addition) => Sie haben dazu 30 sekunden zeit. (to do this you have 30s time)
 - Dazu: (for that/in addition) => wollen Sie etwas noch dazu? (do you want something more?)
 - Düster: (dark): Die Welt sieht düsterer aus
 
-# E
+## E
 
 - Entziehen = (elude/skip) sie ist eine Frau, die sich keine herausforderung entziehen
 - Entspannend => relaxing [geneteil Spanend]
 - Es sei denn: (unless) Ich werde dort sein, es sei denn, es schneit. und wesentlich passiert nichts.. es sei du fragst noch mal nach
 - Etliche (quite a few) ich habe etliche hundert mal das erlernt
 
-# F
+## F
 
 - Fest (strong) => ist es fest?
 - Fest (proof) => wasserfeste Jacke
 - Fluch => (Curse) mein Talent war immer ein Fluch.
 
-# G
+## G
 
 - Gesichtet(Seen): Viele menschen wurden mit Hochgekrempelte Ärmeln gesichtet
 - Genehmigen (approve/authorize) => Im Dezember war eine neue Impfstoff genehmigt worden.
 
-# H
+## H
 
 - Hamster => kleine Tiere
 - Hamstern => alles fertig machen (durch essen/kaufen). Als die Waren knapp wurden, haben alle angefangen zu hamstern.
 - Hochgekrempelte(rolled up): Viele menschen wurden mit Hochgekrempelte Ärmeln gesichtet
 - Höhlen => (Cave) Unsere Vorfahren haben das auch bemerkt als sie in Höhlen lebten
 
-# J
+## J
 
 - Jedenfalls: (at least), jedenfalls kommt es mir so vor (at least thats how I felt)
 
-# K
+## K
 
 - Knapp => (EN: close): Als die Waren knapp wurden, haben alle angefangen zu hamstern.
 
-# M
+## M
 
 - Mangel => (lack of something)
 - Münster: Cathedral
 
-# N
+## N
 
 - Nehmen wir an => (suppose/lets assume) => Nehmen wir an, dass du ein König bist.
 
-# P
+## P
 
 - Prägen (shape/create/have an influence): Es wird unsere Zukunft prägen
 
-# Q
+## Q
 
 - Qüalerei => leid tun. Punish
 - Quitt => Du schuldest mir Geld. Jetzt sind wir quitt.
 
-# S
+## S
 
 - Schaufe (Broom): viele haben mit grossem interesse zu Besen und schaufeln gegriffen
 - Schulden => (owe) Sie schulden mir Geld. Du schuldest mir geld (ich kriege Geld von dir)
@@ -105,38 +105,38 @@ sidebar_label: Wortschatz
 - Steuer: (tax/measurement) die region hat eine Steuer eingeführt
 - Steuer: (tax/measurement) die region will nun offenbar gegensteurn.
 
-# I
+## I
 
 - Im bezug auf => (on the subject of...) Wir mussen jeden üben.(Im bezug auf Sprache-lernen)
 - Interessieren sich an(dativ) / für (akk)
 - Interessieren sich an(fativ)
 
-# L
+## L
 
 - Lob => Praise (gegenteil von Kritik). Aber sie besuchte jeen Sonntag die Messe, um auf ihrere Gitarre zu speilen und die heilige Jungfrau zu loben.
 
-# M
+## M
 
 - Mahlen => Grind. Getreide(grain) Mahlen
 - Mangel: Scarcity. Viele menschen leiden heutezutage unter bewegungsmangel
 
-# N
+## N
 
 - Nämlich: (which is) es gibt eine Irrglaube im bezug auf Sprachlernen, nämlich dass man es schnell lernen kann.
 - Nachmachen: (Kopieren) Gegenteil von Vormachen => jemand zeigen wie etwas gemacht wird
 - Nachvollziehen(understand) Sie müssen nachvollziehen können, was sie tun.
 
-# P
+## P
 
 - Paläste => Palaces
 - Pfad => path/trail. (schmaler Weg) (narrow path)
 
-# S
+## S
 
 - Sonst (otherwise/otherwhere) => Das passiert hier und überall auf Der ganzen Welt.
 - Stöbern (look around/browse) Wir verkaufen Tische. KOMMEN SIE STÖBERN! (come to browse)
 
-# U
+## U
 
 - Üblich: (usual) Üblichen Fragen. Wir machen das, wie üblich, am Wochenende.
 - Übrigens: (Besides) Übrigens kannst du auch Niederlandisch Sprechen
@@ -147,7 +147,7 @@ sidebar_label: Wortschatz
 - Ums leben kommen (sterben) => Diana ist bei einem tragischen Flugzeugabsturz ums
   Leben gekommen
 
-# V
+## V
 
 - Verdauen => to get rotten for digestive purpose. Im Magen und Darm wird das Essen verdaut
 - Verzehen => essen
@@ -164,7 +164,7 @@ sidebar_label: Wortschatz
 - Vorübergehend => (temporarily) Vorübergehend geschlossen.
 - Voraussichtlich => (expected) Wir fahren voraussichtlich am 20. Mai. Achtung: Wegen der aktuellen Pandemiesituation bleibt die ZLB bis voraussichtlich 14.02. geschlossen.
 
-# W
+## W
 
 - Widerlich (disgusting) => nicht razieren ist widerlich
 - Widmen(dedicate): sie sich etwas widmet, das keinen imotionalem Kontakt min Menschen verlangt. [she dedicated herself to something that does not require emotional contact with people]
@@ -175,7 +175,7 @@ sidebar_label: Wortschatz
   money). Wenn sie zurückamen wirkten sie zufrieden.
 - Würdig(worthy) => ein Heiliger ist drejenige, der sein leben würdig lebt.
 
-# Z
+## Z
 
 - Zusammenfassen(summmarize): Wenn ich mein Leben zusammenfassen
 - Zugeben(admit) ich muss zugeben, dass ich verliebt bin. Selbstverstandlich hätte ich nie zugegeben dass ich verliebt war.
