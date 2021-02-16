@@ -6,6 +6,8 @@ sidebar_label: Wortschatz
 
 ## A
 
+- Abgewiesen (rejected) zeus hat sich eigens in einen Vogel verwandelt, um hera lieben zu können,
+  ohne abgewiesen zu werden
 - Allmählich => wenn auch die traditionen weiterleben, so verschwendet doch allmählich der Wünsch wieder zurückzukehren. even if the traditions live on, the desire to return is gradually wasted
 - Angelegenheit => (en: Matter) Das ist ein Familienangelegenheit. [This is a family Matter]
   schwer zu sehen.
@@ -36,6 +38,7 @@ sidebar_label: Wortschatz
   viele Gesischte.
 - Betriebsanleitung: (instructions manual)
 - Beschleunigen: (speed up)
+- BH(bra) burst halter
 - Bummeln(spaziergang) => ich bummle durch die Stadt.
 
 ## D
@@ -46,6 +49,7 @@ sidebar_label: Wortschatz
 
 ## E
 
+- Eigens => (especially) deshalb ist er eigens aus Berlin gekommen.
 - Entziehen = (elude/skip) sie ist eine Frau, die sich keine herausforderung entziehen
 - Entspannend => relaxing [geneteil Spanend]
 - Es sei denn: (unless) Ich werde dort sein, es sei denn, es schneit. und wesentlich passiert nichts.. es sei du fragst noch mal nach
@@ -100,6 +104,7 @@ sidebar_label: Wortschatz
 - Schaufe (Broom): viele haben mit grossem interesse zu Besen und schaufeln gegriffen
 - Schulden => (owe) Sie schulden mir Geld. Du schuldest mir geld (ich kriege Geld von dir)
 - Segen => (blessing) gegentail von Fluch. Möge Gottes Segen mit dir sein [May Gods blessings be with you]
+- Sich beklagen über (complain)
 - Spannend => exciting [geneteil entspannend]
 - Stets => (immer) Kaum Sonne, stets regnen
 - Steuer: (tax/measurement) die region hat eine Steuer eingeführt
@@ -110,6 +115,7 @@ sidebar_label: Wortschatz
 - Im bezug auf => (on the subject of...) Wir mussen jeden üben.(Im bezug auf Sprache-lernen)
 - Interessieren sich an(dativ) / für (akk)
 - Interessieren sich an(fativ)
+- In einem zug (in one go) => ich werde das Tee in einem Zug austrinken
 
 ## L
 
@@ -179,3 +185,4 @@ sidebar_label: Wortschatz
 
 - Zusammenfassen(summmarize): Wenn ich mein Leben zusammenfassen
 - Zugeben(admit) ich muss zugeben, dass ich verliebt bin. Selbstverstandlich hätte ich nie zugegeben dass ich verliebt war.
+- Zu gesicht bekommen (see) warrum bekommt niemand deinen Freund nie zu gesicht.
