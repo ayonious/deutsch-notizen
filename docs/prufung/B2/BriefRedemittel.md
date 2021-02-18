@@ -42,3 +42,5 @@ sidebar_label: BriefRedemittel
 - Anschließend habe ich noch eine Bitte/Frage
 - Könnten Sie bitte mir folgende informationen
 - Es wäre eine größe Hilfe für mich, wenn...
+- Ihr Angebot ist genau nach was ich suche
+- Da ich zum erstemal in Dresden sein werde, will ich einbißchen früh ankommen.

@@ -155,7 +155,10 @@ sidebar_label: Wortschatz
 
 ## V
 
-- Verdauen => to get rotten for digestive purpose. Im Magen und Darm wird das Essen verdaut
+- Verdauen => to get rotten for digestive purpose. Im Magen und Darm wird das
+  Essen verdaut
+- vergewissern: => (make sure of something) => sie hat vergewissern
+  das er geschlafen war
 - Verzehen => essen
 - Vernichten => destroy / eradicate
 - Vor haben => (wollen) ich hätte es immer vor, Berlin zu kommen
