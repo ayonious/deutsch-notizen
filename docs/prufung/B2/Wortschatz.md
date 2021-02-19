@@ -142,6 +142,10 @@ sidebar_label: Wortschatz
 - Sonst (otherwise/otherwhere) => Das passiert hier und überall auf Der ganzen Welt.
 - Stöbern (look around/browse) Wir verkaufen Tische. KOMMEN SIE STÖBERN! (come to browse)
 
+## T
+
+- Treu (loyal) => Bleib treu zu deine Frau.
+
 ## U
 
 - Üblich: (usual) Üblichen Fragen. Wir machen das, wie üblich, am Wochenende.

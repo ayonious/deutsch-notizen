@@ -1,7 +1,7 @@
 ---
-id: MundlichPrufung
-title: MundlichPrufung
-sidebar_label: MundlichPrufung
+id: MundlichePrufung
+title: Mundliche Prufung
+sidebar_label: Mundliche Prufung
 ---
 
 ## Teil1: (Über Erfahrung Sprechen)

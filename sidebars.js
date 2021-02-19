@@ -4,26 +4,50 @@ module.exports = {
       type: 'category',
       label: 'Basics',
       collapsed: false,
-      items: ["grammatik/Tekamolo", "grammatik/JenigeJener", "grammatik/KonjunktivI", "grammatik/KonjunktivII"],
+      items: [
+        "grammatik/Tekamolo", 
+        "grammatik/JenigeJener", 
+        "grammatik/KonjunktivI", 
+        "grammatik/KonjunktivII"
+      ],
     },
     {
       type: 'category',
       label: 'MittelSchritte',
       collapsed: false,
-      items: ["grammatik/PlusquimPerfekt", "grammatik/Machen", "grammatik/Lander", "grammatik/Nebensatz", "grammatik/VerbMitPrapositionen", "grammatik/PrapositionenAkkDativ"],
+      items: [
+        "grammatik/PlusquimPerfekt", 
+        "grammatik/Machen", 
+        "grammatik/Lander", 
+        "grammatik/Nebensatz", 
+        "grammatik/VerbMitPrapositionen", 
+        "grammatik/PrapositionenAkkDativ"
+      ],
     },
     {
       type: 'category',
       label: 'Fortgeschrittene',
       collapsed: false,
-      items: ["grammatik/Redevendung", "grammatik/SprechenStyling", "grammatik/Abkürzungen", "grammatik/DerenDessen", "grammatik/Passiv"],
+      items: [
+        "grammatik/Redevendung", 
+        "grammatik/SprechenStyling", 
+        "grammatik/Abkürzungen", 
+        "grammatik/DerenDessen", 
+        "grammatik/Passiv"
+      ],
     },
   ],
   Prüfung: [
     {
       type: 'category',
       label: 'B2',
-      items: [ "prufung/B2/PrufüngStruktur", "prufung/B2/MundlichPrufung", "prufung/B2/Brief", "prufung/B2/BriefRedemittel", "prufung/B2/Wortschatz" ]
+      items: [ 
+        "prufung/B2/SchriftlichePrufung", 
+        "prufung/B2/MundlichePrufung", 
+        "prufung/B2/Brief", 
+        "prufung/B2/BriefRedemittel", 
+        "prufung/B2/Wortschatz" 
+      ]
     }
   ],
   medien: [

@@ -25,6 +25,7 @@ sidebar_label: BriefRedemittel
 - Ich warte auf Ihre Antwort spätestens bis 25. Sept.
   Ansonsten werde ich die Angelegenheit an meinen Anwält ubergeben
 - Alles im allem war dieses Camp ein Katastrophe
+- Das ist nicht 20 qm wie in den Anzeige gesaagt wurde
 - Aus diesem Grund möchte ich Sie bitten, mir meine Zahlung von 700 Euro zurückzuerstatten.
 - Ich erwarte Ihre Antwort spätestens bis zum 3.10.21
 - Am Ende hat es nicht gut gelaufen.
