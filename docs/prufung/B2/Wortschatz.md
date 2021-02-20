@@ -141,6 +141,7 @@ sidebar_label: Wortschatz
 
 - Sonst (otherwise/otherwhere) => Das passiert hier und überall auf Der ganzen Welt.
 - Stöbern (look around/browse) Wir verkaufen Tische. KOMMEN SIE STÖBERN! (come to browse)
+- Speicher (Attic) es wird im Speicher nur getanzt.
 
 ## T
 
@@ -148,12 +149,13 @@ sidebar_label: Wortschatz
 
 ## U
 
-- Üblich: (usual) Üblichen Fragen. Wir machen das, wie üblich, am Wochenende.
+- Üblich: (usual/gewöhnlich) Üblichen Fragen. Wir machen das, wie üblich, am Wochenende.
 - Übrigens: (Besides) Übrigens kannst du auch Niederlandisch Sprechen
-- Umsatz => (sales) Umsatz der Abteilung steig merklich an.
+- Umsatz => (Sales) Umsatz der Abteilung steig merklich an.
 - Untergebracht werden (accommodate) Untergebracht sind Sie im Hotel X.
 - Unter leiden: Suffer from. Viele menschen leiden heutezutage unter bewegungsmangel
-- Unauffällig => schwer zu sehen
+- Unterdrückt (Suppressed/restrained) =>
+- Unauffällig => schwer zu sehen.
 - Ums leben kommen (sterben) => Diana ist bei einem tragischen Flugzeugabsturz ums
   Leben gekommen
 
@@ -161,8 +163,8 @@ sidebar_label: Wortschatz
 
 - Verdauen => to get rotten for digestive purpose. Im Magen und Darm wird das
   Essen verdaut
-- vergewissern: => (make sure of something) => sie hat vergewissern
-  das er geschlafen war
+- Vergewissern: => (make sure of something) => sie hat vergewissern dass er eingeschlafen war.
+- Verweigern (deny) jemandem die Erlaubnis Verweigern
 - Verzehen => essen
 - Vernichten => destroy / eradicate
 - Vor haben => (wollen) ich hätte es immer vor, Berlin zu kommen
@@ -176,6 +178,7 @@ sidebar_label: Wortschatz
 - Vorträge => lecture. Da findett andere Vorträge statt.
 - Vorübergehend => (temporarily) Vorübergehend geschlossen.
 - Voraussichtlich => (expected) Wir fahren voraussichtlich am 20. Mai. Achtung: Wegen der aktuellen Pandemiesituation bleibt die ZLB bis voraussichtlich 14.02. geschlossen.
+- Verbannung => (Exile) Früher
 
 ## W
 
@@ -193,3 +196,4 @@ sidebar_label: Wortschatz
 - Zusammenfassen(summmarize): Wenn ich mein Leben zusammenfassen
 - Zugeben(admit) ich muss zugeben, dass ich verliebt bin. Selbstverstandlich hätte ich nie zugegeben dass ich verliebt war.
 - Zu gesicht bekommen (see) warrum bekommt niemand deinen Freund nie zu gesicht.
+- Zufolge(according to) => 1. Frau Khalil zufolge, nachdem die Ordnung wiedergestellt war, wird im Speicher nur gemeinsam getanzt. 2. Aber das ist, dem Anwalt Sheldon zufolge, nicht Legal 3. Ihm zufolge ist es nicht erlaubt
