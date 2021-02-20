@@ -54,6 +54,7 @@ sidebar_label: Wortschatz
 - Entspannend => relaxing [geneteil Spanend]
 - Es sei denn: (unless) Ich werde dort sein, es sei denn, es schneit. und wesentlich passiert nichts.. es sei du fragst noch mal nach
 - Etliche (quite a few) ich habe etliche hundert mal das erlernt
+- Ereignis (event) => mir war klar welchen folge diese ereignis haben könnte.
 
 ## F
 
