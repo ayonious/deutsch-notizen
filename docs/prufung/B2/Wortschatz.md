@@ -6,6 +6,7 @@ sidebar_label: Wortschatz
 
 ## A
 
+- Angeblich (supposedly) er war angeblich beim Artz. er ist angeblich Student
 - Abgewiesen (rejected) zeus hat sich eigens in einen Vogel verwandelt, um hera lieben zu können,
   ohne abgewiesen zu werden
 - Allmählich => wenn auch die traditionen weiterleben, so verschwendet doch allmählich der Wünsch wieder zurückzukehren. even if the traditions live on, the desire to return is gradually wasted
@@ -36,6 +37,8 @@ sidebar_label: Wortschatz
 - Beteiligt: (involved) Viele vereine beteiligten sich
 - Betrachtet als (considered as): Berlin ist betrachtet als eine der Hauptstadte der Welt mit
   viele Gesischte.
+- Betrauern(mourn) => Es ist lächerlich, dass wir heute noch dieselbe Vorwahl haben
+  wie England, dessen Briefmarken benutzen und immer noch die Niederlage unserer Königin Maria im Kampf um den Thron betrauen.
 - Betriebsanleitung: (instructions manual)
 - Beschleunigen: (speed up)
 - BH(bra) burst halter
@@ -52,9 +55,10 @@ sidebar_label: Wortschatz
 - Eigens => (especially) deshalb ist er eigens aus Berlin gekommen.
 - Entziehen = (elude/skip) sie ist eine Frau, die sich keine herausforderung entziehen
 - Entspannend => relaxing [geneteil Spanend]
+- Ereignis (event) => mir war klar welchen folge diese ereignis haben könnte.
 - Es sei denn: (unless) Ich werde dort sein, es sei denn, es schneit. und wesentlich passiert nichts.. es sei du fragst noch mal nach
 - Etliche (quite a few) ich habe etliche hundert mal das erlernt
-- Ereignis (event) => mir war klar welchen folge diese ereignis haben könnte.
+- Empörung(revolt/disgust)
 
 ## F
 
@@ -194,7 +198,8 @@ sidebar_label: Wortschatz
 
 ## Z
 
+- Zufolge(according to) => 1. Frau Khalil zufolge, nachdem die Ordnung wiedergestellt war, wird im Speicher nur gemeinsam getanzt. 2. Aber das ist, dem Anwalt Sheldon zufolge, nicht Legal 3. Ihm zufolge ist es nicht erlaubt
 - Zusammenfassen(summmarize): Wenn ich mein Leben zusammenfassen
 - Zugeben(admit) ich muss zugeben, dass ich verliebt bin. Selbstverstandlich hätte ich nie zugegeben dass ich verliebt war.
+- Zuneigung (affection for someone) => zu jemandem Zuneigung haben, hegen(cherish), fassen (grasp)
 - Zu gesicht bekommen (see) warrum bekommt niemand deinen Freund nie zu gesicht.
-- Zufolge(according to) => 1. Frau Khalil zufolge, nachdem die Ordnung wiedergestellt war, wird im Speicher nur gemeinsam getanzt. 2. Aber das ist, dem Anwalt Sheldon zufolge, nicht Legal 3. Ihm zufolge ist es nicht erlaubt
