@@ -202,4 +202,4 @@ sidebar_label: Wortschatz
 - Zusammenfassen(summmarize): Wenn ich mein Leben zusammenfassen
 - Zugeben(admit) ich muss zugeben, dass ich verliebt bin. Selbstverstandlich hätte ich nie zugegeben dass ich verliebt war.
 - Zuneigung (affection for someone) => zu jemandem Zuneigung haben, hegen(cherish), fassen (grasp)
-- Zu gesicht bekommen (see) warrum bekommt niemand deinen Freund nie zu gesicht.
+- Zu gesicht bekommen (see) Warrum bekommt niemand deinen Freund nie zu gesicht.
