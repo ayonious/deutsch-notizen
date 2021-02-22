@@ -200,6 +200,6 @@ sidebar_label: Wortschatz
 
 - Zufolge(according to) => 1. Frau Khalil zufolge, nachdem die Ordnung wiedergestellt war, wird im Speicher nur gemeinsam getanzt. 2. Aber das ist, dem Anwalt Sheldon zufolge, nicht Legal 3. Ihm zufolge ist es nicht erlaubt
 - Zusammenfassen(summmarize): Wenn ich mein Leben zusammenfassen
-- Zugeben(admit) ich muss zugeben, dass ich verliebt bin. Selbstverstandlich hätte ich nie zugegeben dass ich verliebt war.
-- Zuneigung (affection for someone) => zu jemandem Zuneigung haben, hegen(cherish), fassen (grasp)
+- Zugeben(admit) Ich muss zugeben, dass ich verliebt bin. Selbstverstandlich hätte ich nie zugegeben dass ich verliebt war.
+- Zuneigung (affection for someone) => Zu jemandem Zuneigung haben, hegen(cherish), fassen (grasp)
 - Zu gesicht bekommen (see) Warrum bekommt niemand deinen Freund nie zu gesicht.
