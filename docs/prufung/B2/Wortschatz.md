@@ -55,6 +55,7 @@ sidebar_label: Wortschatz
 - Eigens => (especially) deshalb ist er eigens aus Berlin gekommen.
 - Entziehen = (elude/skip) sie ist eine Frau, die sich keine herausforderung entziehen
 - Entspannend => relaxing [geneteil Spanend]
+- Empfindest (feel) Ich weiss wie du empfindest.
 - Ereignis (event) => mir war klar welchen folge diese ereignis haben könnte.
 - Es sei denn: (unless) Ich werde dort sein, es sei denn, es schneit. und wesentlich passiert nichts.. es sei du fragst noch mal nach
 - Etliche (quite a few) ich habe etliche hundert mal das erlernt
