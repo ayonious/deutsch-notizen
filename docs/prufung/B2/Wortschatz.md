@@ -154,6 +154,7 @@ sidebar_label: Wortschatz
 
 ## U
 
+- Überwunden (overcome) => Sie hat den Schock noch nicht überwunden
 - Üblich: (usual/gewöhnlich) Üblichen Fragen. Wir machen das, wie üblich, am Wochenende.
 - Übrigens: (Besides) Übrigens kannst du auch Niederlandisch Sprechen
 - Umsatz => (Sales) Umsatz der Abteilung steig merklich an.
