@@ -111,6 +111,7 @@ sidebar_label: Wortschatz
 ## S
 
 - Schaufe (Broom): viele haben mit grossem interesse zu Besen und schaufeln gegriffen
+- Schicht (shift) Ich arbeite in Schicht. Heute ist Nachtschicht
 - Schulden => (owe) Sie schulden mir Geld. Du schuldest mir geld (ich kriege Geld von dir)
 - Segen => (blessing) gegentail von Fluch. Möge Gottes Segen mit dir sein [May Gods blessings be with you]
 - Sich beklagen über (complain)
