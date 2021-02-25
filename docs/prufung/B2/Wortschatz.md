@@ -167,6 +167,7 @@ sidebar_label: Wortschatz
 - Unter leiden: Suffer from. Viele menschen leiden heutezutage unter bewegungsmangel
 - Unterdrückt (Suppressed/restrained) =>
 - Unauffällig => schwer zu sehen.
+- Unwillkürlich (spntaneously) => Ihre Augen füllten sich unwillkürlich mit tränen.
 - Ums leben kommen (sterben) => Diana ist bei einem tragischen Flugzeugabsturz ums
   Leben gekommen
 
