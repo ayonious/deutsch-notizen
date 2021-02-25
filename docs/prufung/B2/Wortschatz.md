@@ -49,14 +49,14 @@ sidebar_label: Wortschatz
 ## D
 
 - Dazu: (for that/in addition) => Sie haben dazu 30 sekunden zeit. (to do this you have 30s time)
-- Dazu: (for that/in addition) => wollen Sie etwas noch dazu? (do
-  you want something more?)
+- Dazu: (for that/in addition) => wollen Sie etwas noch dazu? (do you want something more?)
 - Demütig (humble) Um u lernen muss man demütig sein.
 - Düster: (dark): Die Welt sieht düsterer aus
 
 ## E
 
 - Eigens => (especially) deshalb ist er eigens aus Berlin gekommen.
+- Entgeltfrei => (kostenlos) Die Ausweisgültigkeit läuft bald ab.Sie können hier entgeltfrei verlängern.
 - Entziehen = (elude/skip) sie ist eine Frau, die sich keine herausforderung entziehen
 - Entspannend => relaxing [geneteil Spanend]
 - Empfindest (feel) Ich weiss was du empfindest.
