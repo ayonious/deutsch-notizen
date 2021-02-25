@@ -91,6 +91,7 @@ sidebar_label: Wortschatz
 ## K
 
 - Knapp => (EN: close): Als die Waren knapp wurden, haben alle angefangen zu hamstern.
+- Klapp => (fold) Klappfahrad, Klapphandy
 
 ## M
 
