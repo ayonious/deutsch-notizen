@@ -169,6 +169,7 @@ sidebar_label: Wortschatz
 
 - Überwunden (overcome) => Sie hat den Schock noch nicht überwunden
 - Üblich: (usual/gewöhnlich) Üblichen Fragen. Wir machen das, wie üblich, am Wochenende.
+- Befördern => (promotion/transport) ich wurde befördert. Beförderung nur mit gültigem Ausweis
 - Übrigens: (Besides) Übrigens kannst du auch Niederlandisch Sprechen
 - Umsatz => (Sales) Umsatz der Abteilung steig merklich an.
 - Untergebracht werden (accommodate) Untergebracht sind Sie im Hotel X.
@@ -204,7 +205,8 @@ sidebar_label: Wortschatz
 ## W
 
 - Widerlich (disgusting) => nicht razieren ist widerlich
-- Widmen(dedicate): sie sich etwas widmet, das keinen imotionalem Kontakt min Menschen verlangt. [she dedicated herself to something that does not require emotional contact with people]
+- Widmen(dedicate): sie sich etwas widmet, das keinen imotionalem Kontakt min Menschen verlangt.
+  [she dedicated herself to something that does not require emotional contact with people]
 - Wiesen => grasslands (grüne Wiesen)
 - Winken(Wave) => ich winkte ihr einzutreten.
 - Wirbelsäule => (Spine)
