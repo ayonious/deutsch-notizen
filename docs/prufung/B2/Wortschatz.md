@@ -109,7 +109,7 @@ sidebar_label: Wortschatz
 ## Q
 
 - Qüalerei => leid tun. Punish
-- Quitt => Du schuldest mir Geld. Jetzt sind wir quitt.
+- Quitt(even) => Du schuldest mir Geld. Jetzt sind wir quitt.
 
 ## S
 
@@ -176,24 +176,25 @@ sidebar_label: Wortschatz
 
 ## V
 
-- Verdauen => to get rotten for digestive purpose. Im Magen und Darm wird das
-  Essen verdaut
+- Verbannung => (Exile) Früher
+- Verdauen => to get rotten for digestive purpose. Im Magen und Darm wird das Essen verdaut
 - Vergewissern: => (make sure of something) => sie hat vergewissern dass er eingeschlafen war.
-- Verweigern (deny) jemandem die Erlaubnis Verweigern
-- Verzehen => essen
-- Vernichten => destroy / eradicate
-- Vor haben => (wollen) ich hätte es immer vor, Berlin zu kommen
-- Verwählt => (dial wrong) Verziehung, ich habe mich verwählt.
-- Verrät => (erklaren)
 - Verlernen => (vergessen) Kochen verlernt man nicht.
-- Es kommt mir vor => (it seems to me) jedenfalls kommt es mir so vor.
+- Vernichten => destroy / eradicate
+- Verrät => (erklaren)
 - Vertragen(sich) => to get along. Sie vertragen sich nicht.
+- Verweigern (deny) jemandem die Erlaubnis Verweigern
+- Verwählt => (dial wrong) Verziehung, ich habe mich verwählt.
+- Verzehen => essen
+- Vor haben => (wollen) ich hätte es immer vor, Berlin zu kommen
+- Voraussichtlich => (expected) Wir fahren voraussichtlich am 20. Mai. Achtung: Wegen der
+  aktuellen Pandemiesituation bleibt die ZLB bis voraussichtlich 14.02. geschlossen.
 - Vorfahren => (ancestors) Unsere Vorfahren haben das auch bemerkt als sie in Höhlen lebten
+- Vorhanden (verfugbar) Original Karton ist noch vorhanden.
 - Vorkommen => (appear) Ohne meine Bücher würde ich mir nackt vorkommen. - kommt mir vor (seems to me)
+- Vorkommen(Es kommt mir vor) => (it seems to me) jedenfalls kommt es mir so vor.
 - Vorträge => lecture. Da findett andere Vorträge statt.
 - Vorübergehend => (temporarily) Vorübergehend geschlossen.
-- Voraussichtlich => (expected) Wir fahren voraussichtlich am 20. Mai. Achtung: Wegen der aktuellen Pandemiesituation bleibt die ZLB bis voraussichtlich 14.02. geschlossen.
-- Verbannung => (Exile) Früher
 
 ## W
 
