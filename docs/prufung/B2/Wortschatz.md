@@ -30,6 +30,7 @@ sidebar_label: Wortschatz
 
 ## B
 
+- Bei Bedarf (if necessary) diese Medikament sind nur bei bedarf.
 - Bedauern(regret): Zu ihrem großen Bedauern arbeitet sie auch als Prostituierte
 - Bedurfniss(desire): Essen ist einfach ein menschliches Bedürfnis
 - Beigetragen(contributed): und damit hat er dazu beigetragen, dass die Spezies Mensch überlebte
@@ -51,7 +52,7 @@ sidebar_label: Wortschatz
 
 - Dazu: (for that/in addition) => Sie haben dazu 30 sekunden zeit. (to do this you have 30s time)
 - Dazu: (for that/in addition) => wollen Sie etwas noch dazu? (do you want something more?)
-- Demütig (humble) Um u lernen muss man demütig sein.
+- Demütig (humble) Um zu lernen muss man demütig sein.
 - Düster: (dark): Die Welt sieht düsterer aus
 
 ## E
@@ -207,8 +208,8 @@ sidebar_label: Wortschatz
 - Wiesen => grasslands (grüne Wiesen)
 - Winken(Wave) => ich winkte ihr einzutreten.
 - Wirbelsäule => (Spine)
-- Wirken(seem like) => du wirkst mir jemand der kein Geld hat(you seem like someone who has no  
-  money). Wenn sie zurückamen wirkten sie zufrieden.
+- Wirken(seem like) => du wirkst mir jemand der kein Geld hat(you seem like someone ..)
+  Sie musste im Fieber deliniert haben. Alles hatte so lebendig gewirkt.
 - Würdig(worthy) => ein Heiliger ist drejenige, der sein leben würdig lebt.
 
 ## Z
