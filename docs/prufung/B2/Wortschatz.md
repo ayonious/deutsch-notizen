@@ -75,6 +75,7 @@ sidebar_label: Wortschatz
 
 - Gesichtet(Seen): Viele menschen wurden mit Hochgekrempelte Ärmeln gesichtet
 - Genehmigen (approve/authorize) => Im Dezember war eine neue Impfstoff genehmigt worden.
+- Genuss (enjoyment) übermäßiger Genuss von Drogen..
 
 ## H
 
