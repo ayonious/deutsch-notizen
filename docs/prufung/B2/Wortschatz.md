@@ -55,6 +55,7 @@ sidebar_label: Wortschatz
 
 ## E
 
+- Eben (genau) [nicht sicher]
 - Eigens => (especially) deshalb ist er eigens aus Berlin gekommen.
 - Entgeltfrei => (kostenlos) Die Ausweisgültigkeit läuft bald ab.Sie können hier entgeltfrei verlängern.
 - Entziehen = (elude/skip) sie ist eine Frau, die sich keine herausforderung entziehen
@@ -122,6 +123,8 @@ sidebar_label: Wortschatz
 - Stets => (immer) Kaum Sonne, stets regnen
 - Steuer: (tax/measurement) die region hat eine Steuer eingeführt
 - Steuer: (tax/measurement) die region will nun offenbar gegensteurn.
+- Sich angesprochen fuhlen (feel addressed) Wenn Sie innovativ und zuverlässig sind,
+  sollten Sie sich angesprochen fühlen.
 
 ## I
 

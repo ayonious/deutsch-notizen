@@ -14,3 +14,4 @@ Ich sammle hier die am häufigsten verwendeten Redewendungen, die ich je gehört
 - Sich nicht trauen => kein mut haben. Ich traue mich nicht aus den Haus zu gehen. (wegen CORONA?)
 - ums leben gekommnen => sterben. Sieben menschen sind ums leben gekommen.
 - auf den Leim gehen => etwas glauben, jemand zu tauschen
+- Eben (genau). [nicht sicher]
