@@ -31,6 +31,7 @@ sidebar_label: Wortschatz
 
 - Bedauern(regret): Zu ihrem großen Bedauern arbeitet sie auch als Prostituierte
 - Bedurfniss(desire): Essen ist einfach ein menschliches Bedürfnis
+- Beigetragen(contributed): und damit hat er dazu beigetragen, dass die Spezies Mensch überlebte
 - Benehmen sich: (behave) Alle Schüler dieser Klasse benehmen sich wie Kinder. Du benimmst dich
   wie diese Person
 - Belastet (charged/burdened) Du wirst nicht für die Weihnachtsferien belastet.
