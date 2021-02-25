@@ -39,6 +39,7 @@ sidebar_label: Wortschatz
 - Belastet (charged/burdened) Du wirst nicht für die Weihnachtsferien belastet.
 - Besen (Broom): viele haben mit grossem interesse zu Besen und schaufeln gegriffen
 - Beteiligt: (involved) Viele vereine beteiligten sich
+- Betreuung (care): Hunde betreuung. Kinder betreuung.
 - Betrachtet als (considered as): Berlin ist betrachtet als eine der Hauptstadte der Welt mit
   viele Gesischte.
 - Betrauern(mourn) => Es ist lächerlich, dass wir heute noch dieselbe Vorwahl haben
@@ -50,6 +51,7 @@ sidebar_label: Wortschatz
 
 ## D
 
+- Davon ausgehen (assume) Ich gehe immer davon aus, dass die schlimmste passieren kann.
 - Dazu: (for that/in addition) => Sie haben dazu 30 sekunden zeit. (to do this you have 30s time)
 - Dazu: (for that/in addition) => wollen Sie etwas noch dazu? (do you want something more?)
 - Demütig (humble) Um zu lernen muss man demütig sein.
@@ -59,12 +61,14 @@ sidebar_label: Wortschatz
 
 - Eben (genau) [nicht sicher]
 - Eigens => (especially) deshalb ist er eigens aus Berlin gekommen.
+- Einprägsam (memorable) => diese geräusch ist einprägsam.
 - Entgeltfrei => (kostenlos) Die Ausweisgültigkeit läuft bald ab.Sie können hier entgeltfrei verlängern.
 - Entziehen = (elude/skip) sie ist eine Frau, die sich keine herausforderung entziehen
 - Entspannend => relaxing [geneteil Spanend]
 - Empfindest (feel) Ich weiss was du empfindest.
 - Ereignis (event) => mir war klar welchen folge diese ereignis haben könnte.
-- Es sei denn: (unless) Ich werde dort sein, es sei denn, es schneit. und wesentlich passiert nichts.. es sei du fragst noch mal nach
+- Es sei denn: (unless) Ich werde dort sein, es sei denn, es schneit. und wesentlich passiert nichts..
+  es sei du fragst noch mal nach
 - Etliche (quite a few) ich habe etliche hundert mal das erlernt
 - Empörung(revolt/disgust)
 
@@ -76,6 +80,7 @@ sidebar_label: Wortschatz
 
 ## G
 
+- Gegner (opponent)
 - Gesichtet(Seen): Viele menschen wurden mit Hochgekrempelte Ärmeln gesichtet
 - Genehmigen (approve/authorize) => Im Dezember war eine neue Impfstoff genehmigt worden.
 - Genuss (enjoyment) übermäßiger Genuss von Drogen..
@@ -95,6 +100,7 @@ sidebar_label: Wortschatz
 
 - Knapp => (EN: close): Als die Waren knapp wurden, haben alle angefangen zu hamstern.
 - Klapp => (fold) Klappfahrad, Klapphandy
+- Kohle => (coal/Money)
 
 ## M
 
@@ -182,6 +188,7 @@ sidebar_label: Wortschatz
 
 ## V
 
+- Vertreter(representator) => meinen Vertreter
 - Verbannung => (Exile) Früher
 - Verdauen => to get rotten for digestive purpose. Im Magen und Darm wird das Essen verdaut
 - Vergewissern: => (make sure of something) => sie hat vergewissern dass er eingeschlafen war.
