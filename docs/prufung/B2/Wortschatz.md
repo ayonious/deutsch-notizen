@@ -9,7 +9,8 @@ sidebar_label: Wortschatz
 - Angeblich (supposedly) er war angeblich beim Artz. er ist angeblich Student
 - Abgewiesen (rejected) zeus hat sich eigens in einen Vogel verwandelt, um hera lieben zu können,
   ohne abgewiesen zu werden
-- Allmählich => wenn auch die traditionen weiterleben, so verschwendet doch allmählich der Wünsch wieder zurückzukehren. even if the traditions live on, the desire to return is gradually wasted
+- Allmählich => wenn auch die traditionen weiterleben, so verschwendet doch allmählich der Wünsch wieder zurückzukehren. even if
+  the traditions live on, the desire to return is gradually wasted
 - Angelegenheit => (en: Matter) Das ist ein Familienangelegenheit. [This is a family Matter]
   schwer zu sehen.
 - Anlass (occasion) => Anlass für die Gründung von Mobike war die steigende nachfrage für
