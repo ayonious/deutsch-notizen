@@ -9,13 +9,13 @@ tags: [Berlin, Books]
 
 I realised a very important thing very late after coming to Berlin, is how easy it is to get books here 🤓. Imagine all the nice books that you are trying to read and then you look for it online to buy it. Sometimes you end up buying but never reading..And sometime you don’t buy it because it’s too expensive…Well there are better ways.
 
-![Library](/img/alfons-morales-YLSwjSy7stw-unsplash.jpg)
+![Library](/img/blog/alfons-morales-YLSwjSy7stw-unsplash.jpg)
 
 I will only focus here about affordable and more environment friendly ways of getting books.
 
 ## Library card
 
-![Card](/img/tengyart-VgijAV-e97Y-unsplash.jpg)
+![Card](/img/blog/tengyart-VgijAV-e97Y-unsplash.jpg)
 
 First thing you need to do is get a library card. This costs around 10 euro per year. (even less if you are student) Im talking about, Association of Public Libraries in Berlin (VÖBB) ✌️
 
@@ -51,7 +51,7 @@ Staats Bibliothek are more focused for educational materials. They are a little 
 
 ## Second Hand Books
 
-![Old Books](/img/justin-aikin-K5GXqZd2xTg-unsplash.jpg)
+![Old Books](/img/blog/justin-aikin-K5GXqZd2xTg-unsplash.jpg)
 
 In Berlin there are many Second hand book shops. One Problem with these is that it’s hard to find what book you are looking for. My choice is a website called Medimops. Good thing is if you order for more than 10EUR you get free shipping 🚚. So I find it cheaper than amazon. They have really good collection in Germany and price is really good. If this does not work out for you, try amazon.
 
@@ -67,7 +67,7 @@ There are book stores in Berlin that is worth visiting. It really inspires me ju
 
 ### Dussmann das KulturKaufhaus
 
-![Book shop](/img/jonathan-ford-1a4qe-j1eyA-unsplash.jpg)
+![Book shop](/img/blog/jonathan-ford-1a4qe-j1eyA-unsplash.jpg)
 
 I think this is the biggest bookstore in Berlin. Its a 4 floor building with huge collection of all kind of books. I go there always to checkout the best recent selling German books.
 
