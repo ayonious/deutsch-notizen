@@ -124,7 +124,7 @@ module.exports = {
         blog: {
           feedOptions: {
             type: 'all',
-            copyright: `Copyright © ${new Date().getFullYear()} Facebook, Inc.`,
+            copyright: `Copyright © ${new Date().getFullYear()} Nahiyan Kamal.`,
           },
         },
         theme: {
