@@ -9,7 +9,8 @@ sidebar_label: Wortschatz
 - Angeblich (supposedly) er war angeblich beim Artz. er ist angeblich Student
 - Abgewiesen (rejected) zeus hat sich eigens in einen Vogel verwandelt, um hera lieben zu können,
   ohne abgewiesen zu werden
-- Allmählich => wenn auch die traditionen weiterleben, so verschwendet doch allmählich der Wünsch wieder zurückzukehren. even if the traditions live on, the desire to return is gradually wasted
+- Allmählich => wenn auch die traditionen weiterleben, so verschwendet doch allmählich der Wünsch wieder zurückzukehren. even if
+  the traditions live on, the desire to return is gradually wasted
 - Angelegenheit => (en: Matter) Das ist ein Familienangelegenheit. [This is a family Matter]
   schwer zu sehen.
 - Anlass (occasion) => Anlass für die Gründung von Mobike war die steigende nachfrage für
@@ -29,6 +30,7 @@ sidebar_label: Wortschatz
 
 ## B
 
+- Bei Bedarf (if necessary) diese Medikament sind nur bei bedarf.
 - Bedauern(regret): Zu ihrem großen Bedauern arbeitet sie auch als Prostituierte
 - Bedurfniss(desire): Essen ist einfach ein menschliches Bedürfnis
 - Beigetragen(contributed): und damit hat er dazu beigetragen, dass die Spezies Mensch überlebte
@@ -37,6 +39,7 @@ sidebar_label: Wortschatz
 - Belastet (charged/burdened) Du wirst nicht für die Weihnachtsferien belastet.
 - Besen (Broom): viele haben mit grossem interesse zu Besen und schaufeln gegriffen
 - Beteiligt: (involved) Viele vereine beteiligten sich
+- Betreuung (care): Hunde betreuung. Kinder betreuung.
 - Betrachtet als (considered as): Berlin ist betrachtet als eine der Hauptstadte der Welt mit
   viele Gesischte.
 - Betrauern(mourn) => Es ist lächerlich, dass wir heute noch dieselbe Vorwahl haben
@@ -48,20 +51,24 @@ sidebar_label: Wortschatz
 
 ## D
 
+- Davon ausgehen (assume) Ich gehe immer davon aus, dass die schlimmste passieren kann.
 - Dazu: (for that/in addition) => Sie haben dazu 30 sekunden zeit. (to do this you have 30s time)
 - Dazu: (for that/in addition) => wollen Sie etwas noch dazu? (do you want something more?)
-- Demütig (humble) Um u lernen muss man demütig sein.
+- Demütig (humble) Um zu lernen muss man demütig sein.
 - Düster: (dark): Die Welt sieht düsterer aus
 
 ## E
 
+- Eben (genau) [nicht sicher]
 - Eigens => (especially) deshalb ist er eigens aus Berlin gekommen.
+- Einprägsam (memorable) => diese geräusch ist einprägsam.
 - Entgeltfrei => (kostenlos) Die Ausweisgültigkeit läuft bald ab.Sie können hier entgeltfrei verlängern.
 - Entziehen = (elude/skip) sie ist eine Frau, die sich keine herausforderung entziehen
 - Entspannend => relaxing [geneteil Spanend]
 - Empfindest (feel) Ich weiss was du empfindest.
 - Ereignis (event) => mir war klar welchen folge diese ereignis haben könnte.
-- Es sei denn: (unless) Ich werde dort sein, es sei denn, es schneit. und wesentlich passiert nichts.. es sei du fragst noch mal nach
+- Es sei denn: (unless) Ich werde dort sein, es sei denn, es schneit. und wesentlich passiert nichts..
+  es sei du fragst noch mal nach
 - Etliche (quite a few) ich habe etliche hundert mal das erlernt
 - Empörung(revolt/disgust)
 
@@ -73,6 +80,7 @@ sidebar_label: Wortschatz
 
 ## G
 
+- Gegner (opponent)
 - Gesichtet(Seen): Viele menschen wurden mit Hochgekrempelte Ärmeln gesichtet
 - Genehmigen (approve/authorize) => Im Dezember war eine neue Impfstoff genehmigt worden.
 - Genuss (enjoyment) übermäßiger Genuss von Drogen..
@@ -92,6 +100,7 @@ sidebar_label: Wortschatz
 
 - Knapp => (EN: close): Als die Waren knapp wurden, haben alle angefangen zu hamstern.
 - Klapp => (fold) Klappfahrad, Klapphandy
+- Kohle => (coal/Money)
 
 ## M
 
@@ -109,7 +118,7 @@ sidebar_label: Wortschatz
 ## Q
 
 - Qüalerei => leid tun. Punish
-- Quitt => Du schuldest mir Geld. Jetzt sind wir quitt.
+- Quitt(even) => Du schuldest mir Geld. Jetzt sind wir quitt.
 
 ## S
 
@@ -122,6 +131,8 @@ sidebar_label: Wortschatz
 - Stets => (immer) Kaum Sonne, stets regnen
 - Steuer: (tax/measurement) die region hat eine Steuer eingeführt
 - Steuer: (tax/measurement) die region will nun offenbar gegensteurn.
+- Sich angesprochen fuhlen (feel addressed) Wenn Sie innovativ und zuverlässig sind,
+  sollten Sie sich angesprochen fühlen.
 
 ## I
 
@@ -164,6 +175,7 @@ sidebar_label: Wortschatz
 
 - Überwunden (overcome) => Sie hat den Schock noch nicht überwunden
 - Üblich: (usual/gewöhnlich) Üblichen Fragen. Wir machen das, wie üblich, am Wochenende.
+- Befördern => (promotion/transport) ich wurde befördert. Beförderung nur mit gültigem Ausweis
 - Übrigens: (Besides) Übrigens kannst du auch Niederlandisch Sprechen
 - Umsatz => (Sales) Umsatz der Abteilung steig merklich an.
 - Untergebracht werden (accommodate) Untergebracht sind Sie im Hotel X.
@@ -176,34 +188,37 @@ sidebar_label: Wortschatz
 
 ## V
 
-- Verdauen => to get rotten for digestive purpose. Im Magen und Darm wird das
-  Essen verdaut
+- Vertreter(representator) => meinen Vertreter
+- Verbannung => (Exile) Früher
+- Verdauen => to get rotten for digestive purpose. Im Magen und Darm wird das Essen verdaut
 - Vergewissern: => (make sure of something) => sie hat vergewissern dass er eingeschlafen war.
-- Verweigern (deny) jemandem die Erlaubnis Verweigern
-- Verzehen => essen
-- Vernichten => destroy / eradicate
-- Vor haben => (wollen) ich hätte es immer vor, Berlin zu kommen
-- Verwählt => (dial wrong) Verziehung, ich habe mich verwählt.
-- Verrät => (erklaren)
 - Verlernen => (vergessen) Kochen verlernt man nicht.
-- Es kommt mir vor => (it seems to me) jedenfalls kommt es mir so vor.
+- Vernichten => destroy / eradicate
+- Verrät => (erklaren)
 - Vertragen(sich) => to get along. Sie vertragen sich nicht.
+- Verweigern (deny) jemandem die Erlaubnis Verweigern
+- Verwählt => (dial wrong) Verziehung, ich habe mich verwählt.
+- Verzehen => essen
+- Vor haben => (wollen) ich hätte es immer vor, Berlin zu kommen
+- Voraussichtlich => (expected) Wir fahren voraussichtlich am 20. Mai. Achtung: Wegen der
+  aktuellen Pandemiesituation bleibt die ZLB bis voraussichtlich 14.02. geschlossen.
 - Vorfahren => (ancestors) Unsere Vorfahren haben das auch bemerkt als sie in Höhlen lebten
+- Vorhanden (verfugbar) Original Karton ist noch vorhanden.
 - Vorkommen => (appear) Ohne meine Bücher würde ich mir nackt vorkommen. - kommt mir vor (seems to me)
+- Vorkommen(Es kommt mir vor) => (it seems to me) jedenfalls kommt es mir so vor.
 - Vorträge => lecture. Da findett andere Vorträge statt.
 - Vorübergehend => (temporarily) Vorübergehend geschlossen.
-- Voraussichtlich => (expected) Wir fahren voraussichtlich am 20. Mai. Achtung: Wegen der aktuellen Pandemiesituation bleibt die ZLB bis voraussichtlich 14.02. geschlossen.
-- Verbannung => (Exile) Früher
 
 ## W
 
 - Widerlich (disgusting) => nicht razieren ist widerlich
-- Widmen(dedicate): sie sich etwas widmet, das keinen imotionalem Kontakt min Menschen verlangt. [she dedicated herself to something that does not require emotional contact with people]
+- Widmen(dedicate): sie sich etwas widmet, das keinen imotionalem Kontakt min Menschen verlangt.
+  [she dedicated herself to something that does not require emotional contact with people]
 - Wiesen => grasslands (grüne Wiesen)
 - Winken(Wave) => ich winkte ihr einzutreten.
 - Wirbelsäule => (Spine)
-- Wirken(seem like) => du wirkst mir jemand der kein Geld hat(you seem like someone who has no  
-  money). Wenn sie zurückamen wirkten sie zufrieden.
+- Wirken(seem like) => du wirkst mir jemand der kein Geld hat(you seem like someone ..)
+  Sie musste im Fieber deliniert haben. Alles hatte so lebendig gewirkt.
 - Würdig(worthy) => ein Heiliger ist drejenige, der sein leben würdig lebt.
 
 ## Z

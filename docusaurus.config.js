@@ -12,7 +12,7 @@ module.exports = {
     announcementBar: {
       id: "support",
       content:
-        '🍻 If you like this German Learning website, give it a star on <a target="_blank" rel="noopener noreferrer" href="https://github.com/ayonious/deutsch-notizen">GitHub</a>! ⭐️',
+        '🍻 Wenn diese Seite dir gefallen hat, gib ein sterne auf <a target="_blank" rel="noopener noreferrer" href="https://github.com/ayonious/deutsch-notizen">GitHub</a>! ⭐️',
     },
     navbar: {
       title: "Deutsch Notizen",
@@ -38,6 +38,11 @@ module.exports = {
           position: 'left',
           docId: 'medien/Youtube',
           label: '🎬 Medien',
+        },
+        {
+          to: 'blog', 
+          label: '✍️ Blog', 
+          position: 'left'
         },
         {
           href: "https://github.com/ayonious/deutsch-notizen",
@@ -116,6 +121,12 @@ module.exports = {
           showLastUpdateTime: true,
           // this enabled the edit button for documentation
           editUrl: "https://github.com/ayonious/deutsch-notizen/blob/master/",
+        },
+        blog: {
+          feedOptions: {
+            type: 'all',
+            copyright: `Copyright © ${new Date().getFullYear()} Nahiyan Kamal.`,
+          },
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
