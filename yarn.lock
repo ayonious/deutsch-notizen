@@ -1242,7 +1242,7 @@
   resolved "https://registry.yarnpkg.com/@docusaurus/module-type-aliases/-/module-type-aliases-2.0.0-alpha.70.tgz#2e50770c54cb465302d0a779fb76c163a1fc94e2"
   integrity sha512-ESAY5ZU7uGRhZwbyxyGdvAAP+3D/oewSmtsWdvdhc8V9PPxVJCXc06zxXunfEzutVtOd4iZkQsuWgXAhtFa63g==
 
-"@docusaurus/plugin-content-blog@2.0.0-alpha.70":
+"@docusaurus/plugin-content-blog@2.0.0-alpha.70", "@docusaurus/plugin-content-blog@^2.0.0-alpha.70":
   version "2.0.0-alpha.70"
   resolved "https://registry.yarnpkg.com/@docusaurus/plugin-content-blog/-/plugin-content-blog-2.0.0-alpha.70.tgz#795a5ddf181dfb314873a5dc33010d1a5bd94d28"
   integrity sha512-qWXlSDovkhCZLJR0Wz4e3YcNjlelpuSNkS1rJ8sI1ehs/n32lj7A/nVoRfS/LnOMfIciY48vVPr64VLb6dfEeg==
