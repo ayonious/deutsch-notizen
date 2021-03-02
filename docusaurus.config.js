@@ -40,6 +40,10 @@ module.exports = {
           label: '🎬 Medien',
         },
         {
+          to: 'blog', 
+          label: 'Blog', 
+          position: 'left'},
+        {
           href: "https://github.com/ayonious/deutsch-notizen",
           label: "GitHub",
           position: "right",
@@ -116,6 +120,12 @@ module.exports = {
           showLastUpdateTime: true,
           // this enabled the edit button for documentation
           editUrl: "https://github.com/ayonious/deutsch-notizen/blob/master/",
+        },
+        blog: {
+          feedOptions: {
+            type: 'all',
+            copyright: `Copyright © ${new Date().getFullYear()} Facebook, Inc.`,
+          },
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
