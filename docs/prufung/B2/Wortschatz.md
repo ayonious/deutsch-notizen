@@ -80,7 +80,7 @@ sidebar_label: Wortschatz
 
 ## J
 
-- je nachdem (depending on): Je nachdem, wie viel Geld ich habe, kaufe ich ein Auto.
+- je nachdem (depending on): Je nachdem, wie viel Geld ich habe, kaufe ich ein Auto. je nachdem welche Buch du willst.
 
 ## G
 
