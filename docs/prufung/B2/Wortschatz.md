@@ -78,6 +78,10 @@ sidebar_label: Wortschatz
 - Fest (proof) => wasserfeste Jacke
 - Fluch => (Curse) mein Talent war immer ein Fluch.
 
+## J
+
+- je nachdem (depending on): Je nachdem, wie viel Geld ich habe, kaufe ich ein Auto.
+
 ## G
 
 - Gegner (opponent)
