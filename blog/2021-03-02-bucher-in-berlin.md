@@ -65,9 +65,9 @@ Last time I took bunch of Books to some second hand shop and they bought all of 
 Ah right I said in the beginning I will only talk about env friendly ways and affordable ways 😁 don’t worry Im sticking to my promise
 There are book stores in Berlin that is worth visiting. It really inspires me just to browse the books because the way they are presented gives me my next target book. If you are trying to read a recently published book it will be hard to find it in Public library.
 
-### Dussmann das KulturKaufhaus
-
 ![Book shop](/img/blog/jonathan-ford-1a4qe-j1eyA-unsplash.jpg)
+
+### Dussmann das KulturKaufhaus
 
 I think this is the biggest bookstore in Berlin. Its a 4 floor building with huge collection of all kind of books. I go there always to checkout the best recent selling German books.
 
