@@ -13,6 +13,8 @@ I realised a very important thing very late after coming to Berlin, is how easy 
 
 I will only focus here about affordable and more environment friendly ways of getting books.
 
+<!--truncate-->
+
 ## Library card
 
 ![Card](/img/blog/tengyart-VgijAV-e97Y-unsplash.jpg)

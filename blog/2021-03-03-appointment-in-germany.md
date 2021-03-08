@@ -11,6 +11,8 @@ When you move to Germany first thing you realize that there is a lot of paper �
 
 ![How long can you wait](/img/blog/2021-03-03-appointment-in-germany/alexis-antoine-sUVwjJOsVYo-unsplash.jpg)
 
+<!--truncate-->
+
 If you want an appointment at the Bürgeramt you might have to wait months 🤦to go there and do registration. You might just forget by the time its time for your appointment. Waiting for such long time might affect many of your plans, for example if you want to show proof of your living in Germany you need to wait for this. Or if you are planning a vacation, or if you want to get your driving license this summer and not wait till next summer.
 
 But there are some ways people in Germany use to get things done in Bürgeramt 😈. I heard these tricks only by asking people around. Let me show you how.
