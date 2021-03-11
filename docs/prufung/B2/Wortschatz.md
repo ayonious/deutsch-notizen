@@ -18,6 +18,7 @@ sidebar_label: Wortschatz
 - Anpassen: (customize) Pass die daten an (adjust the dates)
 - Anschließend => (finally) Sie kam spät, aber anschliesend ging sofort nach Hause.
 - Anständig(decent) anständig essen
+- Anziehend (attractive) das machte ihr sehr anziehend.
 - Ärger(Trouble): Du hast viele Ärger gekriegt
 - Ärmeln(sleeves) Viele menschen wurden mit Hochgekrempelte Ärmeln gesichtet
 - Aufgefallen(bemerken/remember) => es hat mir aufgefallen, dass du immer spät kommst. Sie ist mir - da fällt mir gleich ein(It occured to me just now/ I remembered just now) - Aufgefallen. geenteil Unauffällig =>
@@ -55,18 +56,21 @@ sidebar_label: Wortschatz
 - Dazu: (for that/in addition) => Sie haben dazu 30 sekunden zeit. (to do this you have 30s time)
 - Dazu: (for that/in addition) => wollen Sie etwas noch dazu? (do you want something more?)
 - Demütig (humble) Um zu lernen muss man demütig sein.
+- Deutete nach (point to) Er deutete nach draußen auf landschaft.
 - Düster: (dark): Die Welt sieht düsterer aus
 
 ## E
 
 - Eben (genau) [nicht sicher]
-- Eigens => (especially) deshalb ist er eigens aus Berlin gekommen.
-- Einprägsam (memorable) => diese geräusch ist einprägsam.
+- Eid (vow) Er hat ein eid geschworen
+- Eigens => (especially) Deshalb ist er eigens aus Berlin gekommen.
+- Einprägsam (memorable) => Diese geräusch ist einprägsam.
+- Einschreiben (enroll) => Damals hatte sie vorgehabt, sich in trinity college einzuschreiben.
 - Entgeltfrei => (kostenlos) Die Ausweisgültigkeit läuft bald ab.Sie können hier entgeltfrei verlängern.
 - Entziehen = (elude/skip) sie ist eine Frau, die sich keine herausforderung entziehen
 - Entspannend => relaxing [geneteil Spanend]
 - Empfindest (feel) Ich weiss was du empfindest.
-- Ereignis (event) => mir war klar welchen folge diese ereignis haben könnte.
+- Ereignis (event) => Mir war klar welchen folge diese ereignis haben könnte.
 - Es sei denn: (unless) Ich werde dort sein, es sei denn, es schneit. und wesentlich passiert nichts..
   es sei du fragst noch mal nach
 - Etliche (quite a few) ich habe etliche hundert mal das erlernt
@@ -111,6 +115,7 @@ sidebar_label: Wortschatz
 
 - Mangel => (lack of something)
 - Münster: Cathedral
+- Makellos => (flowless) Einen der makellos weissen vorhänge
 
 ## N
 
@@ -124,6 +129,10 @@ sidebar_label: Wortschatz
 
 - Qüalerei => leid tun. Punish
 - Quitt(even) => Du schuldest mir Geld. Jetzt sind wir quitt.
+
+## R
+
+- Reelles (real) arbeit war etwas reelles und half mir
 
 ## S
 
@@ -145,6 +154,7 @@ sidebar_label: Wortschatz
 - Interessieren sich an(dativ) / für (akk)
 - Interessieren sich an(fativ)
 - In einem zug (in one go) => ich werde das Tee in einem Zug austrinken
+- In Aufruhr (upset) => ihr herz war wegen etwas in Aufruhr
 
 ## L
 
@@ -194,12 +204,13 @@ sidebar_label: Wortschatz
 ## V
 
 - Vertreter(representator) => meinen Vertreter
-- Verbannung => (Exile) Früher
+- Verbannung => (Exile) er ist welt der magier verbannt worden
 - Verdauen => to get rotten for digestive purpose. Im Magen und Darm wird das Essen verdaut
 - Vergewissern: => (make sure of something) => sie hat vergewissern dass er eingeschlafen war.
 - Verlernen => (vergessen) Kochen verlernt man nicht.
 - Vernichten => destroy / eradicate
 - Verrät => (erklaren)
+- Verstreuteten (scattered) sie schaute auf die am boden verstreuteten patronen.
 - Vertragen(sich) => to get along. Sie vertragen sich nicht.
 - Verweigern (deny) jemandem die Erlaubnis Verweigern
 - Verwählt => (dial wrong) Verziehung, ich habe mich verwählt.
@@ -216,6 +227,7 @@ sidebar_label: Wortschatz
 
 ## W
 
+- Weigert sich (refuse) ich habe versucht mein adresse zu anderen aber google weigert sich
 - Widerlich (disgusting) => nicht razieren ist widerlich
 - Widmen(dedicate): sie sich etwas widmet, das keinen imotionalem Kontakt min Menschen verlangt.
   [she dedicated herself to something that does not require emotional contact with people]
