@@ -65,6 +65,8 @@ sidebar_label: Wortschatz
 - Eid (vow) Er hat ein eid geschworen
 - Eigens => (especially) Deshalb ist er eigens aus Berlin gekommen.
 - Einprägsam (memorable) => Diese geräusch ist einprägsam.
+- Einsprüch (Objection) => Hier ist die Prüfung Egebniss. Für einen offiziellen Einspruch nutzen Sie bitte folgende
+  E-Mailadresse.
 - Einschreiben (enroll) => Damals hatte sie vorgehabt, sich in trinity college einzuschreiben.
 - Entgeltfrei => (kostenlos) Die Ausweisgültigkeit läuft bald ab.Sie können hier entgeltfrei verlängern.
 - Entziehen = (elude/skip) sie ist eine Frau, die sich keine herausforderung entziehen
@@ -228,6 +230,7 @@ sidebar_label: Wortschatz
 
 ## W
 
+- Wagen (Dare) => sie wagte nicht, sich ausrechnen, was der wagen gekostet haben mochte
 - Weigert sich (refuse) ich habe versucht mein adresse zu anderen aber google weigert sich
 - Widerlich (disgusting) => nicht razieren ist widerlich
 - Widmen(dedicate): sie sich etwas widmet, das keinen imotionalem Kontakt min Menschen verlangt.
