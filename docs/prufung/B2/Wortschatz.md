@@ -210,6 +210,7 @@ sidebar_label: Wortschatz
 - Verlernen => (vergessen) Kochen verlernt man nicht.
 - Vernichten => destroy / eradicate
 - Verrät => (erklaren)
+- Versehen (provided) In den 464 Sekunden, wurden in Deutschland 187 Personen mit einer Impfdosis versehen.
 - Verstreuteten (scattered) sie schaute auf die am boden verstreuteten patronen.
 - Vertragen(sich) => to get along. Sie vertragen sich nicht.
 - Verweigern (deny) jemandem die Erlaubnis Verweigern
