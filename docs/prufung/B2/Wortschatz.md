@@ -144,6 +144,7 @@ sidebar_label: Wortschatz
 - Segen => (blessing) gegentail von Fluch. Möge Gottes Segen mit dir sein [May Gods blessings be with you]
 - Sich beklagen über (complain)
 - Spannend => exciting [geneteil entspannend]
+- Soeben(gerade/just now) Das Impfzentrum hat soeben 100 Impftermine abgesagt.
 - Stets => (immer) Kaum Sonne, stets regnen
 - Steuer: (tax/measurement) die region hat eine Steuer eingeführt
 - Steuer: (tax/measurement) die region will nun offenbar gegensteurn.
@@ -177,6 +178,10 @@ sidebar_label: Wortschatz
 
 - Paläste => Palaces
 - Pfad => path/trail. (schmaler Weg) (narrow path)
+
+## R
+
+- Regisseur (director) Normally used for Film Director. You dont say Direktor.
 
 ## S
 
