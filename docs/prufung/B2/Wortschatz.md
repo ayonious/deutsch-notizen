@@ -22,6 +22,7 @@ sidebar_label: Wortschatz
 - Ärger(Trouble): Du hast viele Ärger gekriegt
 - Ärmeln(sleeves) Viele menschen wurden mit Hochgekrempelte Ärmeln gesichtet
 - Aufgefallen(bemerken/remember) => es hat mir aufgefallen, dass du immer spät kommst. Sie ist mir - da fällt mir gleich ein(It occured to me just now/ I remembered just now) - Aufgefallen. geenteil Unauffällig =>
+- Auseinandersetzen (dela with) => Das Problem, mit dem Sie sich auseinandersetzen müssen, ist, daß der Arbeitsmarkt sehr schweirig ist.
 - Aus machen (definieren) es macht den menschen aus, mit anderen zusammen zu sein. [living with others, defines us]
 - Ausrotten(extinct) => eine art von Tiere komplett vernichten
 - Aufwendig (laborious/expensive): Die sind aufwendig und teuer. Deshalb gibt es
