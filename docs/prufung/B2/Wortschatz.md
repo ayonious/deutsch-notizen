@@ -6,7 +6,7 @@ sidebar_label: Wortschatz
 
 ## A
 
-- Auslachen(make fun of) => du wirst dafür ausgelacht
+- Auslachen(laugh on someone) => du wirst dafür ausgelacht
 - Angeblich (supposedly) er war angeblich beim Artz. er ist angeblich Student
 - Abgewiesen (rejected) zeus hat sich eigens in einen Vogel verwandelt, um hera lieben zu können,
   ohne abgewiesen zu werden
