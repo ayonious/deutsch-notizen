@@ -75,16 +75,22 @@ sidebar_label: Wortschatz
 - Entspannend => relaxing [geneteil Spanend]
 - Empfindest (feel) Ich weiss was du empfindest.
 - Ereignis (event) => Mir war klar welchen folge diese ereignis haben könnte.
+- Erwogen (consider)
 - Es sei denn: (unless) Ich werde dort sein, es sei denn, es schneit. und wesentlich passiert nichts..
   es sei du fragst noch mal nach
 - Etliche (quite a few) ich habe etliche hundert mal das erlernt
 - Empörung(revolt/disgust)
+- Erpressung (blackmail)
 
 ## F
 
 - Fest (strong) => ist es fest?
 - Fest (proof) => wasserfeste Jacke
 - Fluch => (Curse) mein Talent war immer ein Fluch.
+
+## G
+
+- Geisel (hostage) => geiselnahme (taking hostage)
 
 ## J
 
