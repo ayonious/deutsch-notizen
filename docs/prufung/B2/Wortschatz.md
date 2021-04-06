@@ -92,6 +92,10 @@ sidebar_label: Wortschatz
 
 - Geisel (hostage) => geiselnahme (taking hostage)
 
+## H
+
+- Hohl (empty/hollow) => Er ist nicht die Hellste Kerze aber auch nicht hohl.
+
 ## J
 
 - je nachdem (depending on): Je nachdem, wie viel Geld ich habe, kaufe ich ein Auto. je nachdem welche  
@@ -120,6 +124,10 @@ sidebar_label: Wortschatz
 - Knapp => (EN: close): Als die Waren knapp wurden, haben alle angefangen zu hamstern.
 - Klapp => (fold) Klappfahrad, Klapphandy
 - Kohle => (coal/Money)
+
+## L
+
+- Lässiges => (casual/cool) Er sieht gut aus und hat was lässiges
 
 ## M
 
