@@ -145,7 +145,7 @@ sidebar_label: Wortschatz
 
 ## Q
 
-- Qüalerei => leid tun. Punish
+- Qualen(Nomen=Qüalerei) => leid tun. Punish
 - Quitt(even) => Du schuldest mir Geld. Jetzt sind wir quitt.
 
 ## R
