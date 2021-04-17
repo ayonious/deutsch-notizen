@@ -4,8 +4,6 @@ title: Tekamolo
 sidebar_label: Tekamolo
 ---
 
-# Tekamolo
-
 |                 | Te      | Ka                 | Mo                    | Lo               |                |
 | --------------- | ------- | ------------------ | --------------------- | ---------------- | -------------- |
 |                 | Wann?   | Warrum?            | Wie?                  | Wo?              |                |

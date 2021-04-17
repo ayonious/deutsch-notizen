@@ -4,7 +4,7 @@ title: Machen
 sidebar_label: Machen
 ---
 
-# Warrum machen hat so viele formen?
+## Warrum machen hat so viele formen?
 
 Es gibt bessere synonym für das Wort machen. zB:
 
