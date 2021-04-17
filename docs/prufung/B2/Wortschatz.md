@@ -236,6 +236,7 @@ sidebar_label: Wortschatz
 - Vernichten => destroy / eradicate
 - Verrät => (erklaren)
 - Versehen (provided) In den 464 Sekunden, wurden in Deutschland 187 Personen mit einer Impfdosis versehen.
+- Versehentlich (accidentally/unintentionally/zufällig) => mit absichtlich oder versehentlich?
 - Verstreuteten (scattered) sie schaute auf die am boden verstreuteten patronen.
 - Vertragen(sich) => to get along. Sie vertragen sich nicht.
 - Verweigern (deny) jemandem die Erlaubnis Verweigern
