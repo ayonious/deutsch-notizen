@@ -57,6 +57,7 @@ sidebar_label: Wortschatz
 - Davon ausgehen (assume) Ich gehe immer davon aus, dass die schlimmste passieren kann.
 - Dazu: (for that/in addition) => Sie haben dazu 30 sekunden zeit. (to do this you have 30s time)
 - Dazu: (for that/in addition) => wollen Sie etwas noch dazu? (do you want something more?)
+- Dolmetscher (interpreter) => Übersetzer
 - Demütig (humble) Um zu lernen muss man demütig sein.
 - Deutete nach (point to) Er deutete nach draußen auf landschaft.
 - Düster: (dark): Die Welt sieht düsterer aus
