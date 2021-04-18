@@ -90,23 +90,11 @@ sidebar_label: Wortschatz
 
 ## G
 
-- Geisel (hostage) => geiselnahme (taking hostage)
-
-## H
-
-- Hohl (empty/hollow) => Er ist nicht die Hellste Kerze aber auch nicht hohl.
-
-## J
-
-- je nachdem (depending on): Je nachdem, wie viel Geld ich habe, kaufe ich ein Auto. je nachdem welche  
-  Buch du willst. Du kannst Geld oder Essen haben, je nachdem was du willst.
-
-## G
-
 - Gegner (opponent)
 - Gesichtet(Seen): Viele menschen wurden mit Hochgekrempelte Ärmeln gesichtet
 - Genehmigen (approve/authorize) => Im Dezember war eine neue Impfstoff genehmigt worden.
 - Genuss (enjoyment) übermäßiger Genuss von Drogen..
+- Geisel (hostage) => geiselnahme (taking hostage)
 
 ## H
 
@@ -114,34 +102,55 @@ sidebar_label: Wortschatz
 - Hamstern => alles fertig machen (durch essen/kaufen). Als die Waren knapp wurden, haben alle angefangen zu hamstern.
 - Hochgekrempelte(rolled up): Viele menschen wurden mit Hochgekrempelte Ärmeln gesichtet
 - Höhlen => (Cave) Unsere Vorfahren haben das auch bemerkt als sie in Höhlen lebten
+- Hohl (empty/hollow) => Er ist nicht die Hellste Kerze aber auch nicht hohl.
+
+## I
+
+- Im bezug auf => (on the subject of...) Wir mussen jeden üben.(Im bezug auf Sprache-lernen)
+- Interessieren sich an(dativ) / für (akk)
+- Interessieren sich an(fativ)
+- In einem zug (in one go) => ich werde das Tee in einem Zug austrinken
+- In Aufruhr (upset) => ihr herz war wegen etwas in Aufruhr
 
 ## J
 
 - Jedenfalls: (at least), jedenfalls kommt es mir so vor (at least thats how I felt)
+- je nachdem (depending on): Je nachdem, wie viel Geld ich habe, kaufe ich ein Auto. je nachdem welche  
+  Buch du willst. Du kannst Geld oder Essen haben, je nachdem was du willst.
 
 ## K
 
 - Knapp => (EN: close): Als die Waren knapp wurden, haben alle angefangen zu hamstern.
 - Klapp => (fold) Klappfahrad, Klapphandy
 - Kohle => (coal/Money)
+- Knast (prison)
+- Knall (pop) => Die Sonne knallte von vorne.
 
 ## L
 
 - Lässiges => (casual/cool) Er sieht gut aus und hat was lässiges
+- Lob => Praise (gegenteil von Kritik). Aber sie besuchte jeen Sonntag die Messe, um auf ihrere Gitarre zu speilen und die heilige Jungfrau zu loben.
 
 ## M
 
-- Mangel => (lack of something)
+- Mahlen => Grind. Getreide(grain) Mahlen
+- Mangel => (Scarcity). Viele menschen leiden heutezutage unter bewegungsmangel
 - Münster: Cathedral
 - Makellos => (flowless) Einen der makellos weissen vorhänge
 
 ## N
 
+- Nämlich: (which is) es gibt eine Irrglaube im bezug auf Sprachlernen, nämlich dass man es schnell lernen kann.
+- Nachmachen: (Kopieren) Gegenteil von Vormachen => jemand zeigen wie etwas gemacht wird
+- Nachvollziehen(understand) Sie müssen nachvollziehen können, was sie tun.
 - Nehmen wir an => (suppose/lets assume) => Nehmen wir an, dass du ein König bist.
+- Nicht leiden(cant stand) => Ich konnte von anfang an ihn nicht leiden.
 
 ## P
 
 - Prägen (shape/create/have an influence): Es wird unsere Zukunft prägen
+- Paläste => Palaces
+- Pfad => path/trail. (schmaler Weg) (narrow path)
 
 ## Q
 
@@ -151,6 +160,7 @@ sidebar_label: Wortschatz
 ## R
 
 - Reelles (real) arbeit war etwas reelles und half mir
+- Regisseur (director) Normally used for Film Director. You dont say Direktor.
 
 ## S
 
@@ -166,42 +176,6 @@ sidebar_label: Wortschatz
 - Steuer: (tax/measurement) die region will nun offenbar gegensteurn.
 - Sich angesprochen fuhlen (feel addressed) Wenn Sie innovativ und zuverlässig sind,
   sollten Sie sich angesprochen fühlen.
-
-## I
-
-- Im bezug auf => (on the subject of...) Wir mussen jeden üben.(Im bezug auf Sprache-lernen)
-- Interessieren sich an(dativ) / für (akk)
-- Interessieren sich an(fativ)
-- In einem zug (in one go) => ich werde das Tee in einem Zug austrinken
-- In Aufruhr (upset) => ihr herz war wegen etwas in Aufruhr
-
-## L
-
-- Lob => Praise (gegenteil von Kritik). Aber sie besuchte jeen Sonntag die Messe, um auf ihrere Gitarre zu speilen und die heilige Jungfrau zu loben.
-
-## M
-
-- Mahlen => Grind. Getreide(grain) Mahlen
-- Mangel: Scarcity. Viele menschen leiden heutezutage unter bewegungsmangel
-
-## N
-
-- Nämlich: (which is) es gibt eine Irrglaube im bezug auf Sprachlernen, nämlich dass man es schnell lernen kann.
-- Nachmachen: (Kopieren) Gegenteil von Vormachen => jemand zeigen wie etwas gemacht wird
-- Nachvollziehen(understand) Sie müssen nachvollziehen können, was sie tun.
-- Nicht leiden(cant stand) => Ich konnte von anfang an ihn nicht leiden.
-
-## P
-
-- Paläste => Palaces
-- Pfad => path/trail. (schmaler Weg) (narrow path)
-
-## R
-
-- Regisseur (director) Normally used for Film Director. You dont say Direktor.
-
-## S
-
 - Sonst (otherwise/otherwhere) => Das passiert hier und überall auf Der ganzen Welt.
 - Stöbern (look around/browse) Wir verkaufen Tische. KOMMEN SIE STÖBERN! (come to browse)
 - Speicher (Attic) es wird im Speicher nur getanzt.
@@ -269,6 +243,7 @@ sidebar_label: Wortschatz
 
 ## Z
 
+- Zog/ziehen (take out) => er zog sein Taschenmesser raus
 - Zufolge(according to) => 1. Frau Khalil zufolge, nachdem die Ordnung wiedergestellt war, wird im Speicher nur gemeinsam getanzt. 2. Aber das ist, dem Anwalt Sheldon zufolge, nicht Legal 3. Ihm zufolge ist es nicht erlaubt
 - Zusammenfassen(summmarize): Wenn ich mein Leben zusammenfassen
 - Zugeben(admit) Ich muss zugeben, dass ich verliebt bin. Selbstverstandlich hätte ich nie zugegeben dass ich verliebt war.
