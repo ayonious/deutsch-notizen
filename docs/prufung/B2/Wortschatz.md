@@ -231,6 +231,7 @@ sidebar_label: Wortschatz
 - Vertreter(representator) => meinen Vertreter
 - Verbannung => (Exile) er ist welt der magier verbannt worden
 - Verdauen => to get rotten for digestive purpose. Im Magen und Darm wird das Essen verdaut
+- Vergammelte => (rotten) vergammelte Gemuse von Mülltonne.
 - Vergewissern: => (make sure of something) => sie hat vergewissern dass er eingeschlafen war.
 - Verlernen => (vergessen) Kochen verlernt man nicht.
 - Vernichten => destroy / eradicate
