@@ -50,6 +50,7 @@ sidebar_label: Wortschatz
   wie England, dessen Briefmarken benutzen und immer noch die Niederlage unserer Königin Maria im Kampf um den Thron betrauen.
 - Betriebsanleitung: (instructions manual)
 - Beschleunigen: (speed up)
+- Bezogene (made) => frisch bezogene betten.
 - BH(bra) burst halter
 - Bummeln(spaziergang) => ich bummle durch die Stadt.
 
@@ -76,6 +77,7 @@ sidebar_label: Wortschatz
 - Entziehen = (elude/skip) sie ist eine Frau, die sich keine herausforderung entziehen
 - Entspannend => relaxing [geneteil Spanend]
 - Empfindest (feel) Ich weiss was du empfindest.
+- Erbärmlich => (pathetic) Du bist in einem erbärmlichen Zustand.
 - Ereignis (event) => Mir war klar welchen folge diese ereignis haben könnte.
 - Erwogen (consider)
 - Es sei denn: (unless) Ich werde dort sein, es sei denn, es schneit. und wesentlich passiert nichts..
@@ -249,6 +251,7 @@ sidebar_label: Wortschatz
 
 ## Z
 
+- Zaun (fence) => Er warf einen Ball über den Zaun.
 - Zog/ziehen (take out) => er zog sein Taschenmesser raus
 - Zufolge(according to) => 1. Frau Khalil zufolge, nachdem die Ordnung wiedergestellt war, wird im Speicher nur gemeinsam getanzt. 2. Aber das ist, dem Anwalt Sheldon zufolge, nicht Legal 3. Ihm zufolge ist es nicht erlaubt
 - Zusammenfassen(summmarize): Wenn ich mein Leben zusammenfassen
