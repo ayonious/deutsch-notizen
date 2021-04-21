@@ -17,6 +17,7 @@ sidebar_label: Wortschatz
 - Anlass (occasion) => Anlass für die Gründung von Mobike war die steigende nachfrage für
   Fahrrad Anfang der 90er Jahre.
 - Anpassen: (customize) Pass die daten an (adjust the dates)
+- Anschnallen => (buckle up) Wahren auto fahren, bitte anschnallen.
 - Anschließend => (finally) Sie kam spät, aber anschliesend ging sofort nach Hause.
 - Anständig(decent) anständig essen
 - Anziehend (attractive) das machte ihr sehr anziehend.
@@ -88,6 +89,7 @@ sidebar_label: Wortschatz
 - Fest (strong) => ist es fest?
 - Fest (proof) => wasserfeste Jacke
 - Fluch => (Curse) mein Talent war immer ein Fluch.
+- Flusspferd (hypo)
 
 ## G
 
@@ -146,6 +148,7 @@ sidebar_label: Wortschatz
 - Nachvollziehen(understand) Sie müssen nachvollziehen können, was sie tun.
 - Nehmen wir an => (suppose/lets assume) => Nehmen wir an, dass du ein König bist.
 - Nicht leiden(cant stand) => Ich konnte von anfang an ihn nicht leiden.
+- Notaufnahme => (emergency room) => in der Notaufnahme war viel los.
 
 ## P
 
@@ -168,6 +171,8 @@ sidebar_label: Wortschatz
 - Schaufe (Broom): viele haben mit grossem interesse zu Besen und schaufeln gegriffen
 - Schicht (shift) Ich arbeite in Schicht. Heute ist Nachtschicht
 - Schulden => (owe) Sie schulden mir Geld. Du schuldest mir geld (ich kriege Geld von dir)
+- Schlauch => (pipe/tube) => Ich gieße meine Pflanzen mit dem Schlauch
+- Schmaler => (Narrow/knapp) => Ein schmales Einkommen
 - Segen => (blessing) gegentail von Fluch. Möge Gottes Segen mit dir sein [May Gods blessings be with you]
 - Sich beklagen über (complain)
 - Spannend => exciting [geneteil entspannend]
