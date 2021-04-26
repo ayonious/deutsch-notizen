@@ -27,6 +27,7 @@ sidebar_label: Wortschatz
 - Auseinandersetzen (dela with) => Das Problem, mit dem Sie sich auseinandersetzen müssen, ist, daß der Arbeitsmarkt sehr schweirig ist.
 - Aus machen (definieren) es macht den menschen aus, mit anderen zusammen zu sein. [living with others, defines us]
 - Ausrotten(extinct) => eine art von Tiere komplett vernichten
+- Aufdringlich sein (be pushy)
 - Aufwendig (laborious/expensive): Die sind aufwendig und teuer. Deshalb gibt es
   Wissenschaftlichen Wirksamkeitsnachweisen mangel.
 - Auswendig => (by heart) er konnte das Periodensystem auswendig
@@ -174,6 +175,7 @@ sidebar_label: Wortschatz
 - Schicht (shift) Ich arbeite in Schicht. Heute ist Nachtschicht
 - Schulden => (owe) Sie schulden mir Geld. Du schuldest mir geld (ich kriege Geld von dir)
 - Schlauch => (pipe/tube) => Ich gieße meine Pflanzen mit dem Schlauch
+- Schluckauf => huccup
 - Schmaler => (Narrow/knapp) => Ein schmales Einkommen
 - Segen => (blessing) gegentail von Fluch. Möge Gottes Segen mit dir sein [May Gods blessings be with you]
 - Sich beklagen über (complain)
