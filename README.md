@@ -18,7 +18,7 @@ http://deutsch-notizen.netlify.app
 
 Übrigens kannst du auch Niederladisch 🇳🇱 lesen
 
-## 🤷 Warrum lerne ich noch?
+## 🤷 Warum lerne ich noch?
 
 Ich Wohne seit Jahren in Deutschland und habe bemerkt, man verbessert Deutsch mit Übung und wirklich viel viel Übung. Die regeln sind wirklich schwer zu benutzen. Mann muss viel nachdenken bevor man sprechen kann. Hier ist meine Sammlung aller wichtigsten deutschen Regeln.
 
