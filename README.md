@@ -25,7 +25,7 @@ Ich Wohne seit Jahren in Deutschland und habe bemerkt, man verbessert Deutsch mi
 ## 🔍 Was gibt es hier?
 
 1. Prüfung vorbereitung 👓
-2. Wortschätz 💰
+2. Wortschatz 💰
 3. Redewendung 🗣️
 4. Satzbau hilfe 💬
 5. Grammatik ⚖️
