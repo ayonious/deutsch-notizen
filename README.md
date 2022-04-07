@@ -20,12 +20,12 @@ http://deutsch-notizen.netlify.app
 
 ## 🤷 Warrum lerne ich noch?
 
-Ich Wohne seit Jahren in Deutschland und habe bemerkt, man verbessert Deutsch mit Übung und wirklich viel viel Übung. Die regeln sind wirklich schwer to benutzen. Mann muss viel nachdenken bevor Man sprechen kann. Hier ist meine Sammlung aller wichtigsten deutschen Regeln.
+Ich Wohne seit Jahren in Deutschland und habe bemerkt, man verbessert Deutsch mit Übung und wirklich viel viel Übung. Die regeln sind wirklich schwer zu benutzen. Mann muss viel nachdenken bevor man sprechen kann. Hier ist meine Sammlung aller wichtigsten deutschen Regeln.
 
 ## 🔍 Was gibt es hier?
 
 1. Prüfung vorbereitung 👓
-2. Wortschatz 💰
-3. Redevendungen 🗣️
+2. Wortschätz 💰
+3. Redewendung 🗣️
 4. Satzbau hilfe 💬
-5. Grammatic ⚖️
+5. Grammatik ⚖️
