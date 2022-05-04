@@ -8,7 +8,11 @@ module.exports = {
   organizationName: "ayonious", // Usually your GitHub org/user name.
   projectName: "docusaurus", // Usually your repo name.
   themeConfig: {
-    hideableSidebar: true,
+    docs: {
+      sidebar: {
+        hideable:  true,
+      }
+    },
     announcementBar: {
       id: "support",
       content:
