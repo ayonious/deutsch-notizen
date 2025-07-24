@@ -7,6 +7,7 @@ module.exports = {
       items: [
         "grammatik/Tekamolo", 
         "grammatik/JenigeJener", 
+        "grammatik/JaWohlDoch",
         "grammatik/KonjunktivI", 
         "grammatik/KonjunktivII"
       ],
@@ -21,7 +22,10 @@ module.exports = {
         "grammatik/Lander", 
         "grammatik/Nebensatz", 
         "grammatik/VerbMitPrapositionen", 
-        "grammatik/PrapositionenAkkDativ"
+        "grammatik/PrapositionenAkkDativ",
+        "grammatik/Partikelverben",
+        "grammatik/Reflexivverben",
+        "grammatik/Adjektivdeklination"
       ],
     },
     {
@@ -33,7 +37,9 @@ module.exports = {
         "grammatik/SprechenStyling", 
         "grammatik/Abkürzungen", 
         "grammatik/DerenDessen", 
-        "grammatik/Passiv"
+        "grammatik/Passiv",
+        "grammatik/Modalverben",
+        "grammatik/Wortstellung"
       ],
     },
   ],

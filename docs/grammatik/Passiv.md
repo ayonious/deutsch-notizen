@@ -62,3 +62,40 @@ Romantisch wird es heute nicht.
 ## ist
 
 Ihre Meinung ist gefragt.
+
+## Schwierige Beispiele
+
+**Zustandspassiv vs. Vorgangspassiv:**
+
+- **Vorgangspassiv** (werden): Die Tür wird geschlossen. (Handlung findet statt)
+- **Zustandspassiv** (sein): Die Tür ist geschlossen. (Zustand als Resultat)
+
+**Passiv mit Modalverben:**
+
+- Das Problem muss gelöst werden. (Notwendigkeit)
+- Der Vertrag hätte unterzeichnet werden sollen. (Konjunktiv II + Passiv)
+- Die Dokumente können nicht gefunden werden. (Möglichkeit + Verneinung)
+
+**Passiv in verschiedenen Zeiten - komplexe Fälle:**
+
+- **Plusquamperfekt Passiv**: Nachdem das Gebäude renoviert worden war, konnte es wieder benutzt werden.
+- **Futur II Passiv**: Bis morgen wird das Projekt abgeschlossen worden sein.
+- **Mit Modalverben + Konjunktiv**: Er behauptete, das Hätte erledigt werden müssen.
+
+**Passiv ohne Subjekt ("es" + Passiv):**
+
+- Es wird getanzt. (impersonales Passiv)
+- Es wurde viel gelacht. (Vergangenes impersonales Passiv)
+- Hier wird nicht geraucht! (Verbot im Passiv)
+
+**Passiv-Alternativen (Passiversatz):**
+
+- Das lässt sich machen. (sich lassen + Infinitiv)
+- Das ist zu schaffen. (sein + zu + Infinitiv)
+- Das Problem ist lösbar. (Adjektiv mit -bar)
+- Das gehört überprüft. (gehören + Partizip II)
+
+**Komplexe Konstruktionen:**
+
+- Nachdem das Angebot geprüft worden war, das von Experten empfohlen worden war, wurde es angenommen.
+- Die Maßnahmen, die beschlossen worden sind, werden umgesetzt werden müssen, damit die Ziele erreicht werden können.

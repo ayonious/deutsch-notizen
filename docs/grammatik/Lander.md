@@ -28,3 +28,35 @@ sidebar_label: Lander
 ## Findest du mehr hier
 
 https://deutsch.lingolia.com/de/wortschatz/laender-nationalitaeten
+
+## Schwierige Beispiele
+
+**Komplexe Sätze mit Ländern und Nationalitäten:**
+
+- Der aus dem Iran stammende Wissenschaftler, der seit zwanzig Jahren in der Schweiz lebt, kehrt nächstes Jahr in den Iran zurück.
+
+- Die niederländische Botschafterin, die fließend Deutsch spricht, wird von den USA in die Niederlande versetzt.
+
+**Präpositionen bei besonderen Ländern:**
+
+- Sie flog **in die** Türkei, obwohl sie eigentlich **in die** USA wollte, aber **aus der** Schweiz kommend hatte sie Probleme mit dem Visum.
+
+- **Aus den** USA **in den** Irak zu reisen war früher einfacher als heute **aus dem** Iran **in die** Vereinigten Staaten.
+
+**Adjektive und komplexe Beschreibungen:**
+
+- Das chinesisch-deutsche Kulturabkommen wurde von chinesischen und deutschen Experten ausgearbeitet.
+
+- Die griechisch-türkischen Beziehungen haben sich verbessert, seit der griechische Premierminister den türkischen Präsidenten besucht hat.
+
+**Schwierige Formulierungen:**
+
+- Die Schweizerin französischer Herkunft, die ursprünglich aus Frankreich stammt, aber die schweizerische Staatsbürgerschaft besitzt, arbeitet für eine amerikanische Firma.
+
+- Der in Deutschland geborene Türke, dessen Eltern aus der Türkei stammen, fühlt sich sowohl als Deutscher als auch als Türke.
+
+**Formelle und offizielle Ausdrücke:**
+
+- Die Regierungen Spaniens und Mexikos unterzeichneten ein bilaterales Abkommen.
+
+- Der diplomatische Vertreter Griechenlands in den Niederlanden traf sich mit seinem bulgarischen Amtskollegen.
