@@ -54,6 +54,17 @@ module.exports = {
         "prufung/B2/BriefRedemittel", 
         "prufung/B2/Wortschatz" 
       ]
+    },
+    {
+      type: 'category',
+      label: 'C1',
+      items: [ 
+        "prufung/C1/SchriftlichePrufung", 
+        "prufung/C1/MundlichePrufung", 
+        "prufung/C1/Brief", 
+        "prufung/C1/BriefRedemittel", 
+        "prufung/C1/Wortschatz" 
+      ]
     }
   ],
   medien: [
