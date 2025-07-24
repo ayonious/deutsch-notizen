@@ -1,5 +1,6 @@
 # Deutsch Lernen
 
+[![CI](https://github.com/ayonious/deutsch-notizen/actions/workflows/ci.yml/badge.svg)](https://github.com/ayonious/deutsch-notizen/actions/workflows/ci.yml)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f6d75f8b-ca3d-4ed0-8690-18ad709cb267/deploy-status)](https://app.netlify.com/sites/deutsch-notizen/deploys)
 
 > Mein Notizbuch zum Deutschlernen
