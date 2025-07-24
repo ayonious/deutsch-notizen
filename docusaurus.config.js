@@ -1,28 +1,28 @@
 module.exports = {
-  title: "Detusch Notizen", // Title for your website.
-  tagline: "Collection of my German language Grammars",
-  url: "https://deutsch-notizen.netlify.app", // Your website URL
-  baseUrl: "/", // Base URL for your project */
+  title: 'Detusch Notizen', // Title for your website.
+  tagline: 'Collection of my German language Grammars',
+  url: 'https://deutsch-notizen.netlify.app', // Your website URL
+  baseUrl: '/', // Base URL for your project */
 
-  favicon: "img/favicon.ico",
-  organizationName: "ayonious", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  favicon: 'img/favicon.ico',
+  organizationName: 'ayonious', // Usually your GitHub org/user name.
+  projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     docs: {
       sidebar: {
-        hideable:  true,
-      }
+        hideable: true,
+      },
     },
     announcementBar: {
-      id: "support",
+      id: 'support',
       content:
         '🍻 Wenn diese Seite dir gefallen hat, gib ein sterne auf <a target="_blank" rel="noopener noreferrer" href="https://github.com/ayonious/deutsch-notizen">GitHub</a>! ⭐️',
     },
     navbar: {
-      title: "Deutsch Notizen",
+      title: 'Deutsch Notizen',
       logo: {
-        alt: "Deutsch Notizen",
-        src: "img/undraw_Beer_celebration_cefj.svg",
+        alt: 'Deutsch Notizen',
+        src: 'img/undraw_Beer_celebration_cefj.svg',
       },
       items: [
         {
@@ -44,69 +44,69 @@ module.exports = {
           label: '🎬 Medien',
         },
         {
-          to: 'blog', 
-          label: '✍️ Blog', 
-          position: 'left'
+          to: 'blog',
+          label: '✍️ Blog',
+          position: 'left',
         },
         {
-          href: "https://github.com/ayonious/deutsch-notizen",
-          label: "GitHub",
-          position: "right",
+          href: 'https://github.com/ayonious/deutsch-notizen',
+          label: 'GitHub',
+          position: 'right',
         },
       ],
     },
     footer: {
-      style: "dark",
+      style: 'dark',
       links: [
         {
-          title: "🧒 Basics",
+          title: '🧒 Basics',
           items: [
             {
-              label: "Tekamolo",
-              to: "docs/grammatik/Tekamolo",
+              label: 'Tekamolo',
+              to: 'docs/grammatik/Tekamolo',
             },
             {
-              label: "Plusquim Perfekt",
-              to: "docs/grammatik/PlusquimPerfekt",
+              label: 'Plusquim Perfekt',
+              to: 'docs/grammatik/PlusquimPerfekt',
             },
           ],
         },
         {
-          title: "👦 Mittelstufe",
+          title: '👦 Mittelstufe',
           items: [
             {
-              label: "Konjunktiv I",
-              to: "docs/grammatik/KonjunktivI",
+              label: 'Konjunktiv I',
+              to: 'docs/grammatik/KonjunktivI',
             },
             {
-              label: "Konjunktiv II",
-              to: "docs/grammatik/KonjunktivII",
+              label: 'Konjunktiv II',
+              to: 'docs/grammatik/KonjunktivII',
             },
             {
-              label: "Haupt & Nebensatz",
-              to: "docs/grammatik/Nebensatz",
+              label: 'Haupt & Nebensatz',
+              to: 'docs/grammatik/Nebensatz',
             },
           ],
         },
         {
-          title: "👸 Profis",
+          title: '👸 Profis',
           items: [
             {
-              label: "Passiv",
-              to: "docs/grammatik/Passiv",
+              label: 'Passiv',
+              to: 'docs/grammatik/Passiv',
             },
             {
-              label: "Deren & Dessen",
-              to: "docs/grammatik/DerenDessen",
+              label: 'Deren & Dessen',
+              to: 'docs/grammatik/DerenDessen',
             },
           ],
         },
         {
-          title: "🦄 Spaß",
+          title: '🦄 Spaß',
           items: [
             {
-              label: "Sprechen Styling",
-              to: "docs/grammatik/SprechenStyling",
+              label: 'Sprechen Styling',
+              to: 'docs/grammatik/SprechenStyling',
             },
           ],
         },
@@ -116,15 +116,15 @@ module.exports = {
   },
   presets: [
     [
-      "@docusaurus/preset-classic",
+      '@docusaurus/preset-classic',
       {
         docs: {
-          path: "docs",
-          sidebarPath: require.resolve("./sidebars.js"),
+          path: 'docs',
+          sidebarPath: require.resolve('./sidebars.js'),
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
           // this enabled the edit button for documentation
-          editUrl: "https://github.com/ayonious/deutsch-notizen/blob/master/",
+          editUrl: 'https://github.com/ayonious/deutsch-notizen/blob/master/',
         },
         blog: {
           feedOptions: {
@@ -133,7 +133,7 @@ module.exports = {
           },
         },
         theme: {
-          customCss: require.resolve("./src/css/custom.css"),
+          customCss: require.resolve('./src/css/custom.css'),
         },
       },
     ],

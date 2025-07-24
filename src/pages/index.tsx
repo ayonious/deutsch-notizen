@@ -1,9 +1,9 @@
-import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
-import Layout from "@theme/Layout";
-import React from "react";
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import Layout from '@theme/Layout';
+import React from 'react';
 
-import PageHeadLine from "../components/PageHeadLine";
-import Sources from "../components/Sources";
+import PageHeadLine from '../components/PageHeadLine';
+import Sources from '../components/Sources';
 
 const Home = () => {
   const { siteConfig } = useDocusaurusContext();

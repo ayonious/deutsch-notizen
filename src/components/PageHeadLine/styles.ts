@@ -1,5 +1,5 @@
-import styled from "styled-components";
-import { ColorPrimary } from "../../css/variables";
+import styled from 'styled-components';
+import { ColorPrimary } from '../../css/variables';
 
 export const Headline = styled.div`
   background-color: #2b3137;

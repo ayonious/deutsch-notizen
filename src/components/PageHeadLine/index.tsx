@@ -1,6 +1,6 @@
-import Link from "@docusaurus/Link";
-import useBaseUrl from "@docusaurus/useBaseUrl";
-import React from "react";
+import Link from '@docusaurus/Link';
+import useBaseUrl from '@docusaurus/useBaseUrl';
+import React from 'react';
 
 import {
   ColoredWords,
@@ -9,21 +9,21 @@ import {
   HeadlineSub,
   HeadlineText,
   ProductLogoHomePage,
-} from "./styles";
+} from './styles';
 
 const ColoredText = ({ text }) => <ColoredWords>{text}</ColoredWords>;
 const UnColoredText = ({ text }) => <span>{text}</span>;
 
 const GetStartedButton = () => (
   <GetStartButton>
-    <Link to={useBaseUrl("docs/")}>Auf Geht's </Link>
+    <Link to={useBaseUrl('docs/')}>Auf Geht's </Link>
   </GetStartButton>
 );
 
 const ProductLogo = () => (
   <ProductLogoHomePage
     alt="Deutsch Logo"
-    src={useBaseUrl("img/undraw_Beer_celebration_cefj.svg")}
+    src={useBaseUrl('img/undraw_Beer_celebration_cefj.svg')}
   />
 );
 

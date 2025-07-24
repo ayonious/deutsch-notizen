@@ -1,1 +1,1 @@
-export const ColorPrimary = "rgb(246, 181, 17)";
+export const ColorPrimary = 'rgb(246, 181, 17)';
