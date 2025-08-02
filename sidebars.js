@@ -64,6 +64,7 @@ module.exports = {
         'prufung/C1/BriefC1',
         'prufung/C1/BriefRedemittelC1',
         'prufung/C1/WortschatzC1',
+        'prufung/C1/WerdenWordenWurde',
       ],
     },
   ],

@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Detusch Notizen', // Title for your website.
+  title: 'Deutsch Notizen', // Title for your website.
   tagline: 'Collection of my German language Grammars',
   url: 'https://deutsch-notizen.netlify.app', // Your website URL
   baseUrl: '/', // Base URL for your project */
