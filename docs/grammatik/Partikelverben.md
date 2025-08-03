@@ -2,6 +2,8 @@
 id: Partikelverben
 title: Partikelverben (Phrasal Verbs)
 sidebar_label: Partikelverben
+sidebar_position: 16
+tags: [mittelstufe]
 ---
 
 ## Was sind Partikelverben?

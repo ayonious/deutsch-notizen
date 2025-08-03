@@ -2,6 +2,8 @@
 id: Nebensatz
 title: Nebensatz
 sidebar_label: Nebensatz
+sidebar_position: 13
+tags: [mittelstufe]
 ---
 
 ## Wieso Haupt,Nebensatz?

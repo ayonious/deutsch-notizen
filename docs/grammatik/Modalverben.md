@@ -2,6 +2,8 @@
 id: Modalverben
 title: Modalverben
 sidebar_label: Modalverben
+sidebar_position: 25
+tags: [fortgeschritten]
 ---
 
 ## Die sechs Modalverben

@@ -2,6 +2,8 @@
 id: JaWohlDoch
 title: JaWohlDoch
 sidebar_label: Ja-Wohl-Doch
+sidebar_position: 3
+tags: [basics]
 ---
 
 - Ja => wir sind ja keine genie.

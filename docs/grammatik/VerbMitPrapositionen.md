@@ -2,6 +2,8 @@
 id: VerbMitPrapositionen
 title: Verb mit Prapositionen
 sidebar_label: Verb+Praposition
+sidebar_position: 14
+tags: [mittelstufe]
 ---
 
 ## A

@@ -2,6 +2,8 @@
 id: SprechenStyling
 title: SprechenStyling
 sidebar_label: SprechenStyling
+sidebar_position: 21
+tags: [fortgeschritten]
 ---
 
 ### Style

@@ -2,6 +2,8 @@
 id: DerenDessen
 title: DerenDessen
 sidebar_label: DerenDessen
+sidebar_position: 23
+tags: [fortgeschritten]
 ---
 
 Die sind Genitiv von der,die und das. Auf Englihsch es ist (whoose)

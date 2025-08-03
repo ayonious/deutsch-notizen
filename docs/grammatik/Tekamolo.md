@@ -2,6 +2,8 @@
 id: Tekamolo
 title: Tekamolo
 sidebar_label: Tekamolo
+sidebar_position: 1
+tags: [basics]
 ---
 
 |                 | Te      | Ka                 | Mo                    | Lo               |                |

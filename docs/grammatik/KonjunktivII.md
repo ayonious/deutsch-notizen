@@ -2,6 +2,8 @@
 id: KonjunktivII
 title: KonjunktivII
 sidebar_label: KonjunktivII
+sidebar_position: 5
+tags: [basics]
 ---
 
 ## Wann?

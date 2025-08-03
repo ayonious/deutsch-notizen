@@ -2,6 +2,8 @@
 id: Redevendung
 title: Redevendung
 sidebar_label: Redevendungen
+sidebar_position: 20
+tags: [fortgeschritten]
 ---
 
 Ich sammle hier die am häufigsten verwendeten Redewendungen, die ich je gehört habe

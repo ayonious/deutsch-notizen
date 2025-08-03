@@ -2,6 +2,8 @@
 id: Wortstellung
 title: Wortstellung im Deutschen
 sidebar_label: Wortstellung
+sidebar_position: 26
+tags: [fortgeschritten]
 ---
 
 ## Grundprinzipien der deutschen Wortstellung

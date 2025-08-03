@@ -2,6 +2,8 @@
 id: Abkürzungen
 title: Abkürzungen
 sidebar_label: Abkürzungen
+sidebar_position: 22
+tags: [fortgeschritten]
 ---
 
 | Deutsch Abkürzungen | English       | Erganzung       |

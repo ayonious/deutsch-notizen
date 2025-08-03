@@ -2,6 +2,8 @@
 id: Machen
 title: Machen
 sidebar_label: Machen
+sidebar_position: 11
+tags: [mittelstufe]
 ---
 
 ## Warrum machen hat so viele formen?

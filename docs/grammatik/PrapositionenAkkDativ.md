@@ -2,6 +2,8 @@
 id: PrapositionenAkkDativ
 title: PrapositionenAkkDativ
 sidebar_label: PrapositionenAkkDativ
+sidebar_position: 15
+tags: [mittelstufe]
 ---
 
 ## Akkusativ

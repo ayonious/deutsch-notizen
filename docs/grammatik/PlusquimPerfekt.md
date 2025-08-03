@@ -2,6 +2,8 @@
 id: PlusquimPerfekt
 title: PlusquimPerfekt
 sidebar_label: PlusquimPerfekt
+sidebar_position: 10
+tags: [mittelstufe]
 ---
 
 ## PlusquimPerfekt

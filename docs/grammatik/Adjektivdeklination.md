@@ -2,6 +2,8 @@
 id: Adjektivdeklination
 title: Adjektivdeklination
 sidebar_label: Adjektivdeklination
+sidebar_position: 18
+tags: [mittelstufe]
 ---
 
 ## Grundregeln der Adjektivdeklination

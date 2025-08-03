@@ -2,6 +2,8 @@
 id: KonjunktivI
 title: Konjunktiv I
 sidebar_label: Konjunktiv I
+sidebar_position: 4
+tags: [basics]
 ---
 
 ## Hilfverben

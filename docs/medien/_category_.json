@@ -1,0 +1,8 @@
+{
+  "label": "Medien",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "German learning resources through various media channels like YouTube and Spotify."
+  }
+}

@@ -3,6 +3,8 @@ id: JenigeJener
 title: Diejenige jener
 sidebar_label: Diejenige
 slug: /
+sidebar_position: 2
+tags: [basics]
 ---
 
 ## Diejenige (that person who...)

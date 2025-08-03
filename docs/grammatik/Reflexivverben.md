@@ -2,6 +2,8 @@
 id: Reflexivverben
 title: Reflexivverben
 sidebar_label: Reflexivverben
+sidebar_position: 17
+tags: [mittelstufe]
 ---
 
 ## Was sind Reflexivverben?
