@@ -11,7 +11,7 @@ Die sind Genitiv von der,die und das. Auf Englihsch es ist (whoose)
 ## Dessen (Mannlich/Neuter)
 
 - Das ist Felix, dessen Fahrad gestohlen ist
-- Das ist das Hund, dessen .........
+- Das ist das Hund, dessen Besitzer sehr nett ist => That's the dog whose owner is very nice
 
 ## Deren (Weiblich/Plural)
 

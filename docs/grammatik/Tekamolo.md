@@ -6,11 +6,22 @@ sidebar_position: 1
 tags: [basics]
 ---
 
-|                 | Te      | Ka                 | Mo                    | Lo               |                |
-| --------------- | ------- | ------------------ | --------------------- | ---------------- | -------------- |
-|                 | Wann?   | Warrum?            | Wie?                  | Wo?              |                |
-|                 | Heute   | wegen unser Urlaub | gehen wir mit dem Bus | nach Deutschland |                |
-| Das Auto müsste | gestern |                    | mit viel Geld         | von Frankreich   | gekauft werden |
+|                     | Te           | Ka                      | Mo                    | Lo              |                    |
+| ------------------- | ------------ | ----------------------- | --------------------- | --------------- | ------------------ |
+|                     | Wann?        | Warum?                  | Wie?                  | Wo?             |                    |
+| Wir fahren          | heute        | wegen unserem Urlaub    | mit dem Bus           | nach Deutschland|                    |
+| Das Auto müsste     | gestern      |                         | mit viel Geld         | von Frankreich  | gekauft werden     |
+| Ich gehe            | morgen       | wegen der Arbeit        | schnell               | ins Büro        |                    |
+| Sie hat             | letzte Woche | aufgrund des Wetters    | vorsichtig            | nach Hause      | gehen müssen       |
+| Die Kinder spielen  | nachmittags  | aus Freude              | laut                  | im Garten       |                    |
+| Er ist              | gestern Abend| wegen seiner Freundin   | mit dem Taxi          | zum Restaurant  | gefahren           |
+| Wir müssen          | sofort       | aufgrund der Situation  | sehr sorgfältig       | in der Küche    | arbeiten           |
+| Sie hat             | vor einer Stunde | aus Neugier         | heimlich              | ins Zimmer      | geschaut           |
+| Die Studenten lernen| täglich      | für die Prüfung         | mit großer Anstrengung| in der Bibliothek|                   |
+| Er wird             | nächste Woche| wegen seiner Krankheit  | mit dem Krankenwagen  | ins Krankenhaus | gebracht werden    |
+| Wir haben           | am Wochenende| aus Spaß                | gemeinsam             | im Park         | gespielt           |
+| Sie muss            | bis Freitag  | wegen der Deadline      | sehr konzentriert     | im Homeoffice   | arbeiten           |
+| Der Hund läuft      | jeden Morgen | aus Gewohnheit          | schnell               | um den See      |                    |
 
 ## Schwierige Beispiele
 
