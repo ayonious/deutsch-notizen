@@ -1,4 +1,12 @@
-# Da-Compounds (Pronominaladverbien)
+---
+id: da-compounds
+title: Da-Compounds (Pronominaladverbien)
+sidebar_label: Da-Compounds
+sidebar_position: 26
+tags: [fortgeschritten]
+---
+
+## Was sind Da-Compounds?
 
 German da-compounds are prepositional adverbs formed by combining "da" with prepositions. They replace prepositional phrases when referring to things (not people).
 
