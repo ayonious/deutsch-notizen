@@ -18,10 +18,10 @@ Adjektive werden dekliniert, wenn sie vor einem Nomen stehen. Die Endung hängt 
 
 | Kasus | Maskulin | Feminin | Neutral | Plural |
 |-------|----------|---------|---------|--------|
-| **Nom** | der alt**e** Mann | die jung**e** Frau | das klein**e** Kind | die neu**en** Bücher |
-| **Akk** | den alt**en** Mann | die jung**e** Frau | das klein**e** Kind | die neu**en** Bücher |
-| **Dat** | dem alt**en** Mann | der jung**en** Frau | dem klein**en** Kind | den neu**en** Büchern |
-| **Gen** | des alt**en** Mannes | der jung**en** Frau | des klein**en** Kindes | der neu**en** Bücher |
+| **Nom.** | der alt**e** Mann | die jung**e** Frau | das klein**e** Kind | die neu**en** Bücher |
+| **Akk.** | den alt**en** Mann | die jung**e** Frau | das klein**e** Kind | die neu**en** Bücher |
+| **Dat.** | dem alt**en** Mann | der jung**en** Frau | dem klein**en** Kind | den neu**en** Büchern |
+| **Gen.** | des alt**en** Mannes | der jung**en** Frau | des klein**en** Kindes | der neu**en** Bücher |
 
 ### Beispiele:
 - Der **rote** Wagen gehört mir. (Nominativ maskulin)
@@ -33,10 +33,10 @@ Adjektive werden dekliniert, wenn sie vor einem Nomen stehen. Die Endung hängt 
 
 | Kasus | Maskulin | Feminin | Neutral | Plural |
 |-------|----------|---------|---------|--------|
-| **Nom** | ein alt**er** Mann | eine jung**e** Frau | ein klein**es** Kind | — neu**e** Bücher |
-| **Akk** | einen alt**en** Mann | eine jung**e** Frau | ein klein**es** Kind | — neu**e** Bücher |
-| **Dat** | einem alt**en** Mann | einer jung**en** Frau | einem klein**en** Kind | — neu**en** Büchern |
-| **Gen** | eines alt**en** Mannes | einer jung**en** Frau | eines klein**en** Kindes | — neu**er** Bücher |
+| **Nom.** | ein alt**er** Mann | eine jung**e** Frau | ein klein**es** Kind | — neu**e** Bücher |
+| **Akk.** | einen alt**en** Mann | eine jung**e** Frau | ein klein**es** Kind | — neu**e** Bücher |
+| **Dat.** | einem alt**en** Mann | einer jung**en** Frau | einem klein**en** Kind | — neu**en** Büchern |
+| **Gen.** | eines alt**en** Mannes | einer jung**en** Frau | eines klein**en** Kindes | — neu**er** Bücher |
 
 ### Beispiele:
 - Ein **großer** Hund bellt. (Nominativ maskulin)
@@ -47,10 +47,10 @@ Adjektive werden dekliniert, wenn sie vor einem Nomen stehen. Die Endung hängt 
 
 | Kasus | Maskulin | Feminin | Neutral | Plural |
 |-------|----------|---------|---------|--------|
-| **Nom** | alt**er** Mann | jung**e** Frau | klein**es** Kind | neu**e** Bücher |
-| **Akk** | alt**en** Mann | jung**e** Frau | klein**es** Kind | neu**e** Bücher |
-| **Dat** | alt**em** Mann | jung**er** Frau | klein**em** Kind | neu**en** Büchern |
-| **Gen** | alt**en** Mannes | jung**er** Frau | klein**en** Kindes | neu**er** Bücher |
+| **Nom.** | alt**er** Mann | jung**e** Frau | klein**es** Kind | neu**e** Bücher |
+| **Akk.** | alt**en** Mann | jung**e** Frau | klein**es** Kind | neu**e** Bücher |
+| **Dat.** | alt**em** Mann | jung**er** Frau | klein**em** Kind | neu**en** Büchern |
+| **Gen.** | alt**en** Mannes | jung**er** Frau | klein**en** Kindes | neu**er** Bücher |
 
 ### Beispiele:
 - **Frisches** Brot schmeckt gut. (Nominativ neutral)

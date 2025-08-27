@@ -6,13 +6,13 @@ sidebar_position: 22
 tags: [fortgeschritten]
 ---
 
-| Deutsch Abkürzungen | English       | Erganzung       |
-| ------------------- | ------------- | --------------- |
-| usw.                | etc.          | und so weiter   |
-| ggf.                | if needed     | gegebenenfalls  |
-| jmd.                | someone       | jemand          |
-| bzw.                | or/respektive | beziehungsweise |
-| z. B.               | eg.           | zum Beispiel    |
+| Deutsch Abkürzungen | Englisch | Ergänzung |
+| ------------------- | --------------- | --------------- |
+| usw.                | etc.            | und so weiter   |
+| ggf.                | if needed       | gegebenenfalls  |
+| jmd.                | someone         | jemand          |
+| bzw.                | or/respektive   | beziehungsweise |
+| z. B.               | eg.             | zum Beispiel    |
 
 ## Schwierige Beispiele
 
@@ -38,4 +38,4 @@ tags: [fortgeschritten]
 
 **In komplexen Sätzen:**
 
-- Die Firma XY GmbH & Co. KG i. Gr. (in Gründung) sucht bzgl. der geplanten Expansion ggfs. neue Mitarbeiter (m/w/d), die über entspr. (entsprechende) Qualifikationen verfügen (verfügen).
+- Die Firma XY GmbH & Co. KG i. Gr. (in Gründung) sucht bzgl. der geplanten Expansion ggfs. neue Mitarbeiter (m/w/d), die über entspr. (entsprechende) Qualifikationen verfügen.
