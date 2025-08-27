@@ -1,3 +1,11 @@
+---
+id: WerdenWordenWurde
+title: Werden, Worden, Wurde - Die wichtigsten Unterschiede
+sidebar_label: Werden/Worden/Wurde
+sidebar_position: 6
+tags: [fortgeschritten]
+---
+
 # Werden, Worden, Wurde - Die wichtigsten Unterschiede
 
 ## Übersicht

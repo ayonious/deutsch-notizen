@@ -1,3 +1,11 @@
+---
+id: WieAlso
+title: Wie vs. Als - Vergleiche richtig verwenden
+sidebar_label: Wie vs. Als
+sidebar_position: 28
+tags: [fortgeschritten]
+---
+
 # Wie vs. Als - Vergleiche richtig verwenden
 
 Ein sehr häufiger Fehler bei Deutschlernenden ist die Verwechslung von "wie" und "als" bei Vergleichen. Beide Wörter werden für Vergleiche verwendet, aber in unterschiedlichen Situationen.

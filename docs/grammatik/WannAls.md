@@ -1,3 +1,11 @@
+---
+id: WannAls
+title: Wann vs. Als - Temporale Unterschiede
+sidebar_label: Wann vs. Als
+sidebar_position: 30
+tags: [fortgeschritten]
+---
+
 # Wann vs. Als - Temporale Unterschiede
 
 Ein häufiger Fehler bei Deutschlernenden ist die Verwechslung von "wann" und "als" in temporalen (zeitlichen) Kontexten.

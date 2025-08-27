@@ -1,3 +1,11 @@
+---
+id: zu-Präfix_Ausdrücke
+title: Zu-Präfix Ausdrücke und ihre Verwendung
+sidebar_label: Zu-Präfix Ausdrücke
+sidebar_position: 35
+tags: [fortgeschritten]
+---
+
 # Zu-Präfix Ausdrücke und ihre Verwendung
 
 ## 1. Zumute sein / zumute

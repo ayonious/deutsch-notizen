@@ -2,6 +2,8 @@
 id: PrapositionenKomplett
 title: Komplette Übersicht - Deutsche Präpositionen
 sidebar_label: Alle Präpositionen
+sidebar_position: 33
+tags: [fortgeschritten]
 ---
 
 ## Übersicht der Präpositionsarten

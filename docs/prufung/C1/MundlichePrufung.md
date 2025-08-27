@@ -2,6 +2,8 @@
 id: MundlichePrufungC1
 title: Mündliche Prüfung C1
 sidebar_label: Mündliche Prüfung
+sidebar_position: 3
+tags: [prufung, C1]
 ---
 
 ## Teil 1: Präsentation (4 Minuten)

@@ -2,6 +2,8 @@
 id: WortschatzC1
 title: Wortschatz C1
 sidebar_label: Wortschatz
+sidebar_position: 5
+tags: [prufung, C1]
 ---
 
 ## Erweiterte Wortschatz für C1

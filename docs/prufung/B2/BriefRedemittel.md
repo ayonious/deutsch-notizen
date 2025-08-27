@@ -2,6 +2,8 @@
 id: BriefRedemittel
 title: BriefRedemittel
 sidebar_label: BriefRedemittel
+sidebar_position: 2
+tags: [prufung, B2]
 ---
 
 ### Alle Briefe

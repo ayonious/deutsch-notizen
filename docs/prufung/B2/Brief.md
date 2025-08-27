@@ -2,6 +2,8 @@
 id: Brief
 title: Brief
 sidebar_label: Brief
+sidebar_position: 1
+tags: [prufung, B2]
 ---
 
 ### Bewerbungsbrief um eine Praktikantstelle

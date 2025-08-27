@@ -2,6 +2,8 @@
 id: SchriftlichePrufungC1
 title: Schriftliche Prüfung C1
 sidebar_label: Schriftliche Prüfung
+sidebar_position: 4
+tags: [prufung, C1]
 ---
 
 ### Struktur

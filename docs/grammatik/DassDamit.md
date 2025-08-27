@@ -1,3 +1,11 @@
+---
+id: DassDamit
+title: Dass vs. Damit - Finale und konsekutive Nebensätze
+sidebar_label: Dass vs. Damit
+sidebar_position: 27
+tags: [fortgeschritten]
+---
+
 # Dass vs. Damit - Finale und konsekutive Nebensätze
 
 Die Verwechslung zwischen "dass" und "damit" ist besonders bei finalen Nebensätzen (Zweck/Absicht) häufig, da beide Konjunktionen Nebensätze einleiten können.

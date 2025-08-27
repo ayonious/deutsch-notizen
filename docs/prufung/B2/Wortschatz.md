@@ -2,12 +2,14 @@
 id: Wortschatz
 title: Wortschatz
 sidebar_label: Wortschatz
+sidebar_position: 5
+tags: [prufung, B2]
 ---
 
 ## A
 
 - Auslachen(laugh on someone) => du wirst dafür ausgelacht
-- Angeblich (supposedly) er war angeblich beim Artz. er ist angeblich Student
+- Angeblich (supposedly) er war angeblich beim Arzt. Er ist angeblich Student
 - Abgewiesen (rejected) zeus hat sich eigens in einen Vogel verwandelt, um hera lieben zu können,
   ohne abgewiesen zu werden
 - Allmählich => wenn auch die traditionen weiterleben, so verschwendet doch allmählich der Wünsch wieder zurückzukehren. even if
@@ -42,7 +44,7 @@ sidebar_label: Wortschatz
 - Benehmen sich: (behave) Alle Schüler dieser Klasse benehmen sich wie Kinder. Du benimmst dich
   wie diese Person
 - Belastet (charged/burdened) Du wirst nicht für die Weihnachtsferien belastet.
-- Besen (Broom): viele haben mit grossem interesse zu Besen und schaufeln gegriffen
+- Besen (Broom): viele haben mit großem Interesse zu Besen und Schaufeln gegriffen
 - Beteiligt: (involved) Viele vereine beteiligten sich
 - Betreuung (care): Hunde betreuung. Kinder betreuung.
 - Betrachtet als (considered as): Berlin ist betrachtet als eine der Hauptstadte der Welt mit
@@ -70,14 +72,14 @@ sidebar_label: Wortschatz
 - Eben (genau) [nicht sicher]
 - Eid (vow) Er hat ein eid geschworen
 - Eigens => (especially) Deshalb ist er eigens aus Berlin gekommen.
-- Einprägsam (memorable) => Diese geräusch ist einprägsam.
-- Einsprüch (Objection) => Hier ist die Prüfung Egebniss. Für einen offiziellen Einspruch nutzen Sie bitte folgende
+- Einprägsam (memorable) => Dieses Geräusch ist einprägsam.
+- Einspruch (Objection) => Hier ist das Prüfungsergebnis. Für einen offiziellen Einspruch nutzen Sie bitte folgende
   E-Mailadresse.
 - Einschreiben (enroll) => Damals hatte sie vorgehabt, sich in trinity college einzuschreiben.
 - Entgeltfrei => (kostenlos) Die Ausweisgültigkeit läuft bald ab.Sie können hier entgeltfrei verlängern.
 - Entziehen = (elude/skip) sie ist eine Frau, die sich keine herausforderung entziehen
-- Entspannend => relaxing [geneteil Spanend]
-- Empfindest (feel) Ich weiss was du empfindest.
+- Entspannend => relaxing [Gegenteil: spannend]
+- Empfindest (feel) Ich weiß was du empfindest.
 - Erbärmlich => (pathetic) Du bist in einem erbärmlichen Zustand.
 - Ereignis (event) => Mir war klar welchen folge diese ereignis haben könnte.
 - Erwogen (consider)
@@ -142,11 +144,11 @@ sidebar_label: Wortschatz
 - Mahlen => Grind. Getreide(grain) Mahlen
 - Mangel => (Scarcity). Viele menschen leiden heutezutage unter bewegungsmangel
 - Münster: Cathedral
-- Makellos => (flowless) Einen der makellos weissen vorhänge
+- Makellos => (flawless) Einen der makellos weißen Vorhänge
 
 ## N
 
-- Nämlich: (which is) es gibt eine Irrglaube im bezug auf Sprachlernen, nämlich dass man es schnell lernen kann.
+- Nämlich: (which is) es gibt einen Irrglauben im Bezug auf Sprachlernen, nämlich dass man es schnell lernen kann.
 - Nachmachen: (Kopieren) Gegenteil von Vormachen => jemand zeigen wie etwas gemacht wird
 - Nachvollziehen(understand) Sie müssen nachvollziehen können, was sie tun.
 - Nehmen wir an => (suppose/lets assume) => Nehmen wir an, dass du ein König bist.
@@ -171,20 +173,20 @@ sidebar_label: Wortschatz
 
 ## S
 
-- Schaufe (Broom): viele haben mit grossem interesse zu Besen und schaufeln gegriffen
+- Schaufel (Shovel): viele haben mit großem Interesse zu Besen und Schaufeln gegriffen
 - Schicht (shift) Ich arbeite in Schicht. Heute ist Nachtschicht
 - Schulden => (owe) Sie schulden mir Geld. Du schuldest mir geld (ich kriege Geld von dir)
 - Schlauch => (pipe/tube) => Ich gieße meine Pflanzen mit dem Schlauch
-- Schluckauf => huccup
+- Schluckauf => hiccup
 - Schmaler => (Narrow/knapp) => Ein schmales Einkommen
-- Segen => (blessing) gegentail von Fluch. Möge Gottes Segen mit dir sein [May Gods blessings be with you]
+- Segen => (blessing) Gegenteil von Fluch. Möge Gottes Segen mit dir sein [May God's blessings be with you]
 - Sich beklagen über (complain)
-- Spannend => exciting [geneteil entspannend]
+- Spannend => exciting [Gegenteil: entspannend]
 - Soeben(gerade/just now) Das Impfzentrum hat soeben 100 Impftermine abgesagt.
 - Stets => (immer) Kaum Sonne, stets regnen
 - Steuer: (tax/measurement) die region hat eine Steuer eingeführt
 - Steuer: (tax/measurement) die region will nun offenbar gegensteurn.
-- Sich angesprochen fuhlen (feel addressed) Wenn Sie innovativ und zuverlässig sind,
+- Sich angesprochen fühlen (feel addressed) Wenn Sie innovativ und zuverlässig sind,
   sollten Sie sich angesprochen fühlen.
 - Sonst (otherwise/otherwhere) => Das passiert hier und überall auf Der ganzen Welt.
 - Stöbern (look around/browse) Wir verkaufen Tische. KOMMEN SIE STÖBERN! (come to browse)

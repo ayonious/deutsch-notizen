@@ -1,3 +1,11 @@
+---
+id: SeitSeitdem
+title: Seit vs. Seitdem - Temporale Präpositionen und Konjunktionen
+sidebar_label: Seit vs. Seitdem
+sidebar_position: 29
+tags: [fortgeschritten]
+---
+
 # Seit vs. Seitdem - Temporale Präpositionen und Konjunktionen
 
 Die Verwechslung zwischen "seit" und "seitdem" ist ein häufiger Fehler, da beide eine zeitliche Beziehung ausdrücken, aber grammatisch unterschiedlich funktionieren.

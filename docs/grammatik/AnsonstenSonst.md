@@ -1,3 +1,11 @@
+---
+id: AnsonstenSonst
+title: Ansonsten vs. Sonst - Der Unterschied
+sidebar_label: Ansonsten vs. Sonst
+sidebar_position: 31
+tags: [fortgeschritten]
+---
+
 # Ansonsten vs. Sonst - Der Unterschied
 
 Eine häufige Verwirrung bei Deutschlernenden ist der Unterschied zwischen "ansonsten" und "sonst". Beide Wörter haben ähnliche Bedeutungen, werden aber in verschiedenen Kontexten verwendet.

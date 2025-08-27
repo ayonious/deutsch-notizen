@@ -2,6 +2,8 @@
 id: PrapositionenAdvanced
 title: Erweiterte Präpositionsverwendung - Edge Cases und komplexe Muster
 sidebar_label: Präpositionen Advanced
+sidebar_position: 32
+tags: [fortgeschritten]
 ---
 
 ## Komplexe Präpositionalkombinationen

@@ -2,6 +2,8 @@
 id: BriefRedemittelC1
 title: Brief Redemittel C1
 sidebar_label: Brief Redemittel
+sidebar_position: 2
+tags: [prufung, C1]
 ---
 
 ## Redemittel für C1-Briefe

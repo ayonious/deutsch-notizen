@@ -2,6 +2,8 @@
 id: PrapositionAn
 title: Die Präposition "an" - Umfassender Leitfaden
 sidebar_label: Präposition "an"
+sidebar_position: 34
+tags: [fortgeschritten]
 ---
 
 ## Grundlagen der Präposition "an"

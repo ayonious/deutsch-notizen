@@ -2,6 +2,8 @@
 id: BriefC1
 title: Brief C1
 sidebar_label: Brief
+sidebar_position: 1
+tags: [prufung, C1]
 ---
 
 ## Formelle Briefe auf C1-Niveau

@@ -2,6 +2,8 @@
 id: MundlichePrufung
 title: Mundliche Prufung
 sidebar_label: Mundliche Prufung
+sidebar_position: 3
+tags: [prufung, B2]
 ---
 
 ## Teil1: (Über Erfahrung Sprechen)
@@ -69,24 +71,24 @@ Zeichentrick filmen gesehen.
 
 Plan etwas zusammen
 
-- Ein Picnic
-- Geburtstag Party
+- Ein Picknick
+- Geburtstagsparty
 
-## Teil3: Discussion über ein Text
+## Teil3: Diskussion über einen Text
 
-- Es sind immer besondere Texte die haben immer nch teile und vorteile
-- Man soll über die beide denken.
-- Mach notizen darüber und mit dem Partner diskutieren
+- Es sind immer besondere Texte, die haben immer Nach- und Vorteile
+- Man soll über beide denken.
+- Mache Notizen darüber und diskutiere mit dem Partner
 
 ```text
-Thema: Geld straffe für Stadtverschmutzer
+Thema: Geldstrafe für Stadtverschmutzer
 - Argumente dafür:
 1. Stadt bleibt sauber
-2. Stadt spärt Geld
+2. Stadt spart Geld
 - Argumente dagegen:
 1. Manchmal keine Mülleimer
-2. Manche
+2. Manche Menschen sind nachlässig
 - Meine Erfahrung:
-1. Viel Hundescheisse auf der Strasse
-- Meine meinung ...
+1. Viel Hundescheiße auf der Straße
+- Meine Meinung ...
 ```

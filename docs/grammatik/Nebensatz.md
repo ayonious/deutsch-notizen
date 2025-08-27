@@ -12,28 +12,28 @@ Nebensatz, Hauptsatz machen den Unterschied zwischen Muttersprachlern und Lernen
 
 ## Weil/Damit//Obwohl
 
-| Haupt                               | konnectur | neben                                 |
+| Haupt                               | Konnektor | Neben                                 |
 | ----------------------------------- | --------- | ------------------------------------- |
-| Ich gehe jedentag Joggen,           | weil      | es spaß macht.                        |
+| Ich gehe jeden Tag joggen,          | weil      | es Spaß macht.                        |
 | Ich habe ihn gesagt,                | dass      | er warten soll.                       |
 | Ich freue mich,                     | weil      | ein Fahrrad bekommen habe.            |
-| Ich fahre jedentag mit dem Fahrrad, | obwohl    | ich ein Ticket für Strassenbahn habe. |
+| Ich fahre jeden Tag mit dem Fahrrad,| obwohl    | ich ein Ticket für Straßenbahn habe.  |
 | gehe ich nach Hause,                | damit     | ich meine Hausaufgabe machen kann.    |
-| Er hat schon gestorben,             | als       | der Artz kam.                         |
+| Er hat schon gestorben,             | als       | der Arzt kam.                         |
 | Du warst sehr klein,                | als       | dein Vater starb.                     |
-| Sag mir bescheid,                   | wann      | du Geld brauchst.                     |
+| Sag mir Bescheid,                   | wann      | du Geld brauchst.                     |
 
 6.  Weil ich kein Geld habe, muss ich sparen
 
 ## Wenn
 
-1. Wenn ich daruber nachdenke, fuhle ich sehr gut.
+1. Wenn ich darüber nachdenke, fühle ich mich sehr gut.
 2. Wenn ich mehr Geld hätte, hätte ich das gekauft.
 
 ## Deshalb/Trotzdem + verb
 
-1. Jedentag gehe ich ins Kino, trotzdem kaufe ich den Filme
-2. Jedentag gehe ich ins Kino, deshalb weiss ich so viel über Schauspielern.
+1. Jeden Tag gehe ich ins Kino, trotzdem kaufe ich die Filme
+2. Jeden Tag gehe ich ins Kino, deshalb weiß ich so viel über Schauspieler.
 
 ## Denn
 
