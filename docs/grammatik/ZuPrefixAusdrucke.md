@@ -1,5 +1,5 @@
 ---
-id: zu-Präfix_Ausdrücke
+id: ZuPrefixAusdrucke
 title: Zu-Präfix Ausdrücke und ihre Verwendung
 sidebar_label: Zu-Präfix Ausdrücke
 sidebar_position: 35
